@@ -1,3 +1,5 @@
+voltar ao [sumário](README.md)
+
 # Lista de verificação<br />(10 aspetos críticos a ter em conta)
 
 <table>
