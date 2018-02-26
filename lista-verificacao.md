@@ -41,7 +41,7 @@ voltar ao [sumário](README.md)
   <td></td>
  </tr>
  <tr>
-  <td>existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;)?</td>
+  <td>existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;</code>)?</td>
   <td></td>
   <td></td>
   <td></td>
