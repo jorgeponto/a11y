@@ -1,4 +1,4 @@
-você está em: [{{site.github.project_tagline}}](README.md)
+voltar ao [sumário](README.md)
 
 # 2. Títulos e subtítulos
 
