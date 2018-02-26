@@ -17,7 +17,7 @@ você está em: [{{site.github.project_tagline}}](README.md)
   <td></td>
  </tr>
  <tr>
-  <td>b) existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;)?</td>
+  <td>b) existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;</code>)?</td>
   <td></td>
   <td></td>
   <td></td>
