@@ -1,4 +1,4 @@
-## Sumário
+# Sumário
 
 - [Introdução](introducao.md)
 - 10 aspetos críticos a ter em conta:
