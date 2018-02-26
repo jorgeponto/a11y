@@ -1,3 +1,5 @@
+você está em: [{{site.github.project_tagline}}](README.md)
+
 # 1. Menu de navegação principal
 
 O menu de navegação principal é como a porta de entrada de uma casa. Para entrar dentro de casa é preciso alcançar a porta e passar a porta. Se não o conseguirmos fazer, será impossível usufruir da casa. Num sítio Web, podemos muito bem usar a porta como metáfora para representar o menu principal. Se o utilizador não encontrar o menu principal ou não conseguir navegar pelas suas opções e subopções então nunca irá conseguir usufruir da informação ou dos serviços disponíveis nesse sítio.
