@@ -1,5 +1,7 @@
 # Sumário
 
+{{site.github.project_title}}
+
 - [Introdução](introducao.md)
 - 10 aspetos críticos a ter em conta:
   - [Menu de navegação principal](menu.md)
