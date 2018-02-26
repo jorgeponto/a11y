@@ -1,3 +1,5 @@
+voltar ao [sumário](README.md)
+
 # 5. Gráficos e imagens-hiperligadas
 
 <table>
