@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 lang: pt-PT
-site.github.project_title: "a11y - Guia de Acessibilidade Web"
-site.github.project_tagline: "10 aspetos críticos na construção de sítios Web"
+title: a11y - Guia de Acessibilidade Web
+tagline: 10 aspetos críticos na construção de sítios Web
+description: short description... 
+show_downloads: false
