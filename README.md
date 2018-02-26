@@ -1,6 +1,6 @@
 # Sumário
 
-{{site.github.project_title}}
+{{site.github.project_title}} - {{site.github.project_tagline}}
 
 - [Introdução](introducao.md)
 - 10 aspetos críticos a ter em conta:
