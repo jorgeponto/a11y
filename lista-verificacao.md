@@ -1,6 +1,6 @@
 voltar ao [sumário](README.md)
 
-# Lista de verificação<br />(10 aspetos críticos a ter em conta)
+# Lista de verificação<br /><small>(10 aspetos críticos a ter em conta)</small>
 
 <table>
 <caption>10 aspetos críticos - Lista de verificação</caption>
