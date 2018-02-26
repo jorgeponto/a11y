@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 lang: pt-PT
-title: a11y - Guia de Acessibilidade Web
-tagline: 10 aspetos críticos na construção de sítios Web
-description: short description... 
+title: a11y
+description: Guia de Acessibilidade Web - 10 aspetos críticos na construção de sítios Web
 show_downloads: false
