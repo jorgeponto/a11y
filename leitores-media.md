@@ -1,6 +1,6 @@
 voltar ao [sumário](README.md)
 
-# Leitores de vídeo ou áudio
+# 7. Leitores de vídeo ou áudio
 
 <table>
 <caption>Lista de verificação para <strong>leitores de vídeo ou áudio</strong></caption>
