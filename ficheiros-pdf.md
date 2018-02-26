@@ -1,3 +1,4 @@
+voltar ao [sumário](README.md)
 # 10. Ficheiros PDF - <em lang="en">Portable Document Format</em>
 
 <table>
