@@ -1,4 +1,4 @@
-você está em: [{{site.github.project_tagline}}](README.md)
+voltar ao [sumário](README.md)
 
 # Introdução
 
