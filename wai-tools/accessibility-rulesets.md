@@ -15,8 +15,8 @@ Other References (newest):
 References:
 - [Open Ajax Aliance](http://oaa-accessibility.org/)
 - [aXe Rules](https://dequeuniversity.com/rules/worldspace/2.0/)
-- [QuailJS](https://github.com/quailjs/quail/tree/master/src/assessments) and the [QUAIL Test description documentation](https://quail.readthedocs.io/en/latest/
-eGovMon http://wiki.egovmon.no/wiki/Category:Part_A)
+- [QuailJS](https://github.com/quailjs/quail/tree/master/src/assessments) and the [QUAIL Test description documentation](https://quail.readthedocs.io/en/latest/)
+- [eGovMon](http://wiki.egovmon.no/wiki/Category:Part_A)
 - [RGAA](http://disic.github.io/rgaa_referentiel_en/RGAA3.0_Criteria_English_version_v1.html)
 - [Code Sniffer tests](http://squizlabs.github.io/HTML_CodeSniffer/Standards/WCAG2/)
 - [Google Chrome audit rules](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules)
