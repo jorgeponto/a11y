@@ -2,6 +2,8 @@ voltar ao [sumário](README.md)
 
 # Introdução
 
+Isto é HTML.
+
 No presente guia selecionámos 10 aspetos que se revelaram críticos em verificações periciais efetuadas no passado. Eles são também o reflexo dos aspetos de maior importância no acesso a uma página Web mencionados pelos utilizadores com limitações funcionais. Os 10 aspetos críticos abordados no presente guia podem ser vistos como um ponto de partida para a construção de um sítio Web percetível, operável, compreensível e robusto - princípios detalhadamente explicitados na versão 2.0 das Diretrizes de Acessibilidade para o Conteúdo Web <abbr title="Web Content Accessibility Guidelines" lang="en" xml:lang="en">WCAG</abbr> da <abbr title="Web Accessibility Initiative" lang="en" xml:lang="en">WAI</abbr> do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr>.
 
 O presente documento baseia-se nomeadamente no documento <a href="https://www.w3.org/WAI/eval/preliminary.html"><em lang="en" xml:lang="en">Easy Checks - A First Review of Web Accessibility</em></a>.
@@ -12,3 +14,5 @@ Na abordagem metodológica proposta no documento ‘Easy Checks’, os testes s�
 
 Os '10 Aspetos Críticos de Acessibilidade' resultam da fusão de aspetos críticos identificados em estudos anteriores com Municípios Portugueses aos quais adicionámos 3 verificações constantes do documento 'Easy Checks'. Assim, dos estudos com os 308 Municípios Portugueses foram identificados como críticos: o Menu Principal (A), os Títulos/Subtítulos (B), as Tabelas de Dados (C), os Formulários (D), os Gráficos (E) e os ficheiros PDF (J). Do 'Easy Checks' adicionou-se a verificação de Contrastes (F), o Vídeo e o Audio (G), a Estrutura da página (H) que no documento 'Easy Checks' é referenciada por 'Basic Structure Check'. Por último e porque da composição anterior não resulta nenhuma verificação do 4º Princípio das WCAG 2.0, ou seja do Princípio Robusto, adicionou-se a validação de HTML(I). Das 9 verificações propostas no documento 'Easy Checks' a nossa metodologia coincide com 7. Deixa de fora a verificação 'Page Title' e 'Resize Text'. Das 7 verificações coincidentes há 2 a que damos um enfoque de análise diferente: a verificação 'Keyboard Access and Visual Focos' na nossa metodologia concentra a análise no Menu Principal do sítio; a verificação de 'Image text alternatives' é observada na nossa metodologia nas imagens-link e nos gráficos. A falta de legendas nas imagens-link e nos gráficos é crítico para a acessibilidade aos conteúdos por parte de um vasto grupo de utilizadores de tecnologias de apoio.
 --- fim do por tratar ---
+
+*HTML: HyperText Markup language
