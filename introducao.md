@@ -4,7 +4,7 @@ voltar ao [sumário](README.md)
 
 No presente guia selecionámos 10 aspetos que se revelaram críticos em verificações periciais efetuadas no passado. Eles são também o reflexo dos aspetos de maior importância no acesso a uma página Web mencionados pelos utilizadores com limitações funcionais. Os 10 aspetos críticos abordados no presente guia podem ser vistos como um ponto de partida para a construção de um sítio Web percetível, operável, compreensível e robusto - princípios detalhadamente explicitados na versão 2.0 das Diretrizes de Acessibilidade para o Conteúdo Web (WCAG) da WAI do W3C.
 
-O presente documento baseia-se nomeadamente no documento [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/eval/preliminary.html lang="en" xml:lang="en").
+O presente documento baseia-se nomeadamente no documento [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/eval/preliminary.html).
 
 --- por tratar ---
 
