@@ -41,6 +41,6 @@ Things like:
 - accessibility awards related to the entity’s web/app
 - other kind of evidences of good practices related w/ the web/app in concrete
 
-## V. Claim proccess
+## VI. Claim proccess
 
 - claim process - in the case of PT the process is based on the form of non-discrimination law
