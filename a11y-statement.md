@@ -31,14 +31,17 @@ Last update: [date]
 
 ## III.	 Non conformance parts
 
-[functional elements that are known not to be accessible (things like “our PDF files are note all PDF/UA conforms)]
+[functional elements that are known not to be accessible (statements as “our PDF files are note all PDF/UA conforms")]
  
 ## IV.	Contact and feedback
 
 - email to ask info and to give info to the PSB about inaccessible parts
+
+## V. Claim proccess
+
 - claim proccess - based on the form of non-discrimination law
 
-## V. Other issues that MS consider useful
+## VI. Other issues that MS consider useful
 
 Things like:
 - a conformity label attributed by a national entity
