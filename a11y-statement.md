@@ -4,7 +4,7 @@ layout: post
 ---
 # Accessibility Statement
 
-Last update: [date]
+Website Home URL or App name and version<br>Last update: [date]
 
 ## I. Conformity summary
 
