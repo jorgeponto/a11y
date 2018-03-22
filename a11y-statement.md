@@ -22,8 +22,8 @@
 
 ## II. Sample and tests
 
-- Sample used to automatic evaluation: [nr. of pages] | [link to the sample's list of pages](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962) | [Test’s list](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)
-- Sample used to manual evaluation: [nr. of pages] | [link to the sample's list of pages](#) | [Test's list](https://jorgeponto.github.io/a11y/lista-verificacao.html)
+- Sample used to automatic evaluation: [nr. of pages] - [link to the sample's list of pages](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962) - [Test’s list](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)
+- Sample used to manual evaluation: [nr. of pages] - [link to the sample's list of pages](#) - [Test's list](https://jorgeponto.github.io/a11y/lista-verificacao.html)
 
 ## III.	 Non conformance parts
 
