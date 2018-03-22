@@ -8,7 +8,7 @@ Last update: [date]
 
 ## I. Conformity summary
 
-**Automatic evaluation (identify the tool(s) used):** 
+**Automatic evaluation (identify the tool(s) used) and the respective output:** 
 
 - AccessMonitor score (1-10); [conformity level (50% A; 40% AA; 30% AAA)](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)
 - other tools ...
