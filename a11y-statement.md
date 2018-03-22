@@ -33,14 +33,14 @@
 
 - email to ask info and to give info to the PSB about inaccessible parts
 
-## V. Claim proccess
-
-- claim process - in the case of PT the process is based on the form of non-discrimination law
-
-## VI. Other issues that MS consider useful
+## V. Other issues that MS consider useful
 
 Things like:
 - a conformity label attributed by a national entity
 - studies produced by, for example, the academy that have the entity’s web/app as a sample
 - accessibility awards related to the entity’s web/app
 - other kind of evidences of good practices related w/ the web/app in concrete
+
+## V. Claim proccess
+
+- claim process - in the case of PT the process is based on the form of non-discrimination law
