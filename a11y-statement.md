@@ -39,7 +39,7 @@ Last update: [date]
 
 ## V. Claim proccess
 
-- claim proccess - based on the form of non-discrimination law
+- claim proccess - in the case of PT the proccess is based on the form of non-discrimination law
 
 ## VI. Other issues that MS consider useful
 
