@@ -1,7 +1,3 @@
----
-title: Accessibility Statement
-layout: post
----
 # Accessibility Statement
 
 [Website Home URL] **or** [App name and version]<br>Last update: [date]
