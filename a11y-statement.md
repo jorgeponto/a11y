@@ -1,6 +1,6 @@
 # Accessibility Statement
 
-[Website Home URL] **or** [App name and version]<br>Last update: [date]
+[Website Home URL] **or** [App name and version]<br>[PSB Owner]<br>Last update: [date]
 
 ## I. Conformity summary
 
