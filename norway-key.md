@@ -31,3 +31,6 @@ voltar ao [sumário](README.md).
 </tr>
 </tbody>
 </table>
+<!-- fim da tabela-->
+
+source: [Indicators for Universal Design of Web Solutions](https://uu.difi.no/om-oss/english/indicators-universal-design-web-solutions)</p>
