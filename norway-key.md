@@ -1,5 +1,5 @@
 ---
-Title: Como funciona na Noruega?
+
 ---
 voltar ao [sumário](README.md).
 
