@@ -1,3 +1,5 @@
+voltar ao [sumário](README.md)
+
 <table>
 <caption>The 16 Key Indicators of the Norway's Web Accessibility Evaluation Method</caption>
 <thead>
