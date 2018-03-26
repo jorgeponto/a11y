@@ -15,7 +15,3 @@
   - [Gramática (x)HTML](dtd.md)
   - [Ficheiros PDF](ficheiros-pdf.md)
 - [Lista de verificação (10 aspetos críticos a ter em conta)](lista-verificacao.md)
-
-# Outras ligações
-
-- [Noruega](norway-key.md)
