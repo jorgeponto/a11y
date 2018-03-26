@@ -3,7 +3,7 @@
 ---
 voltar ao [sumário](README.md).
 
-# Lista de indicadores do método de avaliação norueguês
+# Os 16 elementos-chave do método de avaliação da acessibilidade Web Norueguês
 
 <table>
 <caption>The 16 Key Indicators of the Norway's Web Accessibility Evaluation Method</caption>
