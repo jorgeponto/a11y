@@ -6,7 +6,7 @@
 
 **Automatic evaluation (identify the tool(s) used) and the respective output:** 
 
-- Tool: [AccessMonitor] - Score (1-10): [9.4] - Sample: [86]pages - pass: [56% AAA; 21% AA; 7% A] - More data: [[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)] - Last update: [27/03/2018].
+- Last update: [27/03/2018] - Tool: [AccessMonitor] - Score (1-10): [9.4] - Sample: [86]pages - pass: [56% AAA; 21% AA; 7% A] - More data: [[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)].
 - other tools ...
 
 **Manual evaluation made by experts:**
