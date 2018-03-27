@@ -1,10 +1,10 @@
 ## Table A.1: Web Pages - relationship between the present document and the essential requirements of Directive 2016/2102/EU
 
-No.| Clause
----|-------
-1| 5.2 Activation of accessibility features ✓ ✓ ✓ ✓ C Where ICT has documented accessibility features C.5.2
-2| 5.3 Biometrics ✓ C Where ICT uses biological characteristics C.5.3
-3| 5.4 Preservation of accessibility information during conversion ✓ ✓ ✓ C Where ICT converts information or communication C.5.4
+No.| Clause|P|O|U|R
+---|-------|-|-|-|-
+1| 5.2 Activation of accessibility features|✓|✓|✓|✓|C Where ICT has documented accessibility features C.5.2
+2| 5.3 Biometrics| |✓| | |C Where ICT uses biological characteristics C.5.3
+3| 5.4 Preservation of accessibility information during conversion|✓| |✓|✓|C Where ICT converts information or communication C.5.4
 4| 5.5.1 Means of operation ✓ C Where ICT has operable parts C.5.5.1
 5| 5.5.2 Operable parts discernibility ✓ ✓ C Where ICT has operable parts C.5.5.2
 6| 5.6.1 Tactile or auditory status ✓ ✓ C Where ICT has a locking or toggle control C.5.6.1
