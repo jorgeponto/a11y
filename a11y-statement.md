@@ -6,7 +6,7 @@
 
 **Automatic evaluation (identify the tool(s) used) and the respective output:** 
 
-- AccessMonitor score (1-10); [conformity level (50% A; 40% AA; 30% AAA)](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)
+- Tool: [AccessMonitor] - score (1-10): [9.6] - sample: [87]pages - pass: [80% AAA; 7% AA; 0% A] - more data: [report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962 title="AccessMonitor Report") - Last update: [27/03/2018].
 - other tools ...
 
 **Manual evaluation made by experts:**
