@@ -5,10 +5,10 @@ No.| Clause|P|O|U|R
 1| 5.2 Activation of accessibility features|✓|✓|✓|✓|C Where ICT has documented accessibility features C.5.2
 2| 5.3 Biometrics| |✓| | |C Where ICT uses biological characteristics C.5.3
 3| 5.4 Preservation of accessibility information during conversion|✓| |✓|✓|C Where ICT converts information or communication C.5.4
-4| 5.5.1 Means of operation ✓ C Where ICT has operable parts C.5.5.1
-5| 5.5.2 Operable parts discernibility ✓ ✓ C Where ICT has operable parts C.5.5.2
-6| 5.6.1 Tactile or auditory status ✓ ✓ C Where ICT has a locking or toggle control C.5.6.1
-7| 5.6.2 Visual status ✓ ✓ C Where ICT has a locking or toggle control C.5.6.2 
+4| 5.5.1 Means of operation| |✓| | |C Where ICT has operable parts C.5.5.1
+5| 5.5.2 Operable parts discernibility|✓|✓| | |C Where ICT has operable parts C.5.5.2
+6| 5.6.1 Tactile or auditory status|✓|✓| | |C Where ICT has a locking or toggle control C.5.6.1
+7| 5.6.2 Visual status|✓|✓| | |C Where ICT has a locking or toggle control C.5.6.2 
 8| 5.7 Key repeat ✓ C Where ICT has a key repeat that cannot be turned off function C.5.7
 9| 5.8 Double-strike key acceptance ✓ C Where ICT has a keyboard or keypad C.5.8
 10| 5.9 Simultaneous user actions ✓ C Where ICT uses simultaneous user actions for its operation C.5.9 
