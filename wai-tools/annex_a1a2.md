@@ -32,7 +32,7 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 28| 9.2.3 Captions (pre-recorded)|✓| | | |U| |C.9.2.3
 29| 9.2.4 Audio description or media alternative (pre-recorded)|✓| | | |U| |C.9.2.4
 30| 9.2.5 Captions (live)|✓| | | |U| |C.9.2.5
-31| 9.2.6 Audio description (pre- recorded)|✓| | | |U| |C.9.2.6
+31| 9.2.6 Audio description (pre-recorded)|✓| | | |U| |C.9.2.6
 32| 9.2.7 Info and relationships|✓| | | |U| |C.9.2.7 
 33| 9.2.8 Meaningful sequence|✓| | | |U| |C.9.2.8 
 34| 9.2.9 Sensory characteristics|✓| | | |U| |C.9.2.9 
@@ -91,75 +91,75 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 
 ## Table A.2: Mobile Applications - relationship between the present document and the essential requirements of Directive 2016/2102/EU
 
-No.| Clause
----|-------
-1| 5.2 Activation of accessibility features ✓ ✓ ✓ ✓ C Where features ICT has documented accessibility C.5.2
-2| 5.3 Biometrics ✓ C Where ICT uses biological characteristics C.5.3
-3| 5.4 Preservation of accessibility information during conversion ✓ ✓ ✓ C Where ICT converts information or communication C.5.4
-4| 5.5.2 Operable parts discernibility ✓ ✓ C Where ICT has operable parts C.5.5.2
-5| 5.6.1 Tactile or auditory status ✓ ✓ C Where control ETSI ICT has a locking or toggle C.5.6.1
-6| 5.6.2 Visual status ✓ ✓ C Where control ICT has a locking or toggle C.5.6.2
-7| 5.7 Key repeat ✓ C Where ICT has a key repeat that cannot be turned off function C.5.7
-8| 5.8 Double-strike key acceptance ✓ C Where ICT has a keyboard or keypad C.5.8
-9| 5.9 Simultaneous user actions ✓ C Where ICT uses simultaneous user actions for its operation C.5.9
-10| 6.1 Audio bandwidth for speech ✓ C Where ICT provides two-way voice communication C.6.1
-11| 6.2.1 RTT provision ✓ C Where ICT supports two-way voice communication C.6.2.1
-12| 6.2.2 Display of Real-time Text ✓ C Where ICT provides two-way voice communication C.6.2.2
-13| 6.2.3 Interoperability ✓ C Where ICT provides two-way voice communication C.6.2.3
+No.| Clause|P|O|U|R|U/C|Condition|Clause
+---|-------|-|-|-|-|---|---------|------
+1| 5.2 Activation of accessibility features|✓|✓|✓|✓|C|Where features ICT has documented accessibility| C.5.2
+2| 5.3 Biometrics| ✓ |C| Where ICT uses biological characteristics| C.5.3
+3| 5.4 Preservation of accessibility information during conversion| ✓ ✓ ✓ |C| Where ICT converts information or communication| C.5.4
+4| 5.5.2 Operable parts discernibility| ✓ ✓ |C| Where ICT has operable parts| C.5.5.2
+5| 5.6.1 Tactile or auditory status| ✓ ✓ |C| Where control ETSI ICT has a locking or toggle| C.5.6.1
+6| 5.6.2 Visual status| ✓ ✓ |C |Where control ICT has a locking or toggle| C.5.6.2
+7| 5.7 Key repeat| ✓ |C| Where ICT has a key repeat that cannot be turned off function| C.5.7
+8| 5.8 Double-strike key acceptance| ✓ |C| Where ICT has a keyboard or keypad| C.5.8
+9| 5.9 Simultaneous user actions| ✓ |C| Where ICT uses simultaneous user actions for its operation| C.5.9
+10| 6.1 Audio bandwidth for speech| ✓| C| Where ICT provides two-way voice communication| C.6.1
+11| 6.2.1 RTT provision| ✓ |C| Where ICT supports two-way voice communication| C.6.2.1
+12| 6.2.2 Display of Real-time Text| ✓ |C| Where ICT provides two-way voice communication| C.6.2.2
+13| 6.2.3 Interoperability| ✓ |C| Where ICT provides two-way voice communication| C.6.2.3
 14| 6.2.4 Real-time text responsiveness ✓ C Where ICT provides two-way voice communication C.6.2.4
-15| 6.3 Caller ID ✓ ✓ ✓ ✓ C Where ICT provides two-way voice communication C.6.3
-16| 6.5.2 Resolution item a) ✓ ✓ C Where ICT provides two-way voice communication C.6.5.2
-17| 6.5.3 Frame rate item a) ✓ ✓ C Where ICT provides two-way voice communication C.6.5.3
-18| 7.1.1 Captioning playback ✓ C Where ICT has video capabilities C.7.1.1
-19| 7.1.2 Captioning synchronization ✓ C Where ICT has video capabilities C.7.1.2
-20| 7.1.3 Preservation of captioning ✓ C Where ICT has video capabilities C.7.1.3
-21| 7.2.1 Audio description playback ✓ C Where ICT has video capabilities C.7.2.1
-22| 7.2.2 Audio description synchronization ✓ C Where ICT has video capabilities C.7.2.2
-23| 7.2.3 Preservation of audio description ✓ C Where ICT has video capabilities C.7.2.3
-24| 7.3 User controls for captions and audio description ✓ ✓ C Where ICT has video capabilities C.7.3
-25| 11.2.1.1 Non-text content (open functionality) ✓ U C.11.2.1.1
-26| 11.2.2.1 Audio-only and video- 26 only (pre-recorded - open functionality) ETSI ✓ U C.11.2.2.1
-27| 11.2.3 Captions (pre-recorded) ✓ U C.11.2.3
-28| 11.2.4.1 Audio description or media alternative (pre-recorded - open functionality) ✓ U C.11.2.4.1
-29| 11.2.5 Captions (live) ✓ U C.11.2.5
-30| 11.2.6 Audio description (pre- recorded) ✓ U C.11.2.6
-31| 11.2.7.1 Info and relationships (open functionality) ✓ U C.11.2.7.1
-32| 11.2.8.1 Meaningful sequence (open functionality) ✓ U C.11.2.8.1
-33| 11.2.9 Sensory characteristics ✓ U C.11.2.9 
-34| 11.2.10 Use of colour ✓ U C.11.2.10 
-35| 11.2.11 Audio control ✓ U C.11.2.11 
-36| 11.2.12 Contrast (minimum) ✓ U C.11.2.12
-37| 11.2.13.1 Resize text (open functionality) ✓ U C.11.2.13.1
-38| 11.2.14.1 Images of text (open functionality) ✓ U C.11.2.14.1
-39| 11.2.15.1 Keyboard (open functionality) ✓ U C.11.2.15.1
-40| 11.2.16 No keyboard trap ✓ U C.11.2.16 
-41| 11.2.17 Timing adjustable ✓ U C.11.2.17 
-42| 11.2.18 Pause, stop, hide ✓ U C.11.2.18
-43| 11.2.19 Three flashes or below threshold ✓ U C.11.2.19
-44| 11.2.22 Focus order ✓ U C.11.2.22
-45| 11.2.23 context) Link purpose (in ✓ U C.11.2.23
-46| 11.2.25 Headings and labels ✓ U C.11.2.25 
-47| 11.2.26 Focus visible ✓ U C.11.2.26
-48| 11.2.27.1 Language of software (open functionality) ✓ U C.11.2.27.1
-49| 11.2.29 On focus ✓ U C.11.2.29 
-50| 11.2.30 On input ✓ U C.11.2.30
-51| 11.2.33.1 Error identification (open functionality) ✓ U C.11.2.33.1
-52| 11.2.34 Labels or instructions ✓ U C.11.2.34 
-53| 11.2.35 Error suggestion ✓ U C.11.2.35
-54| 11.2.36 Error prevention (legal, financial, data) ✓ U C.11.2.36
-55| 11.2.37.1 Parsing (open functionality) ✓ U C.11.2.37.1
-56| 11.2.38.1 Name, role, value (open functionality) ✓ U C.11.2.38.1
-57| 11.2.40.1 Reflow (open functionality) C.11.2.40.1
-58| 11.2.40.2 Reflow (closed functionality) ✓ U ✓ U C.11.2.40.2
-59| 11.2.41 Text spacing ✓ ✓ U C.11.2.41
-60| 11.2.42 focus Content on hover or ✓ ✓ U C.11.2.42
-61| 11.2.43.1 Character key shortcuts (open functionality) ✓ U C.11.2.43.1
-62| 11.2.43.2 Character key shortcuts (closed functionality) ✓ U C.11.2.43.2
-63| 11.2.44.1 Label in name (open functionality) ✓ U C.11.2.44.1
-64| 11.2.45 Pointer gestures ✓ U C.11.2.45 
-65| 11.2.46 Pointer cancellation ✓ U C.11.2.46 
-66| 11.2.47 Motion actuation ✓ U C.11.2.47 
-67| 11.2.48 Orientation ✓ U C.11.2.48
+15| 6.3 Caller ID|✓|✓|✓|✓|C|Where ICT provides two-way voice communication| C.6.3
+16| 6.5.2 Resolution item a)| ✓ ✓ |C| Where ICT provides two-way voice communication| C.6.5.2
+17| 6.5.3 Frame rate item a)| ✓ ✓ |C| Where ICT provides two-way voice communication| C.6.5.3
+18| 7.1.1 Captioning playback| ✓ |C| Where ICT has video capabilities| C.7.1.1
+19| 7.1.2 Captioning synchronization |✓ |C |Where ICT has video capabilities| C.7.1.2
+20| 7.1.3 Preservation of captioning| ✓ |C| Where ICT has video capabilities| C.7.1.3
+21| 7.2.1 Audio description playback| ✓ |C| Where ICT has video capabilities| C.7.2.1
+22| 7.2.2 Audio description synchronization| ✓ |C| Where ICT has video capabilities| C.7.2.2
+23| 7.2.3 Preservation of audio description| ✓ |C| Where ICT has video capabilities| C.7.2.3
+24| 7.3 User controls for captions and audio description| ✓ ✓ |C| Where ICT has video capabilities| C.7.3
+25| 11.2.1.1 Non-text content (open functionality) |✓| U | |C.11.2.1.1
+26| 11.2.2.1 Audio-only and video- 26 only (pre-recorded - open functionality) ETSI| ✓ |U | |C.11.2.2.1
+27| 11.2.3 Captions (pre-recorded) |✓| |U| |C.11.2.3
+28| 11.2.4.1 Audio description or media alternative (pre-recorded - open functionality) |✓|U| | C.11.2.4.1
+29| 11.2.5 Captions (live) |✓| U| | C.11.2.5
+30| 11.2.6 Audio description (pre- recorded) |✓| U| | C.11.2.6
+31| 11.2.7.1 Info and relationships (open functionality) |✓| U| | C.11.2.7.1
+32| 11.2.8.1 Meaningful sequence (open functionality) |✓| U| |C.11.2.8.1
+33| 11.2.9 Sensory characteristics |✓| U| |C.11.2.9 
+34| 11.2.10 Use of colour |✓| U| |C.11.2.10 
+35| 11.2.11 Audio control |✓| U| |C.11.2.11 
+36| 11.2.12 Contrast (minimum) |✓| U| |C.11.2.12
+37| 11.2.13.1 Resize text (open functionality) |✓| U| |C.11.2.13.1
+38| 11.2.14.1 Images of text (open functionality) |✓| U| |C.11.2.14.1
+39| 11.2.15.1 Keyboard (open functionality) |✓| U| |C.11.2.15.1
+40| 11.2.16 No keyboard trap |✓| U| |C.11.2.16 
+41| 11.2.17 Timing adjustable |✓| U| |C.11.2.17 
+42| 11.2.18 Pause, stop, hide |✓| U| |C.11.2.18
+43| 11.2.19 Three flashes or below threshold |✓| U| |C.11.2.19
+44| 11.2.22 Focus order |✓| U| |C.11.2.22
+45| 11.2.23 Link purpose (in context) |✓| U| |C.11.2.23
+46| 11.2.25 Headings and labels |✓| U| |C.11.2.25 
+47| 11.2.26 Focus visible |✓| U| |C.11.2.26
+48| 11.2.27.1 Language of software (open functionality) |✓| U| |C.11.2.27.1
+49| 11.2.29 On focus |✓| U| |C.11.2.29 
+50| 11.2.30 On input |✓| U| |C.11.2.30
+51| 11.2.33.1 Error identification (open functionality) |✓| U| |C.11.2.33.1
+52| 11.2.34 Labels or instructions |✓| U| |C.11.2.34 
+53| 11.2.35 Error suggestion |✓| U| |C.11.2.35
+54| 11.2.36 Error prevention (legal, financial, data) |✓| U| |C.11.2.36
+55| 11.2.37.1 Parsing (open functionality) |✓| U| |C.11.2.37.1
+56| 11.2.38.1 Name, role, value (open functionality) |✓| U| |C.11.2.38.1
+57| 11.2.40.1 Reflow (open functionality)| ✓|U| |C.11.2.40.1
+58| 11.2.40.2 Reflow (closed functionality) |✓| U| | C.11.2.40.2
+59| 11.2.41 Text spacing |✓ ✓| U| |C.11.2.41
+60| 11.2.42 Content on hover or focus|✓ ✓| U| |C.11.2.42
+61| 11.2.43.1 Character key shortcuts (open functionality)| ✓ |U| |C.11.2.43.1
+62| 11.2.43.2 Character key shortcuts (closed functionality)| ✓| U| |C.11.2.43.2
+63| 11.2.44.1 Label in name (open functionality)| ✓| U| | C.11.2.44.1
+64| 11.2.45 Pointer gestures |✓| U| | C.11.2.45 
+65| 11.2.46 Pointer cancellation |✓| U| |C.11.2.46 
+66| 11.2.47 Motion actuation |✓| U| | C.11.2.47 
+67| 11.2.48 Orientation |✓| U| | C.11.2.48
 68| 11.3.2.3 services Use of accessibility ✓ ✓ ✓ ✓ U C.11.3.2.3
 69| 11.3.2.5 Object information ✓ ✓ U C.11.3.2.5
 70| 11.3.2.6 headers Row, column, and ✓ ✓ U C.11.3.2.6
