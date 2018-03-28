@@ -42,7 +42,7 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 38| 9.2.13 Resize text|✓| | | |U| |C.9.2.13 
 39| 9.2.14 Images of text|✓| | | |U| |C.9.2.14 
 40| 9.2.15 Keyboard| |✓| | |U| |C.9.2.15 
-41| 9.2.16 No keyboard trap| |✓| |U| |C.9.2.16 
+41| 9.2.16 No keyboard trap| |✓| | |U| |C.9.2.16 
 42| 9.2.17 Timing adjustable| |✓| |U| |C.9.2.17 
 43| 9.2.18 Pause, stop, hide| |✓| |U| |C.9.2.18
 44| 9.2.19 Three flashes or below threshold| |✓| | |U| |C.9.2.19
