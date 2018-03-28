@@ -30,7 +30,7 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 26| 9.2.1 Non-text content|✓| | | |U| |C.9.2.1
 27| 9.2.2 Audio-only and video-only (pre-recorded)|✓| | | |U| |C.9.2.2
 28| 9.2.3 Captions (pre-recorded)|✓| | | |U| |C.9.2.3
-29| ETSI 9.2.4 Audio description or media alternative (pre-recorded)|✓| | | |U| |C.9.2.4
+29| 9.2.4 Audio description or media alternative (pre-recorded)|✓| | | |U| |C.9.2.4
 30| 9.2.5 Captions (live)|✓| | | |U| |C.9.2.5
 31| 9.2.6 Audio description (pre- recorded)|✓| | | |U| |C.9.2.6
 32| 9.2.7 Info and relationships|✓| | | |U| |C.9.2.7 
