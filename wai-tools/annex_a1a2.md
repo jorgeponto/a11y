@@ -186,3 +186,202 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 91| 12.2.2 Information on accessibility and compatibility features|✓|✓|✓|✓|U| |C.12.2.2
 92| 12.2.3 Effective communication|✓| |✓| |U| |C.12.2.3
 93| 12.2.4 Accessible documentation|✓|✓|✓|✓|U| |C.12.2.4
+
+## Determination of compliance
+
+### C.9 Web
+
+#### C.9.1 General (informative)
+
+Clause 9.1 is informative only and contains no requirements requiring test.
+
+#### C.9.2 Web content requirements
+
+##### C.9.2.1 Non-text content
+
+Type of assessment|Inspection
+------------------|----------
+Pre-conditions    |1. The ICT is a web page.
+Procedure         |1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.1.1 Non-text content [4]. 
+Result            |Pass: Check 1 is true
+                  |Fail: Check 1 is false
+                  
+##### C.9.2.2 Audio-only and video-only (pre-recorded)
+
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.2.1 Audio-only
+and video-only (pre-recorded) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.3 Captions (pre-recorded)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.2.2 Captions
+(Pre-recorded) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+111
+C.9.2.4 Audio description or media alternative (pre-recorded)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.2.3 Audio
+Description or Media Alternative (Pre-recorded) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.5 Captions (live)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.2.4 Captions
+(Live) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.6 Audio description (pre-recorded)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.2.5
+Audio-Description (Pre-recorded) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.7 Info and relationships
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.3.1 Info and
+Relationships [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.8 Meaningful sequence
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.3.2
+Meaningful Sequence [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.9 Sensory characteristics
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.3.3 Sensory
+Characteristics [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.10 Use of colour
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.4.1 Use of
+Colour [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+112
+C.9.2.11 Audio control
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.4.2 Audio
+Control [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.12 Contrast (minimum)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.4.3 Contrast
+(Minimum) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.13 Resize text
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.4.4 Resize text
+[4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.14 Images of text
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.4.5 Images of
+Text [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.15 Keyboard
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.1.1
+Keyboard [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.16 No keyboard trap
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.1.2 No
+Keyboard Trap [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.17 Timing adjustable
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.2.1 Timing
+Adjustable [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+113
+C.9.2.18 Pause, stop, hide
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.2.2 Pause,
+Stop, Hide [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.19 Three flashes or below threshold
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.3.1 Three
+Flashes or Below Threshold [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.20 Bypass blocks
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.1 Bypass
+Blocks [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.21 Page titled
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.2 Page Titled [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.22 Focus Order
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.3 Focus
+Order [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.23 Link purpose (in context)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.4 Link
+Purpose (In Context) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.24 Multiple ways
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.5 Multiple
+Ways [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+114
+C.9.2.25 Headings and labels
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.6 Headings
+and Labels [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.26 Focus visible
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 2.4.7 Focus
+Visible [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.27 Language of page
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.1.1 Language
+of Page [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.28 Language of parts
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.1.2 Language
+of Parts [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.29 On focus
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.2.1
+On Focus [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.30 On input
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.2.2
+On Input [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.31 Consistent navigation
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.2.3 Consistent
+Navigation [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+115
+C.9.2.32 Consistent identification
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.2.4 Consistent
+Identification [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.33 Error identification
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.3.1 Error
+Identification [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.34 Labels or instructions
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.3.2 Labels or
+Instructions [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.35 Error suggestion
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.3.3 Error
+Suggestion [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.36 Error prevention (legal, financial, data)
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 3.3.4 Error
+Prevention (Legal, Financial, Data) [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.37 Parsing
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 4.1.1
+Parsing [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.38 Name, role, value
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.0 Success Criterion 4.1.2 Name,
+Role, Value [4]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+116
+C.9.2.39 Identify common purpose
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 1.3.4 Identify
+common purpose [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.40 Reflow
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 1.4.10 Reflow
+[5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.41 Text spacing
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 1.4.12. Text
+spacing [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.42 Content on hover or focus
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 1.4.13. Content
+on hover or focus [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.43 Character key shortcuts
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.4.11.
+Character key shortcuts [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.44 Label in name
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.4.12. Label in
+name [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false
+Draft EN 301 549 V2.1.1 (2018-02)
+ETSI
+117
+C.9.2.45 Pointer gestures
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.5.1. Pointer
+gestures [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.46 Pointer cancellation
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.5.2. Pointer
+cancellation [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.47 Motion actuation
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.6.1. Motion
+actuation [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.48 Orientation
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 2.6.2.
+Orientation [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.2.49 Status changes
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page does not fail WCAG 2.1 Success Criterion 3.2.6 Status
+changes [5]. Result Pass: Check 1 is true
+Fail: Check 1 is false C.9.3 WCAG 2.0 conformance requirements
+Type of assessment Inspection Pre-conditions 1. The ICT is a web page. Procedure 1. Check that the web page satisfies WCAG 2.0 [4] conformance requirement "1:
+Conformance level" at Level AA. 2. Check that the web page satisfies WCAG 2.0 [4] conformance requirement "2: Full pages". 3. Check that the web page satisfies WCAG 2.0 [4] conformance requirement "3: Complete processes". 4. Check that the web page satisfies WCAG 2.0 [4] conformance requirement "4: Only Accessibility-Supported Ways of Using Technologies". 5. Check that the web page satisfies WCAG 2.0 [4] conformance requirement "5: Non-interference". Result Pass: All checks are true
+Fail: Any check is false
+
+
+
