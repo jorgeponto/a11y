@@ -195,6 +195,41 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 
 Clause 9.1 is informative only and contains no requirements requiring test.
 
+Requirements in clause 9 apply to web pages (as defined in clause 3.1) including:
+- documents that are web pages;
+- documents that are embedded in web pages and that are used in the rendering or that are intended to be rendered together with the web page in which they are embedded;
+- software that is a web page;
+- software that is embedded in web pages and that is used in the rendering or that is intended to be rendered together with the web page in which it is embedded.
+
+Requirements for other documents and software are provided in clauses 10 and 11 respectively.
+
+NOTE 1: When evaluating web sites they are evaluated as individual web pages. Web applications, mobile web applications etc. are covered under the definition of web page which is quite broad and covers all web content types.
+
+The web content requirements in clause 9.2 set out all of the Level A and Level AA Success Criteria from the W3C Web Content Accessibility Guidelines (WCAG 2.1). The web content requirements in clauses 9.2.1 to 9.2.38 set out all of the Level A and Level AA Success Criteria from the W3C Web Content Accessibility Guidelines (WCAG 2.0) [4]. These are followed in clauses 9.2.39 to 9.2.49 by the new provisions added in WCAG 2.1 [5]:
+- Web Pages conforming to WCAG 2.0 Level A and AA also conform to clauses 9.2.1 to 9.2.38 and the conformance requirements of clause 9.3.
+- Web Pages that conform to WCAG 2.1 Level AA conform to all of clause 9.2 and the conformance requirements of clause 9.3.
+- Web Pages conforming to clauses 9.2.1 to 9.2.38 and the conformance requirements of clause 9.3 also conform to WCAG 2.0 Level AA.
+- Web Pages that conform to all of clause 9.2 and the conformance requirements of clause 9.3 conform to WCAG 2.1 Level AA, with the exception of those marked as being "at risk" in WCAG 2.1.
+
+NOTE 2: WCAG 2.0 is identical to ISO/IEC 40500 (2012): "Information technology - W3C Web Content
+
+Accessibility Guidelines (WCAG) 2.0" [4].
+
+The requirements in clause 9.2 are written using the concept of satisfying success criteria (defined in clause 3.1). A web page satisfies a WCAG success criterion when the success criterion does not evaluate to false when applied to the web page. This implies that if the success criterion puts conditions on a specific feature and that specific feature does not occur in the web page, then the web page satisfies the success criterion.
+
+NOTE 3: For example, a web page that does not contain pre-recorded audio content in synchronized media will automatically satisfy WCAG success criterion 1.2.2 (captions - pre-recorded) and, in consequence, will also conform to clause 9.2.3.
+
+NOTE 4: Each of the headings in clause 9.2 includes a mapping, shown in parenthesis, between the requirement
+and the relevant success criteria in WCAG.
+
+In addition to Level AA success criteria, the Web Content Accessibility Guidelines also include success criteria for Level AAA. These are included in Annex D of the present document.
+
+NOTE 5: The body of the present document does not include the Level AAA success criteria, both to avoid
+confusion with the Level A and Level AA based requirements and for harmonisation with other procurement standards. Web authors and procurement accessibility specialists are encouraged to improve accessibility beyond the requirements of the present document and should therefore consider whether any of the WCAG Level AAA success criteria offer suggestions that may be applicable and relevant to their project, as well as potentially beneficial to some users.
+
+NOTE 6: The W3C states that "It is not recommended that Level AAA conformance be required as a general policy
+for entire sites because it is not possible to satisfy all Level AAA Success Criteria for some content".
+
 #### C.9.2 Web content requirements
 
 ##### C.9.2.1 Non-text content
