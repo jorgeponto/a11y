@@ -203,8 +203,7 @@ Type of assessment|Inspection
 ------------------|----------
 Pre-conditions    |1. The ICT is a web page.
 Procedure         |1. Check that the web page does not fail WCAG 2.0 Success Criterion 1.1.1 Non-text content [4]. 
-Result            |Pass: Check 1 is true
-                  |Fail: Check 1 is false
+Result            |Pass: Check 1 is true<br>Fail: Check 1 is false
                   
 ##### C.9.2.2 Audio-only and video-only (pre-recorded)
 
