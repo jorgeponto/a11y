@@ -53,7 +53,7 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 49| 9.2.24 Multiple ways| |✓| | |U| |C.9.2.24 
 50| 9.2.25 Headings and labels| |✓| | |U| |C.9.2.25 
 51| 9.2.26 Focus visible| |✓| | |U| |C.9.2.26 
-52| 9.2.27 Language of page| | |✓| |U| C.9.2.27 
+52| 9.2.27 Language of page| | |✓| |U| |C.9.2.27 
 53| 9.2.28 Language of parts| | |✓| |U| |C.9.2.28 
 54| 9.2.29 On focus| | |✓| |U| |C.9.2.29 
 55| 9.2.30 On input| | |✓| |U| |C.9.2.30 
