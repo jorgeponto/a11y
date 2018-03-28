@@ -69,9 +69,9 @@ No.| Clause|P|O|U|R|U/C|Condition|Clause
 65| 9.2.40 Reflow|✓| | | |U| |C.9.2.40 
 66| 9.2.41 Text spacing|✓|✓| | |U| |C.9.2.41 
 67| 9.2.42 Content on hover or focus|✓|✓| | |U| |C.9.2.42
-68| 9.2.43 Character key shortcuts| |✓| |U| |C.9.2.43 
+68| 9.2.43 Character key shortcuts| |✓| | |U| |C.9.2.43 
 69| 9.2.44 Label in name| |✓| | |U| |C.9.2.44 
-70| 9.2.45 Pointer gestures| |✓| |U| |C.9.2.45 
+70| 9.2.45 Pointer gestures| |✓| | |U| |C.9.2.45 
 71| 9.2.46 Pointer cancellation| |✓| | |U| |C.9.2.46 
 72| 9.2.47 Motion activation| |✓| | |U| |C.9.2.47 
 73| 9.2.48 Orientation| |✓| | |U| |C.9.2.48 
