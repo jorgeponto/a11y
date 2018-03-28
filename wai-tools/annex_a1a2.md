@@ -9,85 +9,85 @@ No.| Clause|P|O|U|R
 5| 5.5.2 Operable parts discernibility|✓|✓| | |C Where ICT has operable parts C.5.5.2
 6| 5.6.1 Tactile or auditory status|✓|✓| | |C Where ICT has a locking or toggle control C.5.6.1
 7| 5.6.2 Visual status|✓|✓| | |C Where ICT has a locking or toggle control C.5.6.2 
-8| 5.7 Key repeat ✓ C Where ICT has a key repeat that cannot be turned off function C.5.7
-9| 5.8 Double-strike key acceptance ✓ C Where ICT has a keyboard or keypad C.5.8
-10| 5.9 Simultaneous user actions ✓ C Where ICT uses simultaneous user actions for its operation C.5.9 
-11| 6.1 Audio bandwidth for speech ✓ C Where ICT provides two-way voice communication C.6.1
-12| 6.2.1 RTT provision ✓ C Where ICT supports two-way voice communication C.6.2.1
-13| 6.2.2 Display of Real-time Text ✓ C Where ICT provides two-way voice communication C.6.2.2
-14| 6.2.3 Interoperability ✓ C Where ICT provides two-way voice communication C.6.2.3
-15| 6.2.4 Real-time text responsiveness ✓ C Where ICT provides two-way voice communication C.6.2.4
-16| 6.3 Caller ID ✓ ✓ ✓ ✓ C Where ICT provides two-way voice communication C.6.3
-17| 6.5.2 Resolution item a) ✓ ✓ C Where ICT provides two-way voice communication C.6.5.2
-18| 6.5.3 Frame rate item a) ✓ ✓ C Where ICT provides two-way voice communication C.6.5.3
-19| 7.1.1 Captioning playback ✓ C Where ICT has video capabilities C.7.1.1
-20| 7.1.2 Captioning synchronization ✓ C Where ICT has video capabilities C.7.1.2
-21| 7.1.3 Preservation of captioning ✓ C Where ICT has video capabilities C.7.1.3
-22| 7.2.1 Audio description playback ✓ C Where ICT has video capabilities C.7.2.1
-23| 7.2.2 Audio description synchronization ✓ C Where ICT has video capabilities C.7.2.2
-24| 7.2.3 Preservation of audio description ✓ C Where ICT has video capabilities C.7.2.3
-25| 7.3 User controls for captions and audio description ✓ ✓ C Where ICT has video capabilities C.7.3
-26| 9.2.1 Non-text content ✓ U C.9.2.1
-27| 9.2.2 Audio-only and video-only (pre-recorded) ✓ U C.9.2.2
-28| 9.2.3 Captions (pre-recorded) ✓ U C.9.2.3
-29| ETSI 9.2.4 Audio description or media alternative (pre- recorded) ✓ U C.9.2.4
-30| 9.2.5 Captions (live) ✓ U C.9.2.5
-31| 9.2.6 Audio description (pre- recorded) ✓ U C.9.2.6
-32| 9.2.7 Info and relationships ✓ U C.9.2.7 
-33| 9.2.8 Meaningful sequence ✓ U C.9.2.8 
-34| 9.2.9 Sensory characteristics ✓ U C.9.2.9 
-35| 9.2.10 Use of colour ✓ U C.9.2.10 
-36| 9.2.11 Audio control ✓ U C.9.2.11 
-37| 9.2.12 Contrast (minimum) ✓ U C.9.2.12 
-38| 9.2.13 Resize text ✓ U C.9.2.13 
-39| 9.2.14 Images of text ✓ U C.9.2.14 
-40| 9.2.15 Keyboard ✓ U C.9.2.15 
-41| 9.2.16 No keyboard trap ✓ U C.9.2.16 
-42| 9.2.17 Timing adjustable ✓ U C.9.2.17 
-43| 9.2.18 Pause, stop, hide ✓ U C.9.2.18
-44| 9.2.19 Three flashes or below threshold ✓ U C.9.2.19
-45| 9.2.20 Bypass blocks ✓ U C.9.2.20 
-46| 9.2.21 Page titled ✓ U C.9.2.21 
-47| 9.2.22 Focus Order ✓ U C.9.2.22 
-48| 9.2.23 Link purpose (in context) ✓ U C.9.2.23 
-49| 9.2.24 Multiple ways ✓ U C.9.2.24 
-50| 9.2.25 Headings and labels ✓ U C.9.2.25 
-51| 9.2.26 Focus visible ✓ U C.9.2.26 
-52| 9.2.27 Language of page ✓ U C.9.2.27 
-53| 9.2.28 Language of parts ✓ U C.9.2.28 
-54| 9.2.29 On focus ✓ U C.9.2.29 
-55| 9.2.30 On input ✓ U C.9.2.30 
-56| 9.2.31 Consistent navigation ✓ U C.9.2.31 
-57| 9.2.32 Consistent identification ✓ U C.9.2.32 
-58| 9.2.33 Error identification ✓ U C.9.2.33 
-59| 9.2.34 Labels or instructions ✓ U C.9.2.34 
-60| 9.2.35 Error suggestion ✓ U C.9.2.35
-61| 9.2.36 Error prevention (legal, financial, data) ✓ U C.9.2.36
-62| 9.2.37 Parsing ✓ U C.9.2.37 
-63| 9.2.38 Name, role, value ✓ U C.9.2.38
-64| 9.2.39 Identify common purpose ETSI C.9.2.39
-65| 9.2.40 Reflow ✓ U C.9.2.40 
-66| 9.2.41 Text spacing ✓ ✓ U C.9.2.41 
-67| 9.2.42 Content on hover or focus ✓ ✓ U ✓ ✓ U C.9.2.42
-68| 9.2.43 Character key shortcuts ✓ U C.9.2.43 
-69| 9.2.44 Label in name ✓ U C.9.2.44 
-70| 9.2.45 Pointer gestures ✓ U C.9.2.45 
-71| 9.2.46 Pointer cancellation ✓ U C.9.2.46 
-72| 9.2.47 Motion activation ✓ U C.9.2.47 
-73| 9.2.48 Orientation ✓ U C.9.2.48 
-74| 9.2.49 Status changes ✓ ✓ ✓ ✓ U C.9.2.49
-75| 11.4.2 No disruption of accessibility features ✓ ✓ ✓ ✓ U C.11.4.2
-76| 11.5 User preferences ✓ ✓ ✓ ✓ U C.11.5 
-77| 11.6.1 Content technology ✓ ✓ ✓ ✓ C Where ICT is an authoring tool C.11.6.1
-78| 11.6.2 Accessible content creation ✓ ✓ ✓ ✓ C Where ICT is an authoring tool C.11.6.2
-79| 11.6.3 Preservation of accessibility information in transformations ✓ ✓ ✓ ✓ C Where ICT is an authoring tool C.11.6.3
-80| 11.6.4 Repair assistance ✓ ✓ ✓ ✓ C Where ICT is an authoring tool C.11.6.4 
-81| 11.6.5 Templates ✓ ✓ ✓ ✓ C Where ICT is an authoring tool C.11.6.5
-82| 12.1.1 Accessibility and compatibility features ✓ ✓ ✓ ✓ U C.12.1.1
-83| 12.1.2 Accessible documentation ✓ ✓ ✓ ✓ U C.12.1.2
-84| 12.2.2 Information on accessibility and compatibility features ✓ ✓ ✓ ✓ U C.12.2.2
-85| 12.2.3 Effective communication ✓ ✓ U C.12.2.3
-86| 12.2.4 Accessible documentation ✓ ✓ ✓ ✓ U C.12.2.4.
+8| 5.7 Key repeat| |✓| | |C Where ICT has a key repeat that cannot be turned off function C.5.7
+9| 5.8 Double-strike key acceptance| |✓| | |C Where ICT has a keyboard or keypad C.5.8
+10| 5.9 Simultaneous user actions| |✓| | |C Where ICT uses simultaneous user actions for its operation C.5.9 
+11| 6.1 Audio bandwidth for speech|✓| | | |C Where ICT provides two-way voice communication C.6.1
+12| 6.2.1 RTT provision|✓| | | |C Where ICT supports two-way voice communication C.6.2.1
+13| 6.2.2 Display of Real-time Text|✓| | | |C Where ICT provides two-way voice communication C.6.2.2
+14| 6.2.3 Interoperability|✓| | | |C Where ICT provides two-way voice communication C.6.2.3
+15| 6.2.4 Real-time text responsiveness|✓| | | |C Where ICT provides two-way voice communication C.6.2.4
+16| 6.3 Caller ID|✓|✓|✓|✓|C Where ICT provides two-way voice communication C.6.3
+17| 6.5.2 Resolution item a)|✓| |✓| |C Where ICT provides two-way voice communication C.6.5.2
+18| 6.5.3 Frame rate item a)|✓| |✓| |C Where ICT provides two-way voice communication C.6.5.3
+19| 7.1.1 Captioning playback|✓| | | |C Where ICT has video capabilities C.7.1.1
+20| 7.1.2 Captioning synchronization|✓| | | |C Where ICT has video capabilities C.7.1.2
+21| 7.1.3 Preservation of captioning|✓| | | |C Where ICT has video capabilities C.7.1.3
+22| 7.2.1 Audio description playback|✓| | | |C Where ICT has video capabilities C.7.2.1
+23| 7.2.2 Audio description synchronization|✓| | | |C Where ICT has video capabilities C.7.2.2
+24| 7.2.3 Preservation of audio description|✓| | | |C Where ICT has video capabilities C.7.2.3
+25| 7.3 User controls for captions and audio description|✓|✓| | |C Where ICT has video capabilities C.7.3
+26| 9.2.1 Non-text content|✓| | | |U C.9.2.1
+27| 9.2.2 Audio-only and video-only (pre-recorded)|✓| | | |U C.9.2.2
+28| 9.2.3 Captions (pre-recorded)|✓| | | |U C.9.2.3
+29| ETSI 9.2.4 Audio description or media alternative (pre-recorded)|✓| | | |U C.9.2.4
+30| 9.2.5 Captions (live)|✓| | | |U C.9.2.5
+31| 9.2.6 Audio description (pre- recorded)|✓| | | |U C.9.2.6
+32| 9.2.7 Info and relationships|✓| | | |U C.9.2.7 
+33| 9.2.8 Meaningful sequence|✓| | | |U C.9.2.8 
+34| 9.2.9 Sensory characteristics|✓| | | |U C.9.2.9 
+35| 9.2.10 Use of colour|✓| | | |U C.9.2.10 
+36| 9.2.11 Audio control|✓| | | |U C.9.2.11 
+37| 9.2.12 Contrast (minimum)|✓| | | |U C.9.2.12 
+38| 9.2.13 Resize text|✓| | | |U C.9.2.13 
+39| 9.2.14 Images of text|✓| | | |U C.9.2.14 
+40| 9.2.15 Keyboard| |✓| | |U C.9.2.15 
+41| 9.2.16 No keyboard trap| |✓| |U C.9.2.16 
+42| 9.2.17 Timing adjustable| |✓| |U C.9.2.17 
+43| 9.2.18 Pause, stop, hide| |✓| |U C.9.2.18
+44| 9.2.19 Three flashes or below threshold| |✓| | |U C.9.2.19
+45| 9.2.20 Bypass blocks| |✓| | |U C.9.2.20 
+46| 9.2.21 Page titled| |✓| | |U C.9.2.21 
+47| 9.2.22 Focus Order| |✓| | |U C.9.2.22 
+48| 9.2.23 Link purpose (in context)| |✓| | |U C.9.2.23 
+49| 9.2.24 Multiple ways| |✓| | |U C.9.2.24 
+50| 9.2.25 Headings and labels| |✓| | |U C.9.2.25 
+51| 9.2.26 Focus visible| |✓| | |U C.9.2.26 
+52| 9.2.27 Language of page| | |✓| |U C.9.2.27 
+53| 9.2.28 Language of parts| | |✓| |U C.9.2.28 
+54| 9.2.29 On focus| | |✓| |U C.9.2.29 
+55| 9.2.30 On input| | |✓| |U C.9.2.30 
+56| 9.2.31 Consistent navigation| | |✓| |U C.9.2.31 
+57| 9.2.32 Consistent identification| | |✓| |U C.9.2.32 
+58| 9.2.33 Error identification| | |✓| |U C.9.2.33 
+59| 9.2.34 Labels or instructions| | |✓| |U C.9.2.34 
+60| 9.2.35 Error suggestion| | |✓| |U C.9.2.35
+61| 9.2.36 Error prevention (legal, financial, data)| | |✓| |U C.9.2.36
+62| 9.2.37 Parsing| | | |✓|U C.9.2.37 
+63| 9.2.38 Name, role, value| | | |✓|U C.9.2.38
+64| 9.2.39 Identify common purpose|✓|✓| | |C.9.2.39
+65| 9.2.40 Reflow|✓| | | |U C.9.2.40 
+66| 9.2.41 Text spacing|✓|✓| | |U C.9.2.41 
+67| 9.2.42 Content on hover or focus|✓|✓| | |U C.9.2.42
+68| 9.2.43 Character key shortcuts| |✓| |U C.9.2.43 
+69| 9.2.44 Label in name| |✓| | |U C.9.2.44 
+70| 9.2.45 Pointer gestures| |✓| |U C.9.2.45 
+71| 9.2.46 Pointer cancellation| |✓| | |U C.9.2.46 
+72| 9.2.47 Motion activation| |✓| | |U C.9.2.47 
+73| 9.2.48 Orientation| |✓| | |U C.9.2.48 
+74| 9.2.49 Status changes|✓|✓|✓|✓|U C.9.2.49
+75| 11.4.2 No disruption of accessibility features|✓|✓|✓|✓|U C.11.4.2
+76| 11.5 User preferences|✓|✓|✓|✓|U C.11.5 
+77| 11.6.1 Content technology|✓|✓|✓|✓|C Where ICT is an authoring tool C.11.6.1
+78| 11.6.2 Accessible content creation|✓|✓|✓|✓|C Where ICT is an authoring tool C.11.6.2
+79| 11.6.3 Preservation of accessibility information in transformations|✓|✓|✓|✓|C Where ICT is an authoring tool C.11.6.3
+80| 11.6.4 Repair assistance|✓|✓|✓|✓|C Where ICT is an authoring tool C.11.6.4 
+81| 11.6.5 Templates|✓|✓|✓|✓|C Where ICT is an authoring tool C.11.6.5
+82| 12.1.1 Accessibility and compatibility features|✓|✓|✓|✓|U C.12.1.1
+83| 12.1.2 Accessible documentation|✓|✓|✓|✓|U C.12.1.2
+84| 12.2.2 Information on accessibility and compatibility features|✓|✓|✓|✓|U C.12.2.2
+85| 12.2.3 Effective communication|✓| |✓| |U C.12.2.3
+86| 12.2.4 Accessible documentation|✓|✓|✓|✓|U C.12.2.4.
 
 ## Table A.2: Mobile Applications - relationship between the present document and the essential requirements of Directive 2016/2102/EU
 
