@@ -6,7 +6,7 @@
 
 **Automatic evaluation (identify the tool(s) used) and the respective output:** 
 
-- <span title="Last update">(27/03/2018)</span>. <span title="tool">AccessMonitor</span> - Score (1-10): <span title="score">9.4</span> - Sample: <span title="sample">86 pages</span> - pass: <span title="pass">56% AAA; 21% AA; 7% A</span> - More data: <span title="More data">[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</span>.
+- <span title="Last update" id="aen1_update">(27/03/2018</span>). <span title="Tool" id="aen1_tool">AccessMonitor</span> - Score (1-10): <span title="Score" id="aen1_score">9.4</span> - Sample: <span title="sample" id="aen1_sample">86</span> pages - pass: <span title="pass" id="aen1_pass">56% AAA; 21% AA; 7% A</span> - More data: <span title="More data" id="aen1_more">[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</span>.
 - other tools ...
 
 **Manual evaluation made by experts:**
