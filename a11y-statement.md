@@ -8,6 +8,32 @@ This accessibility statement applies to <span id="statement-scope">the entire we
 
 This website is <span id="status-compliance">partially compliant</span> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis, due to the non-compliance(s) listed below.
 
+**Non-Accessible content** (section only appears if I. needs a non-compliance list)
+
+Describe which section(s)/content/function(s) of the website/mobile application are not yet accessible:
+
+<ul>
+ <li id="status-no-compliant-which-1">...</li>
+ <li id="status-no-compliant-which-2">...</li>
+ <li id="status-no-compliant-which-n">...</li>
+</ul>
+
+Explain why the content indicated above is not accessible: (for example, the content is outside of Decreto-Lei n.º xx/2018, de xx de xx,  or the content is in scope but momentarily not accessible due to disproportionate burden within the meaning of Article 5 of Directive (EU) 2016/2102, for instance)
+
+<ul>
+ <li id="status-no-compliant-why-1">...</li>
+ <li id="status-no-compliant-why-2">...</li>
+ <li id="status-no-compliant-why-n">...</li>
+</ul>
+
+Indicate accessible alternatives, where appropriate:
+
+<ul>
+ <li id="status-no-compliant-alt-1">...</li>
+ <li id="status-no-compliant-alt-2">...</li>
+ <li id="status-no-compliant-alt-n">...</li>
+</ul>
+
 ## II. Preparation of this Accessibility Statement
 
 This statement was prepared on <span id="statement-prepared">01 de janeiro de 2018</span> and was last reviewed on <span id="statement-lastreview">12 de setembro de 2018</span>.
@@ -28,37 +54,11 @@ This statement was prepared on <span id="statement-prepared">01 de janeiro de 20
 - ...
 - [Task description; user target; [usability studyn](#)]
 
-### Sample and tests
+**Sample and tests**
 
 - Sample used to automatic evaluation: [nr. of pages] - [link to the sample's list of pages](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962) - [Test’s list](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)
 - Sample used to manual evaluation: [nr. of pages] - [link to the sample's list of pages](#) - [Test's list](https://jorgeponto.github.io/a11y/lista-verificacao.html)
 
-III. NON-ACCESSIBLE CONTENT (section only appears if I. needs a non-compliance list)
-
-Describe which section(s)/content/function(s) of the website/mobile application are not yet accessible:
-
-<ul>
- <li id="status-no-compliant-which-1">...</li>
- <li id="status-no-compliant-which-2">...</li>
- <li id="status-no-compliant-which-n>(...)</li>
-</ul>
-
-Explain why the content indicated above is not accessible: (for example, the content is outside of Decreto-Lei n.º xx/2018, de xx de xx,  or the content is in scope but momentarily not accessible due to disproportionate burden within the meaning of Article 5 of Directive (EU) 2016/2102, for instance)
-
-<ul>
- <li id="status-no-compliant-why-1">...</li>
- <li id="status-no-compliant-why-2">...</li>
- <li id="status-no-compliant-why-n>(...)</li>
-</ul>
-
-Indicate accessible alternatives, where appropriate:
-
-<ul>
- <li id="status-no-compliant-alt-1">...</li>
- <li id="status-no-compliant-alt-2">...</li>
- <li id="status-no-compliant-alt-n>(...)</li>
-</ul>
- 
 ## IV.	Contact and feedback
 
 - email to ask info and to give info to the PSB about inaccessible parts
