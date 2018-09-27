@@ -1,10 +1,10 @@
 # Accessibility Statement 
 
----
+***
 
 (<strong>Note:</strong> this is an example of the <em>Accessibility Statement</em> of the <mark>Unidade ACESSO's website</mark> which belongs to the Portuguese Public Agency: <mark>FCT - Fundação para a Ciência, Tecnologia e Ensino Superior</mark>)
 
----
+***
 
 <span id="site-owner"><mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark></span> is committed to making its website <a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name"><mark>Unidade ACESSO da FCT</mark></span></a> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
