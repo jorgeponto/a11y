@@ -1,6 +1,6 @@
-# Accessibility Statement (DRAFT DEMO to a website)
+# Accessibility Statement (an example of Unidade ACESSO's website that belongs to the Public Body FCT - Fundação para a Ciência, Tecnologia e Ensino Superior)
 
-<span id="site-owner">FCT - Fundação para a Ciência e a Tecnologia, IP</span> is committed to making its website <a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name">Unidade ACESSO da FCT</span></a> accessible, in accordance with  Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis.
+<span id="site-owner"><marquee>FCT - Fundação para a Ciência e a Tecnologia, IP</marquee></span> is committed to making its website <a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name"><marquee>Unidade ACESSO da FCT</marquee></span></a> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
 This accessibility statement applies to <span id="statement-scope">the entire website</span>.
 
