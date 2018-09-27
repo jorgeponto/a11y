@@ -6,13 +6,13 @@
 
 ***
 
-<span id="site-owner"><mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark></span> is committed to making its website <a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name"><mark>Unidade ACESSO da FCT</mark></span></a> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
+<mark><span id="site-owner">FCT - Fundação para a Ciência e a Tecnologia, IP</span></mark> is committed to making its website <mark><a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
-This accessibility statement applies to <span id="statement-scope">the entire website</span>.
+This accessibility statement applies to <mark><span id="statement-scope">the entire website</span></mark>.
 
 ## I. Compliance status
 
-This website is <mark><span id="status-compliance"><select name="status-compliance"><option value="">fully compliant</option><option value="">partially compliant</option><option value="">not compliant</option></select></span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis, due to the non-compliance(s) listed below.
+This website is <mark><span id="status-compliance"><select name="status-compliance"><option value="">fully compliant</option><option value="">partially compliant</option><option value="">not compliant</option></select></span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears when chose b or c).
 
 **Non-Accessible content** (section only appears if I. needs a non-compliance list)
 
