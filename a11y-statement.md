@@ -96,13 +96,11 @@ Did you realize any kind of usability test?
 
 - email to ask info and to give info to the PSB about inaccessible parts
 
-## V. Other issues that MS consider useful
+## V. Certification Label of the Portuguese Administration to the Accessibility and the Usability
 
-Things like:
-- a conformity label attributed by a national entity
-- studies produced by, for example, the academy that have the entity’s web/app as a sample
-- accessibility awards related to the entity’s web/app
-- other kind of evidences of good practices related w/ the web/app in concrete
+![Certification label](http://www.acessibilidade.gov.pt/image/acess.gif)
+
+The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
 ## VI. Claim proccess
 
