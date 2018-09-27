@@ -12,7 +12,7 @@ This accessibility statement applies to <mark><span id="statement-scope">the ent
 
 ## I. Compliance status
 
-This website is <mark><span id="status-compliance"><select name="status-compliance"><option value="">fully compliant</option><option value="">partially compliant</option><option value="">not compliant</option></select></span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears when chose b or c).
+This website is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears when chose b or c).
 
 **Non-Accessible content** (section only appears if I. needs a non-compliance list)
 
