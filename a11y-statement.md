@@ -12,7 +12,7 @@ This accessibility statement applies to <span id="statement-scope">the entire we
 
 ## I. Compliance status
 
-This website is <span id="status-compliance">partially compliant</span> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis, due to the non-compliance(s) listed below.
+This website is <mark><span id="status-compliance"><select name="status-compliance"><option value="">fully compliant</option><option value="">partially compliant</option><option value="">not compliant</option></select></span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis, due to the non-compliance(s) listed below.
 
 **Non-Accessible content** (section only appears if I. needs a non-compliance list)
 
