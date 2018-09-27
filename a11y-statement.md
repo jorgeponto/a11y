@@ -10,14 +10,12 @@
 
 This accessibility statement applies to <mark><span id="statement-scope">a) the entire website./b) the following sections of the website: </span></mark>
 
-<mark>
- (if you chose b)
+<mark>(if you chose b)</mark>
 
-- section ...
-- section ...
-- section ...
-
-</mark>
+- <mark>section ...</mark>
+- <mark>section ...</mark>
+- <mark>section ...</mark>
+- <mark>...</mark>
 
 ## I. Compliance status
 
