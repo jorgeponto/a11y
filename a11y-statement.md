@@ -1,3 +1,6 @@
+<style type="text/css">
+ h2 {border:1px solid red; text-indent:-1em;}
+</style>
 # Accessibility Statement 
 
 ***
@@ -38,7 +41,7 @@ This website is <mark><span id="status-compliance">a) fully compliant/b) partial
  <li id="status-no-compliant-alt-n"><mark>...</mark></li>
 </ul>
 
-## II. <span style="display:block">Preparation of this Accessibility Statement</span>
+## II. Preparation of this Accessibility Statement
 
 This statement was prepared on <mark><span id="statement-prepared">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-lastreview">12 de setembro de 2018</span></mark>.
 
