@@ -4,7 +4,7 @@ title: Accessibility Statement
 
 <style type="text/css">
  h1 {text-indent:-2em;}
- h2 {}
+ h2 {position:abosute}
  span.number {border:1px solid blue; position:relative: left:0;}
  span.firstline {border:1px solid red; position:relative: right:0}
  span.secondline {border:1px solid green; font-size:50%; position:relative; right:0;}
