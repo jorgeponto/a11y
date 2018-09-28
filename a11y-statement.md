@@ -6,7 +6,7 @@ title: Accessibility Statement
  h1 {text-indent:-2em;}
  h2 {position:relative; padding-bottom:1em;}
  span.number {position:absolute: left:0;}
- span.firstline {border-bottom:1px solid #fff; position:absolute; text-align: right; right:0;}
+ span.firstline {border-bottom:1px solid #000; position:absolute; text-align: right; right:0;}
  span.secondline {font-size:50%; position:absolute; text-align:right; right:0; bottom:0;}
 </style>
 # Accessibility Statement 
