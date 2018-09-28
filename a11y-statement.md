@@ -4,10 +4,10 @@ title: Accessibility Statement
 
 <style type="text/css">
  h1 {text-indent:-2em;}
- h2 {margin:0; padding:0; line-height:1.2; position:absolute;}
- h2 span.number {border:1px solid blue; position:relative: left:0;}
- h2 span.firstline {border:1px solid red; position:relative: right:0}
- h2 span.secondline {border:1px solid green; font-size:50%; position:relative; right:0; bottom:0}
+ h2 {position:absolute}
+ span.number {border:1px solid blue; position:relative: left:0;}
+ span.firstline {border:1px solid red; position:relative: right:0}
+ span.secondline {border:1px solid green; font-size:50%; position:relative; right:0;}
 </style>
 # Accessibility Statement 
 
