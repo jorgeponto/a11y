@@ -42,7 +42,7 @@ This website is <mark><span id="status-compliance">a) fully compliant/b) partial
 
 This statement was prepared on <mark><span id="statement-prepared">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-lastreview">12 de setembro de 2018</span></mark>.
 
-**Automatic evaluation (identify the tool(s) used) and the respective output:** 
+**Automatic evaluation (identify the tool(s) used and the respective output):** 
 
 According to the DL n.º xx/xx these type of analyzes is mandatory in some circunstances. 
 
@@ -55,7 +55,7 @@ Did you realize any kind of evaluation using automatic/semiautomatic tool(s)?
 
 <mark>If you performed automatic evaluations, please include the completion date, the name of the tool(s) used, the sample(s) of pages, the results obtained and the links to additional information about the analyzes made.</mark> (if Yes)
 
-- <span title="Last update" id="aen1_update">(<mark>27/03/2018</mark></span>). <span title="Tool" id="aen1_tool"><mark>AccessMonitor</mark></span> - <span title="Scale" id="aen1_scale"><mark>Score (1-10)</mark></span>: <span title="Score" id="aen1_score"><mark>9.4</mark></span> - Sample: <span title="sample" id="aen1_sample"><mark>86</mark></span> pages - pass: <span title="pass" id="aen1_pass"><mark>56% AAA; 21% AA; 7% A</mark></span> - More data: <span title="More data" id="aen1_more"><mark>[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</mark></span>.
+- <span title="Last update" id="aen1_update">(<mark>27/03/2018</mark></span>). <span title="Tool" id="aen1_tool"><mark>AccessMonitor</mark></span> - <span title="Scale" id="aen1_scale"><mark>Score (1-10)</mark></span>: <span title="Score" id="aen1_score"><mark>9.4</mark></span> - Sample: <span title="sample" id="aen1_sample"><mark>86</mark></span> pages - <mark>[link to the list of pages of the sample](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</mark> - pass: <span title="pass" id="aen1_pass"><mark>56% AAA; 21% AA; 7% A</mark></span> - <mark>[list of tests](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)</mark> - More data: <span title="More data" id="aen1_more"><mark>[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</mark></span>.
 - <mark>other tools ...</mark>
 
 **Manual evaluation made by experts:**
@@ -72,7 +72,12 @@ Did you realize any kind of manual verification based on the checklist reference
 <mark>If you performed manual evaluations according to the checklist referenced in acessibilidade.gov.pt, please include the result (in the 10 aspects of the checklist how many did you pass) and the link to the respetive analyses. If you performed others manual evalutions, please mention the best result and the link to the report.</mark> (if Yes)
 
 - <mark>[[x/10 functional aspects](https://jorgeponto.github.io/a11y/lista-verificacao.html) are conformed]</mark>
+ -- Sample used to manual evaluation: [nr. of pages] - [link to the list of pages of the sample](#)
+ -- [List of tests](https://jorgeponto.github.io/a11y/lista-verificacao.html)
 - <mark>other analysis</mark>
+ -- <mark>...</mark>
+ -- <mark>...</mark>
+- <mark>...</mark>
 
 **Usability tests w/ people w/ disabilities:**
 
@@ -87,12 +92,7 @@ Did you realize any kind of usability test?
  - <mark>...</mark>
  - <mark>[Task description; user target; [usability studyn](#)]</mark>
 
-**Sample and tests**
-
-- Sample used to automatic evaluation: [nr. of pages] - [link to the sample's list of pages](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962) - [Test’s list](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)
-- Sample used to manual evaluation: [nr. of pages] - [link to the sample's list of pages](#) - [Test's list](https://jorgeponto.github.io/a11y/lista-verificacao.html)
-
-## IV.	Contacto e solicitação de informação relativa ao sítio Web ou aplicação móvel
+## III.	Contacto e solicitação de informação relativa ao sítio Web ou aplicação móvel
 
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
 
@@ -108,13 +108,13 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
 </dl>
 
-## V. Certification Label of the Portuguese Administration to the Accessibility and the Usability
+## IV. Certification Label of the Portuguese Administration to the Accessibility and the Usability
 
 ![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
 
 The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
-## VI. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx, de 27 de setembro de 2018.
+## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx, de 27 de setembro de 2018.
 
 De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
 
