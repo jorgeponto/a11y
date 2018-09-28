@@ -125,7 +125,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 
 The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
-## <span class="number">V.</span> <span class="firstline">Denúncia de situações de discriminaçao</span><br><span class="secondline">derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx</span>
+## <span class="number">V.</span> <span class="firstline">Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade</span><br><span class="secondline">constantes do DL n.º xx/xx</span>
 
 De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
 
