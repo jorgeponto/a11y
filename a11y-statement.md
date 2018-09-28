@@ -44,9 +44,9 @@ This statement was prepared on <mark><span id="statement-prepared">01 de janeiro
 
 **Automatic evaluation (identify the tool(s) used and the respective output):** 
 
-According to the DL n.º xx/xx these type of analyzes is mandatory in some circunstances. 
+According to the DL n.º xx/xx this type of analysis is mandatory in some circunstances. 
 
-Did you realize any kind of evaluation using automatic/semiautomatic tool(s)?
+Did you do any kind of evaluation using automatic/semiautomatic tool(s)?
 - <mark>Yes/No</mark>
 
 <mark>If you don't performed any automatic evaluation, explain the reason(s) for not doing so.</mark> (if No)
@@ -60,9 +60,9 @@ Did you realize any kind of evaluation using automatic/semiautomatic tool(s)?
 
 **Manual evaluation made by experts:**
 
-According to the DL n.º xx/xx these type of analyzes is mandatory.
+According to the DL n.º xx/xx this type of analysis is mandatory.
 
-Did you realize any kind of manual verification based on the checklist referenced in the acessibilidade.gov.pt website?
+Did you do any kind of manual verification based on the checklist to websites referenced in the acessibilidade.gov.pt website?
 - <mark>Yes/No</mark>
 
 <mark>If you don't performed any manual evaluation, explain the reason(s) for not doing so.</mark> (if No)
@@ -81,9 +81,9 @@ Did you realize any kind of manual verification based on the checklist reference
 
 **Usability tests w/ people w/ disabilities:**
 
-According to the DL n.º xx/xx these type of analyzes is recommended. 
+According to the DL n.º xx/xx this type of analysis is recommended. 
 
-Did you realize any kind of usability test?
+Did you do any kind of usability tests?
 - <mark>Yes/No</mark>
 
 <mark>If you made usability tests with people with disabilities, please list them below, trying to summarize the task description and the user target in the text of the link to the respective report.</mark>
@@ -92,7 +92,7 @@ Did you realize any kind of usability test?
  - <mark>...</mark>
  - <mark>[Task description; user target; [usability studyn](#)]</mark>
 
-## III.	Contacto e solicitação de informação relativa ao sítio Web ou aplicação móvel
+## III.	Contacto e solicitação de informação<br><span style="font-size:80%">relativa ao sítio Web ou aplicação móvel</span>
 
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
 
@@ -108,7 +108,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
 </dl>
 
-## IV. Certification Label of the Portuguese Administration to the Accessibility and the Usability
+## IV. Accessibility & Usability Certification Label<br><span style="font-size:80%">of the Portuguese Public Administration</span>
 
 ![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
 
