@@ -5,9 +5,9 @@ title: Accessibility Statement
 <style type="text/css">
  h1 {text-indent:-2em;}
  h2 {margin:0; padding:0; line-height:1.1}
- h2 span.number {border:1px solid blue}
- h2 span.firstline {border:1px solid red; display: block; text-align:right}
- h2 span.secondline {border:1px solid green; font-size:50%; display: block; text-align:right}
+ h2 span.number {border:1px solid blue;}
+ h2 span.firstline {border:1px solid red; display: table; text-align:right}
+ h2 span.secondline {border:1px solid green; font-size:50%; display: table; text-align:right}
 </style>
 # Accessibility Statement 
 
