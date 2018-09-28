@@ -1,7 +1,7 @@
 <style type="text/css">
  h1 {text-indent:-2em;}
  h2 {border:1px solid red; text-indent:-1.2em;}
- h2 span {border:1px solid red; padding:0; margin:0 }
+ h2 span {border:1px solid red; padding:0; margin:0; line-height: normal;}
 </style>
 # Accessibility Statement 
 
