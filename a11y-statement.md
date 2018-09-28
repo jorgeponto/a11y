@@ -6,7 +6,7 @@
 
 ***
 
-<mark><span id="site-owner">FCT - Fundação para a Ciência e a Tecnologia, IP</span></mark> is committed to making its website <mark><a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
+<mark><span id="site-owner"></span></mark> is committed to making its website <mark><a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
 ## I. Compliance status
 
@@ -92,16 +92,30 @@ Did you realize any kind of usability test?
 - Sample used to automatic evaluation: [nr. of pages] - [link to the sample's list of pages](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962) - [Test’s list](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)
 - Sample used to manual evaluation: [nr. of pages] - [link to the sample's list of pages](#) - [Test's list](https://jorgeponto.github.io/a11y/lista-verificacao.html)
 
-## IV.	Contact and feedback
+## IV.	Contacto e solicitação de informação relativa ao sítio Web ou aplicação móvel
 
-- email to ask info and to give info to the PSB about inaccessible parts
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
+
+<dl id="contact-info">
+ <dt><mark>Unidade ACESSO da FCT</mark></dt>
+ <dd><mark>Av. D. Carlos I, 126<br>1249-074 Lisboa</mark></dd>
+ <dt><mark><abbr title="telefone">Tel</abbr>:</mark></dt>
+ <dd><mark>213 924 300</mark></dd>
+ <dt><mark>Fax:</mark></dt>
+ <dd><mark>213 907 481</mark></dd>
+ <dt><mark>Correio electrónico da equipa da ACESSO:</mark></dt>
+ <dd><mark><a href="mailto:jorge.fernandes@fct.pt" title="jorge.fernandes@fct.pt">Jorge Fernandes</a></mark></dd>
+ <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
+</dl>
 
 ## V. Certification Label of the Portuguese Administration to the Accessibility and the Usability
 
-![Certification label](http://www.acessibilidade.gov.pt/image/acess.gif)
+![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
 
 The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
-## VI. Claim proccess
+## VI. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx, de 27 de setembro de 2018.
 
-- claim process - in the case of PT the process is based on the form of non-discrimination law
+De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
+
+O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formulário para denunciar situações de discriminação](http://www.inr.pt/uploads/Formulario_queixa.rtf.rtf), encaminhando as queixas apresentadas às entidades competentes. Anualmente, o INR, I.P. elabora um relatório anual sobre a aplicação da lei que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde (Lei n.o 46/2006, de 28 de agosto). 
