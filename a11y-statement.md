@@ -92,7 +92,7 @@ Did you do any kind of usability tests?
  - <mark>...</mark>
  - <mark>[Task description; user target; [usability studyn](#)]</mark>
 
-## III.	Contacto e solicitação de informação<br><span style="font-size:80%">relativa ao sítio Web ou aplicação móvel</span>
+## III.	Contacto e solicitação de informação<br><span style="font-size:50%">relativa ao sítio Web ou à aplicação móvel</span>
 
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
 
@@ -108,13 +108,13 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
 </dl>
 
-## IV. Accessibility & Usability Certification Label<br><span style="font-size:80%">of the Portuguese Public Administration</span>
+## IV. Accessibility & Usability Certification<br><span style="font-size:50%">Label of the Portuguese Public Administration</span>
 
 ![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
 
 The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
-## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx, de 27 de setembro de 2018.
+## V. Denúncia de situações de discriminaçao<br><span style="font-size:50%">derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx, de 27 de setembro de 2018</span>
 
 De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
 
