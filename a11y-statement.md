@@ -4,10 +4,7 @@ title: Accessibility Statement
 
 <style type="text/css">
  h1 {text-indent:-2em;}
- h2 {position:relative; padding-bottom:1em;}
- span.number {position:absolute: left:0;}
- span.firstline {border-bottom:1px solid #000; position:absolute; text-align: right; right:0;}
- span.secondline {font-size:50%; position:absolute; text-align:right; right:0; bottom:0;}
+ h2 {text-align:right; font-size:70%}
 </style>
 # Accessibility Statement 
 
@@ -19,7 +16,7 @@ title: Accessibility Statement
 
 <mark><span id="site-owner">FCT - Fundação para a Ciência e a Tecnologia, IP</span></mark> is committed to making its website <mark><a href="http://www.acessibilidade.gov.pt" id="site-url"><span id="site-name">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
-## <span class="number">I.</span> Compliance status
+## I. Compliance status
 
 This website is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
 
@@ -49,7 +46,7 @@ This website is <mark><span id="status-compliance">a) fully compliant/b) partial
  <li id="status-no-compliant-alt-n"><mark>...</mark></li>
 </ul>
 
-## <span class="number">II.</span> Preparation of this Accessibility Statement
+## II. Preparation of this Accessibility Statement
 
 This statement was prepared on <mark><span id="statement-prepared">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-lastreview">12 de setembro de 2018</span></mark>.
 
@@ -103,7 +100,7 @@ Did you do any kind of usability tests?
  - <mark>...</mark>
  - <mark>[Task description; user target; [usability studyn](#)]</mark>
 
-## <span class="number">III.</span>	<span class="firstline">Contacto e solicitação de informação</span><br><span class="secondline">relativa ao sítio Web ou à aplicação móvel</span>
+## III. Contacto e solicitação de informação relativa ao sítio Web ou à aplicação móvel
 
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
 
@@ -119,13 +116,13 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
 </dl>
 
-## <span class="number">IV.</span> <span class="firstline">Accessibility & Usability Certification</span><br><span class="secondline">Label of the Portuguese Public Administration</span>
+## IV. Accessibility & Usability Certification - Label of the Portuguese Public Administration
 
 ![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
 
 The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
 
-## <span class="number">V.</span> <span class="firstline">Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx</span>
+## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx
 
 De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
 
