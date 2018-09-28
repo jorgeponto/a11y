@@ -4,7 +4,7 @@ title: Accessibility Statement
 
 <style type="text/css">
  h1 {text-indent:-2em;}
- h2 {text-align:right; font-size:110%}
+ h2 {text-align:right; font-size:120%; border-bottom:1px solid #000; padding-bottom:0}
 </style>
 # Accessibility Statement 
 
