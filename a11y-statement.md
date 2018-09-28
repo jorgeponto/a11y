@@ -7,7 +7,7 @@ title: Accessibility Statement
  h2 {margin:0; padding:0; line-height:1.1}
  h2 span.number {border:1px solid blue}
  h2 span.firstline {border:1px solid red}
- h2 span.secondline {border:1px solid green}
+ h2 span.secondline {border:1px solid green; font-size:50%}
 </style>
 # Accessibility Statement 
 
@@ -103,7 +103,7 @@ Did you do any kind of usability tests?
  - <mark>...</mark>
  - <mark>[Task description; user target; [usability studyn](#)]</mark>
 
-## <span class="number">III.</apan>	<span class="firstline">Contacto e solicitação de informação</span><br><span class="secondline">relativa ao sítio Web ou à aplicação móvel</span>
+## <span class="number">III.</span>	<span class="firstline">Contacto e solicitação de informação</span><br><span class="secondline">relativa ao sítio Web ou à aplicação móvel</span>
 
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
 
