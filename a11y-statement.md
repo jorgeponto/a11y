@@ -95,7 +95,7 @@ Did you do any kind of manual verification based on the checklist to websites re
 <ul>
  <li><mark><a href="https://jorgeponto.github.io/a11y/lista-verificacao.html" id="me01-pass-uri"><span id="me01-pass">x/10 functional aspects are conformed</span></a></mark>
   <ul>
-   <li>Sample used to manual evaluation: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">nr. of pages</span></mark></li>
+   <li>Sample used to manual evaluation: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">nr. of pages</span></a></mark></li>
    <li><mark><a href="http://"><span id="me01-tests">List of tests</span></a></mark></li>
   </ul></li>
  <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">main conclusion of the study - sucess pass of the study</span></a></mark>
