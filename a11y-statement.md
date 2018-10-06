@@ -10,7 +10,7 @@ title: Accessibility Statement
 
 ***
 
-(<strong>Note:</strong> this is an example of the <em>Accessibility Statement</em> of the <mark>Unidade ACESSO's website</mark> which belongs to the Portuguese Public Agency: <mark>FCT - Fundação para a Ciência, Tecnologia e Ensino Superior</mark>)
+(<strong>Note:</strong> this is an example of the <em>Accessibility Statement</em> of the <mark>Unidade ACESSO's website</mark> which belongs to the Portuguese Public Agency: <mark>FCT - Fundação para a Ciência, Tecnologia e Ensino Superior</mark>.)
 
 ***
 
@@ -18,7 +18,7 @@ title: Accessibility Statement
 
 ## I. Compliance status
 
-This website is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
+This <span>website</span> is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
 
 <mark>**Non-Accessible content**</mark> (section only appears if I. needs a non-compliance list)
 
