@@ -15,11 +15,11 @@ title: Accessibility Statement
 
 ***
 
-<mark><span id="statement-owner">FCT - Fundação para a Ciência e a Tecnologia, I.P.</span></mark> is committed to making its <mark><span id="statement-webapp">website</span></mark> <mark><a href="http://www.acessibilidade.gov.pt" id="webapp-url"><span id="webapp-name" title="http://www.acessibilidade.gov.pt">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de outubro - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
+<mark><span id="statement-owner">FCT - Fundação para a Ciência e a Tecnologia, I.P.</span></mark> is committed to making its <mark><span id="statement-webapp" title="get a)website, or b) mobile application">website</span></mark> <mark><a href="http://www.acessibilidade.gov.pt" id="webapp-url"><span id="webapp-name" title="http://www.acessibilidade.gov.pt">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de outubro - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
 
 ## I. Compliance status
 
-This <span title="a)website, or b) mobile application" class="conditional-text">website</span> is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
+This <span title=" put a) website, or b) mobile application" class="conditional-text">website</span> is <mark><span id="status-compliance" title="get a) fully compliant, b) partially compliant, c) not compliant">partially compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <span class="conditional-text" title="(this sentence appears only when you chose b) or c)">The non-compliances and/or the exemptions are listed below.</span>
 
 <mark>**Non-Accessible content**</mark> (section only appears if I. needs a non-compliance list)
 
