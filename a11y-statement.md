@@ -57,54 +57,71 @@ This statement was prepared on <mark><span id="statement-date-created">01 de jan
 According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is mandatory in some circunstances. 
 
 Did you do any kind of evaluation using automatic/semiautomatic tool(s)?
-- <mark><span id="monitoring-automatic-tests" title="get a) Yes, b) No">Yes</span></mark>
+- <mark><span id="automatic-evaluation" title="get a) Yes, b) No">Yes</span></mark>
 
-<span class="conditional-text" title="If NO">If you don't performed any automatic evaluation, explain the reason(s) for not doing so.</span>
+<span class="conditional-text" title="If NO">If you don't performed any automatic evaluation, explain the reason(s) for not doing so:</span>
 
-<mark>...</mark>
+<ul>
+ <li><mark><span id="ae-no-reason1">...</span></mark></li>
+ <li><mark><span id="ae-no-reason2">...</span></mark></li>
+ <li><mark><span id="ae-no-reasonn">...</span></mark></li>
+</ul>
 
-<mark>If you performed automatic evaluations, please include the completion date, the name of the tool(s) used, the sample(s) of pages, the results obtained and the links to additional information about the analyzes made.</mark> (if Yes)
+<span title="if YES" class="conditional-text">If you performed automatic evaluations, please include the completion date, the name of the tool(s) used, the sample(s) of pages, the results obtained and the links to additional information about the analyzes made.</span>
 
-- <span title="Last update" id="aen1_update">(<mark>27/03/2018</mark></span>). <span title="Tool" id="aen1_tool"><mark>AccessMonitor</mark></span> - <span title="Scale" id="aen1_scale"><mark>Score (1-10)</mark></span>: <span title="Score" id="aen1_score"><mark>9.4</mark></span> - Sample: <span title="sample" id="aen1_sample"><mark>86</mark></span> pages - <mark>[link to the list of pages of the sample](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</mark> - pass: <span title="pass" id="aen1_pass"><mark>56% AAA; 21% AA; 7% A</mark></span> - <mark>[list of tests](https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0)</mark> - More data: <span title="More data" id="aen1_more"><mark>[AccessMonitor Report](http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962)</mark></span>.
-- <mark>other tools ...</mark>
+<ul>
+ <li><mark>(<span title="Last update" id="aen1_update">27/03/2018</span>)</mark>. <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark> - <mark><span title="Scale" id="aen1_scale">Score (1-10)</span></mark>: <mark><span title="Score" id="aen1_score">9.4</span></mark> - Sample: <mark><span title="sample" id="aen1_sample">86</span></mark> pages - <mark><a href="http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962" id="aen1_samplelink_uri"><span id="aen1_samplelink">list of pages of the sample</span></a></mark> - pass: <mark><span title="pass" id="aen1_pass">56% AAA; 21% AA; 7% A</span></mark> - <mark><a href="https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0" id="aen1_testslist_uri"><span id="aen1_testslist">list of tests</span></a></mark> - More data: <mark><a href="http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962" id="aen1_more_uri"><span title="More data" id="aen1_more">AccessMonitor Report</span></a></mark>.</li>
+  <li><mark>(<span title="Last update" id="aen2_update">27/03/2018</span>)</mark>. <mark><span title="Tool" id="aen2_tool">Tool 2 ...</span></mark> - <mark><span title="Scale" id="aen2_scale">Score (0-1)</span></mark>: <mark><span title="Score" id="aen2_score">9.4</span></mark> - Sample: <mark><span title="sample" id="aen2_sample">86</span></mark> pages - <mark><a href="http://" id="aen2_samplelink_uri"><span id="aen2_samplelink">list of pages of the sample</span></a></mark> - pass: <mark><span title="pass" id="aen2_pass">...</span></mark> - <mark><a href="https://..." id="aen2_testslist_uri"><span id="aen2_testslist">list of tests 2</span></a></mark> - More data: <mark><a href="http://..." id="aen2_more_uri"><span title="More data" id="aen2_more">... Report</span></a></mark>.</li>  
+</ul>
 
-**Manual evaluation made by experts:**
+**B. Manual evaluation made by experts:**
 
-According to the DL n.º xx/xx this type of analysis is mandatory.
+According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is mandatory.
 
-Did you do any kind of manual verification based on the checklist to websites referenced in the acessibilidade.gov.pt website?
-- <mark>Yes/No</mark>
+Did you do any kind of manual verification based on the checklist to websites referenced in the http://acessibilidade.gov.pt website?
 
-<mark>If you don't performed any manual evaluation, explain the reason(s) for not doing so.</mark> (if No)
+- <mark><span id="manual-evaluation" title="get a) Yes, b) No">Yes</span></mark>
 
-<mark>...</mark>
+<span class="conditional-text" title="If NO">If you don't performed any manual evaluation, explain the reason(s) for not doing so:</span>
 
-<mark>If you performed manual evaluations according to the checklist referenced in acessibilidade.gov.pt, please include the result (in the 10 aspects of the checklist how many did you pass) and the link to the respetive analyses. If you performed others manual evalutions, please mention the best result and the link to the report.</mark> (if Yes)
+<ul>
+ <li><mark><span id="me-no-reason1">...</span></mark></li>
+ <li><mark><span id="me-no-reason2">...</span></mark></li>
+ <li><mark><span id="me-no-reasonn">...</span></mark></li>
+</ul>
 
-- <mark>[[x/10 functional aspects](https://jorgeponto.github.io/a11y/lista-verificacao.html) are conformed]</mark>
- -- Sample used to manual evaluation: [nr. of pages] - [link to the list of pages of the sample](#)
- -- [List of tests](https://jorgeponto.github.io/a11y/lista-verificacao.html)
-- <mark>other analysis</mark>
- -- <mark>...</mark>
- -- <mark>...</mark>
-- <mark>...</mark>
+<span title="if YES" class="conditional-text">If you performed manual evaluations according to the checklist referenced in acessibilidade.gov.pt, please include the result (in the 10 aspects of the checklist how many did you pass) and the link to the respetive analyses. If you performed others manual evalutions, please mention the best result and the link to the report.</span>
 
+<ul>
+ <li><mark><a href="https://jorgeponto.github.io/a11y/lista-verificacao.html" id="me01-pass-uri"><span id="me01-pass">x/10 functional aspects are conformed</span></a></mark>
+  <ul>
+   <li>Sample used to manual evaluation: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">nr. of pages</span></mark></li>
+   <li><mark><a href="http://"><span id="me01-tests">List of tests</span></a></mark></li>
+  </ul></li>
+ <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">main conclusion of the study - sucess pass of the study</span></a></mark>
+<ul>
+   <li>Sample used to manual evaluation: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">nr. of pages in the study 2</span></mark></li>
+   <li><mark><a href="http://"><span id="me02-tests">List of tests of study 2</span></a></mark></li>
+  </ul></li>
+ </ul>
+ 
 **Usability tests w/ people w/ disabilities:**
 
-According to the DL n.º xx/xx this type of analysis is recommended. 
+According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is recommended. 
 
 Did you do any kind of usability tests?
-- <mark>Yes/No</mark>
+- <mark><span id="usability-evaluation" title="get a) Yes, b) No">Yes</span></mark>
 
-<mark>If you made usability tests with people with disabilities, please list them below, trying to summarize the task description and the user target in the text of the link to the respective report.</mark>
+<span title="if YES" class="conditional-text">If you made usability tests with people with disabilities, please list them below, trying to summarize the task description and the user target in the text of the link to the respective report.</span>
 
-- <mark>[Task description; user target; [usability study1](#)]</mark>
- - <mark>...</mark>
- - <mark>[Task description; user target; [usability studyn](#)]</mark>
+<ul>
+ <li><mark><a href="" title="link to study report" id="ue01-uri"><span id="ue01">Task(s) description and user targets of the usability study1</span></a></mark></li>
+  <li><mark><a href="" title="link to study report" id="ue02-uri"><span id="ue02">Task(s) description user targets of the usability study2</span></a></mark></li>
+ </ul>
 
-## III. Contacto e solicitação de informação relativa ao sítio Web ou à aplicação móvel
+## III. Contacto e solicitação de informação relativa ao <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span>
 
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da <mark>[Unidade ACESSO](http://www.acessibilidade.gov.pt)</mark> da <mark>FCT - Fundação para a Ciência e a Tecnologia, IP</mark>, utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span> da <span class="conditional-text"><a href="http://www.acessibilidade.gov.pt">Unidade ACESSO</span> da <span class="conditional-text">Fundação para a Ciência e a Tecnologia, I.P.</span>, utilize, por favor, os seguintes meios:
 
 <dl id="contact-info">
  <dt><mark>Unidade ACESSO da FCT</mark></dt>
