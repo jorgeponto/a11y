@@ -21,7 +21,7 @@ title: Accessibility Statement
 
 This <span title=" put a) website, or b) mobile application" class="conditional-text">website</span> is <mark><span id="status-compliance" title="get a) fully compliant, b) partially compliant, c) not compliant">partially compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <span class="conditional-text" title="(this sentence appears only when you chose b) or c)">The non-compliances and/or the exemptions are listed below.</span>
 
-<mark>**Non-Accessible content**</mark> (section only appears if I. needs a non-compliance list)
+### <span title="this subsection appears only when you chose b) or c) and needs to display a non-compliance list" class="conditional-text">Non-Accessible content</span>
 
 <mark>Describe which section(s)/content/function(s) of the website/mobile application are not yet accessible:</mark>
 
