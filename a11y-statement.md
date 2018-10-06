@@ -5,6 +5,7 @@ title: Accessibility Statement
 <style type="text/css">
  h1 {text-indent:-2em;}
  h2 {text-align:right; font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
+ h3 {font-size:120%;}
  .conditional-text {background-color:black; color:yellow}
 </style>
 # Accessibility Statement 
@@ -23,42 +24,42 @@ This <span title=" put a) website, or b) mobile application" class="conditional-
 
 ### <span title="this subsection appears only when you chose b) or c) and needs to display a non-compliance list" class="conditional-text">Non-Accessible content</span>
 
-<mark>Describe which section(s)/content/function(s) of the website/mobile application are not yet accessible:</mark>
+A. Describe <strong>which</strong> section(s)/content(s)/function(s) of the <span title="put a) website, or b) mobile application" class="conditional-text">website</span> are not yet accessible:
 
 <ul>
- <li id="status-no-compliant-which-1"><mark>...</mark></li>
- <li id="status-no-compliant-which-2"><mark>...</mark></li>
- <li id="status-no-compliant-which-n"><mark>...</mark></li>
+ <li><mark><span id="no-compliant-which-1">...</span></mark></li>
+ <li><mark><span id="no-compliant-which-2">...</span></mark></li>
+ <li><mark><span id="no-compliant-which-n">...</span></mark></li>
 </ul>
 
-<mark>Explain why the content indicated above is not accessible: (for example, the content is outside of Decreto-Lei n.º xx/2018, de xx de xx,  or the content is in scope but momentarily not accessible due to disproportionate burden within the meaning of Article 5 of Directive (EU) n.º 2016/2102, for instance)</mark>
+B. Explain <strong>why</strong> the content indicated above is not accessible: (for example, the content is outside of Decreto-Lei n.º xx/2018, de xx de outubro,  or the content is in scope but momentarily not accessible due to disproportionate burden within the meaning of Article 5 of Directive (EU) n.º 2016/2102, for instance):
 
 <ul>
- <li id="status-no-compliant-why-1"><mark>...</mark></li>
- <li id="status-no-compliant-why-2"><mark>...</mark></li>
- <li id="status-no-compliant-why-n"><mark>...</mark></li>
+ <li><mark><span id="no-compliant-why-1">...</span></mark></li>
+ <li><mark><span id="no-compliant-why-2">...</span></mark></li>
+ <li><mark><span id="no-compliant-why-n">...</span></mark></li>
 </ul>
 
-<mark>Indicate accessible alternatives, where appropriate:</mark>
+C. Indicate <strong>accessible alternatives</strong>, where appropriate:
 
 <ul>
- <li id="status-no-compliant-alt-1"><mark>...</mark></li>
- <li id="status-no-compliant-alt-2"><mark>...</mark></li>
- <li id="status-no-compliant-alt-n"><mark>...</mark></li>
+ <li><mark><span id="no-compliant-alt-1">...</span></mark></li>
+ <li><mark><span id="no-compliant-alt-2">...</span></mark></li>
+ <li><mark><span id="no-compliant-alt-n">...</span></mark></li>
 </ul>
 
 ## II. Preparation of this Accessibility Statement
 
-This statement was prepared on <mark><span id="statement-prepared">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-lastreview">12 de setembro de 2018</span></mark>.
+This statement was prepared on <mark><span id="statement-date-created">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-date-review">12 de setembro de 2018</span></mark>.
 
-**Automatic evaluation (identify the tool(s) used and the respective output):** 
+**A. Automatic evaluation (identify the tool(s) used and the respective output):** 
 
-According to the DL n.º xx/xx this type of analysis is mandatory in some circunstances. 
+According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is mandatory in some circunstances. 
 
 Did you do any kind of evaluation using automatic/semiautomatic tool(s)?
-- <mark>Yes/No</mark>
+- <mark><span id="monitoring-automatic-tests" title="get a) Yes, b) No">Yes</span></mark>
 
-<mark>If you don't performed any automatic evaluation, explain the reason(s) for not doing so.</mark> (if No)
+<span class="conditional-text" title="If NO">If you don't performed any automatic evaluation, explain the reason(s) for not doing so.</span>
 
 <mark>...</mark>
 
