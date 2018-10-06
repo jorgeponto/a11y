@@ -121,7 +121,7 @@ Did you do any kind of usability tests?
 
 ## III. Contacto e solicitação de informação relativa ao <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span>
 
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span> da <span class="conditional-text"><a href="http://www.acessibilidade.gov.pt">Unidade ACESSO</span> da <span class="conditional-text">Fundação para a Ciência e a Tecnologia, I.P.</span>, utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span> da <span class="conditional-text"><a href="http://www.acessibilidade.gov.pt">Unidade ACESSO</a></span> da <span class="conditional-text">Fundação para a Ciência e a Tecnologia, I.P.</span>, utilize, por favor, os seguintes meios:
 
 <dl id="contact-info">
  <dt><mark>Unidade ACESSO da FCT</mark></dt>
