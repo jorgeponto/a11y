@@ -5,6 +5,7 @@ title: Accessibility Statement
 <style type="text/css">
  h1 {text-indent:-2em;}
  h2 {text-align:right; font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
+ .conditional-text {background-color:black; color:yellow}
 </style>
 # Accessibility Statement 
 
@@ -18,7 +19,7 @@ title: Accessibility Statement
 
 ## I. Compliance status
 
-This <span>website</span> is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
+This <span title="a)website, or b) mobile application" class="conditional-text">website</span> is <mark><span id="status-compliance">a) fully compliant/b) partially compliant/c) not compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <mark>The non-compliances and/or the exemptions are listed below</mark> (this sentence appears only when you chose b or c).
 
 <mark>**Non-Accessible content**</mark> (section only appears if I. needs a non-compliance list)
 
