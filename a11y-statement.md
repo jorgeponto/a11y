@@ -100,7 +100,7 @@ Did you do any kind of manual verification based on the checklist to websites re
   </ul></li>
  <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">main conclusion of the study - sucess pass of the study</span></a></mark>
 <ul>
-   <li>Sample used to manual evaluation: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">nr. of pages in the study 2</span></mark></li>
+   <li>Sample used to manual evaluation: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">nr. of pages in the study 2</span></a></mark></li>
    <li><mark><a href="http://"><span id="me02-tests">List of tests of study 2</span></a></mark></li>
   </ul></li>
  </ul>
