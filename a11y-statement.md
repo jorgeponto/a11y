@@ -105,7 +105,7 @@ Did you do any kind of manual verification based on the checklist to websites re
   </ul></li>
  </ul>
  
-**Usability tests w/ people w/ disabilities:**
+**C. Usability tests w/ people w/ disabilities:**
 
 According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is recommended. 
 
