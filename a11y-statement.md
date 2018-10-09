@@ -1,15 +1,13 @@
 ---
 title: Accessibility Statement
 ---
-<head>
-<meta charset="UTF-8">
 <style type="text/css">
  h1 {text-indent:-2em;}
  h2 {text-align:right; font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
  h3 {font-size:120%;}
  .conditional-text {background-color:black; color:yellow}
 </style>
-</head>
+
 # Accessibility Statement 
 
 ***
