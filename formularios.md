@@ -30,7 +30,8 @@ voltar ao [sumário](README.md)
  </tr>
 </table>
 <h2 id="forms">Forms, labels, and errors</h2>
-<p><em>Note: This section is more complex than the others. If it's too complicated, consider skipping it for now and proceeding through the remaining checks</em>.</p>
+
+<p>Etiquetas, acesso por teclado, instruções claras, e manipulação efetiva de erros são importantes para a acessibilidade de formulários.</p>
 <p>Labels, keyboard access, clear instructions, and effective error handling are  important for forms accessibility.</p>
 <p>Form fields and other form controls usually have visible labels, such as &quot;E-mail Address:&quot; as the label for a text field.<br />
   <img src="/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" /><br />
