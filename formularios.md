@@ -33,7 +33,7 @@ voltar ao [sumário](README.md)
 
 <p>As etiquetas, o acesso por teclado, as instruções claras, e o manuseamento eficaz de erros são importantes para a acessibilidade de formulários.</p>
 <p>Labels, keyboard access, clear instructions, and effective error handling are  important for forms accessibility.</p>
-<p>Form fields and other form controls usually have visible labels, such as &quot;E-mail Address:&quot; as the label for a text field.<br />
+<p>Os campos de formulário e outros controlos de formulário têm normalmente etiquetas visiveis, tal como Endereço de E-mail como etiqueta para um campo de texto. Form fields and other form controls usually have visible labels, such as &quot;E-mail Address:&quot; as the label for a text field.<br />
   <img src="/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" /><br />
   When these labels are <a href="#markup" class="termref">marked up</a> correctly,  people can interact with them using  only the keyboard, using voice input, and using screen readers. Also, the label itself becomes clickable, increasing the target area and making it easier to select small radio buttons or checkboxes.</p>
 <h3 class="whathead">What to do:</h3>
