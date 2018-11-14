@@ -31,7 +31,7 @@ voltar ao [sumário](README.md)
 </table>
 
 
-<p>Muitas pessoas com deficiência visual ou deficiência motora interagem com a <em>web</em> (incluindo ormulários) usando primeiramente um teclado em vez do rato. Como resultado, as suas interacções tendem a ser sequenciais pela ordem amplamente controlada como a página fora desenhada.</p>
+<p>Muitas pessoas com deficiência visual ou deficiência motora interagem com a <em>web</em> (incluindo formulários) usando primeiramente um teclado em vez do rato. Como resultado, as suas interacções tendem a ser sequenciais pela ordem amplamente controlada como a página fora desenhada.</p>
 <p>As etiquetas, o acesso por teclado, as instruções claras, e o manuseamento eficaz de erros são importantes para a acessibilidade de formulários.</p>
 <p>Os campos de formulário e outros controlos de formulário têm normalmente etiquetas visiveis, por exemplo &quot;Endereço de E-mail:&quot; como etiqueta para um campo de texto <img src="/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" />.<br />
 <p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>.</p>
