@@ -2,13 +2,14 @@ voltar ao [sumário](README.md)
 
 # 4. Formulários
 
-<p>Muitas pessoas com deficiência visual ou deficiência motora interagem com a <em>web</em> (incluindo formulários) usando primeiramente um teclado em vez do rato. Como resultado, as suas interacções tendem a ser sequenciais pela ordem, amplamente controlada, como a página fora desenhada.</p>
+<p>Muitas pessoas com deficiência visual ou deficiência motora interagem com a <em>Web</em> (incluindo formulários) usando primeiramente um teclado em vez do rato. Como resultado, as suas interacções tendem a ser sequenciais pela ordem, amplamente controlada, como a página fora desenhada.</p>
 <p>As etiquetas, o acesso por teclado, as instruções claras, e o manuseamento eficaz de erros são importantes para a acessibilidade de formulários.</p>
+<p> Um formulário pode ser uma única caixa de texto, tal como o campo de Pesquisa, ou pode ser um formulário complexo com campos de texto, radio buttons, checkboxes, listas drop-down, e botões.</p>  
 <p>Os campos de formulário e outros controlos de formulário têm normalmente etiquetas visiveis, por exemplo &quot;Endereço de E-mail:&quot; como etiqueta para um campo de texto</br>
 <img src="http://www.w3.org/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" /><br />
-<p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>. Quando a marcação não é feita devidamente, uma pessoa cega, que utiliza o teclado, pode facilmente perder-se no formulário. </p>
+<p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>. Quando a marcação não é feita devidamente, e apenas tem em conta a ordem visual, uma pessoa cega pode facilmente perder-se no formulário. </p>
   
-<p> Um formulário pode ser uma única caixa de texto, tal como o campo de Pesquisa, ou pode ser um formulário complexo com campos de texto, radio buttons, checkboxes, listas drop-down, e botões.</p>  
+
 
 <h4 class="small4">Labels</h4>
 <ul>
