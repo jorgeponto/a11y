@@ -2,49 +2,14 @@ voltar ao [sumário](README.md)
 
 # 4. Formulários
 
-<table>
-<caption>Lista de verificação para <strong>formulários</strong></caption>
- <tr>
-  <th style="width:70%; text-align:left;">verifique se:</th>
-  <th style="width:10%">sim</th>
-  <th style="width:10%">não</th>
-  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
- </tr>
- <tr>
-  <td>a) ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?</td>
-  <td></td>
-  <td></td>
-  <td></td>
- </tr>
- <tr>
-  <td>b) é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
-  <td></td>
-  <td></td>
-  <td></td>
- </tr>
- <tr>
-  <td>c) é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?</td>
-  <td></td>
-  <td></td>
-  <td></td>
- </tr>
-</table>
-
-
 <p>Muitas pessoas com deficiência visual ou deficiência motora interagem com a <em>web</em> (incluindo formulários) usando primeiramente um teclado em vez do rato. Como resultado, as suas interacções tendem a ser sequenciais pela ordem, amplamente controlada, como a página fora desenhada.</p>
 <p>As etiquetas, o acesso por teclado, as instruções claras, e o manuseamento eficaz de erros são importantes para a acessibilidade de formulários.</p>
 <p>Os campos de formulário e outros controlos de formulário têm normalmente etiquetas visiveis, por exemplo &quot;Endereço de E-mail:&quot; como etiqueta para um campo de texto</br>
 <img src="http://www.w3.org/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" /><br />
-
-<p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>.</p>
+<p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>. Quando a marcação não é feita devidamente, uma pessoa cega, que utiliza o teclado, pode facilmente perder-se no formulário. </p>
   
-<h3 class="whathead">What to do:</h3>
-<p class="whathead">Find  any forms on the page. A form could be a single text box, such as Search, or could be a complex form with text  fields, radio buttons, checkboxes, drop-down lists, and  buttons.</p>
-<h3 class="whathead">What to check for:</h3>
-<h4 class="small4">Keyboard access</h4>
-<ul>
-  <li> Check that all form controls are keyboard accessible by following the <a href="#interaction">keyboard access</a> checks above, including checking that you can get to all items in any <a href="#dropdown">drop-down lists</a>.</li>
-</ul>
+<p> Um formulário pode ser uma única caixa de texto, tal como o campo de Pesquisa, ou pode ser um formulário complexo com campos de texto, radio buttons, checkboxes, listas drop-down, e botões.</p>  
+
 <h4 class="small4">Labels</h4>
 <ul>
   <li>Check that every form control has a label associated with it <span class="listintro"> using 'label', 'for', and 'id'</span>, as shown in the <a href="#labelschecks">labels checks</a> below. (This is best practice in most cases, though not a requirement because a form control label can be associated in other ways.)</li>
@@ -193,3 +158,32 @@ voltar ao [sumário](README.md)
   </ul>
   </div>
 </details>
+
+<table>
+<caption>Lista de verificação para <strong>formulários</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>a) ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>b) é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>c) é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?</td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
+
