@@ -8,6 +8,13 @@ voltar ao [sumário](README.md)
 <p>Os campos de formulário e outros controlos de formulário têm normalmente etiquetas visiveis, por exemplo &quot;Endereço de E-mail:&quot; como etiqueta para um campo de texto</br>
 <img src="http://www.w3.org/WAI/content-images/preliminary/form-label-text.png" width="242" height="29" alt="" class="imgbreathe" /><br />
 <p>Quando estas etiquetas são marcadas corretamente, os utilizadores conseguem interagir utilizando apenas o teclado, o input de voz, e o leitor de ecrã. De igual forma, a própria etiqueta torna-se clicável, aumentando a área alvo e tornando mais fácil selecionar os pequenos <em>radio buttons</em> ou as <em>checkboxes</em>. Quando a marcação não é feita devidamente, e apenas tem em conta a ordem visual, uma pessoa cega pode facilmente perder-se no formulário. </p>
+
+<p>Um outro aspeto importante é também a indicação dos campos de preenchimento obrigatório, que não devem ser assinalados apenas com a diferenciação de cor, pois pessoas que não vêem ou não distinguem cores, não conseguirão identificar esses campos. Ao utilizar asteriscos para fazer essa indicação, devem ser inseridos igualmente na marcação do campo da etiqueta para caixas de texto e listas drop-down, ou legendas para os radio buttons e checkboxes.</p>
+
+<p>Não menos importante são os avisos de erro depois da submissão do formulário, pois se não se conseguir aceder, não se finalizará a tarefa. Para testar o retorno de um erro de um formulário, basta preencher o campo com informação incorreta e verificar onde e se aparece o aviso de erro.</p>
+
+
+<h3>Ferramentas</h3>
   
 
 
