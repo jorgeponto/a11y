@@ -11,7 +11,7 @@ voltar ao [sumário](README.md)
 
 <p>Um outro aspeto importante é também a indicação dos campos de preenchimento obrigatório, que não devem ser assinalados apenas com a diferenciação de cor, pois pessoas que não vêem ou não distinguem cores, não conseguirão identificar esses campos. Ao utilizar asteriscos para fazer essa indicação, devem ser inseridos igualmente na marcação do campo da etiqueta para caixas de texto e listas drop-down, ou nas legendas para os radio buttons e checkboxes.</p>
 
-<p>Não menos importante são os avisos de erro depois da submissão do formulário, pois se não se conseguir aceder a estes, não se finalizará a tarefa. Para testar o retorno de um erro de um formulário, basta preencher o campo com informação incorreta e verificar onde e se aparece o aviso de erro.</p>
+<p>Não menos importante são os avisos de erro depois da submissão do formulário, pois se não se conseguir aceder a estes, não se finalizará a tarefa. Para testar o retorno de um erro de um formulário, basta preencher o campo com informação incorreta, ou deixar o campo em branco, e verificar onde e se aparece o aviso de erro.</p>
 
 
 <h3>Ferramentas</h3>
@@ -46,7 +46,7 @@ voltar ao [sumário](README.md)
   </li>
 </ul>
 <h4 class="small4 listintro">Error handling</h4>
-<p class="listintro spacenotop">Some simple forms, such as a single search field, might not have any errors. If you think the form(s) on the page you are checking might have error messages, try leaving required fields blank or entering incorrectly-formatted information (such as telephone number or e-mail address), then submitting the form. If you get errors:</p>
+
 <ul>
   <li>Check that clear and specific guidance is provided to help people understand and fix the error. If the error concerns a format such as date, time, or address, check that the  correct format is clearly explained.</li>
   <li>Check that the errors are easily findable. Generally it is best if the error messages are before the form, rather than after the form.</li>
