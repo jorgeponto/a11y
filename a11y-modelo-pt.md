@@ -26,7 +26,7 @@ Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="condi
 
 ### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
  
-A. Enumere <strong>quais as</strong> secções/conteúdos/funções do <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> não são ainda acessíveis:
+A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> que não são ainda acessíveis:
  
 <ul>
   <li><mark><span id="no-compliant-which-1">...</span></mark></li>
@@ -34,10 +34,7 @@ A. Enumere <strong>quais as</strong> secções/conteúdos/funções do <span tit
   <li><mark><span id="no-compliant-which-n">...</span></mark></li>
 </ul>
  
-B. Explicite <strong>as razões</strong> porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou embora dentro do âmbito está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
-
-
-
+B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou embora dentro do âmbito está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
 
 <ul>
   <li><mark><span id="no-compliant-why-1">...</span></mark></li>
@@ -45,7 +42,7 @@ B. Explicite <strong>as razões</strong> porque o conteúdo indicado acima não 
   <li><mark><span id="no-compliant-why-n">...</span></mark></li>
 </ul>
  
-C. Indicate <strong>accessible alternatives</strong>, where appropriate:
+C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em A. e B. da presente secção (sempre que apropriado):
  
 <ul>
   <li><mark><span id="no-compliant-alt-1">...</span></mark></li>
@@ -53,18 +50,19 @@ C. Indicate <strong>accessible alternatives</strong>, where appropriate:
   <li><mark><span id="no-compliant-alt-n">...</span></mark></li>
 </ul>
  
-## II. Preparation of this Accessibility Statement
+## II. Elaboração da presente declaração de acessibilidade/usabilidade
+
+Esta declaração foi elaborada em <mark><span id="statement-date-created">01 de janeiro de 2019</span></mark>. <span title="(aparece se statement-date-review não for zero">A última revisão é de <mark><span id="statement-date-review">12 de setembro de 2019</span></mark></span>.
  
-This statement was prepared on <mark><span id="statement-date-created">01 de janeiro de 2018</span></mark> and was last reviewed on <mark><span id="statement-date-review">12 de setembro de 2018</span></mark>.
+**A. Avaliação automática (identifica as ferramentas utilizadas e os respetivos resultados):** 
  
-**A. Automatic evaluation (identify the tool(s) used and the respective output):** 
+De acordo com a alínea a) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições. 
  
-According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is mandatory in some circunstances. 
+Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/semi-automáticas?
+
+ - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim</span></mark>
  
-Did you do any kind of evaluation using automatic/semiautomatic tool(s)?
- - <mark><span id="automatic-evaluation" title="get a) Yes, b) No">Yes</span></mark>
- 
-<span class="conditional-text" title="If NO">If you don't performed any automatic evaluation, explain the reason(s) for not doing so:</span>
+<span class="conditional-text" title="Se não">Se não levou a efeito qualquer avaliação automática, explicite as razões para não o ter feito:</span>
  
 <ul>
   <li><mark><span id="ae-no-reason1">...</span></mark></li>
@@ -72,22 +70,28 @@ Did you do any kind of evaluation using automatic/semiautomatic tool(s)?
   <li><mark><span id="ae-no-reasonn">...</span></mark></li>
 </ul>
  
-<span title="if YES" class="conditional-text">If you performed automatic evaluations, please include the completion date, the name of the tool(s) used, the sample(s) of pages, the results obtained and the links to additional information about the analyzes made.</span>
- 
+<span title="se Sim" class="conditional-text">Se levou a efeito avaliações automáticas, inclua a data da sua realização, o nome da ou das ferramentas utilizadas, a amostra ou as amostras de páginas utilizadas, os resultados alcançados e as hiperligações para a documentação da ou das análises realizadas.</span>
+
 <ul>
-  <li><mark>(<span title="Last update" id="aen1_update">27/03/2018</span>)</mark>. <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark> - <mark><span title="Scale" id="aen1_scale">Score (1-10)</span></mark>: <mark><span title="Score" id="aen1_score">9.4</span></mark> - Sample: <mark><span title="sample" id="aen1_sample">86</span></mark> pages - <mark><a href="http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962" id="aen1_samplelink_uri"><span id="aen1_samplelink">list of pages of the sample</span></a></mark> - pass: <mark><span title="pass" id="aen1_pass">56% AAA; 21% AA; 7% A</span></mark> - <mark><a href="https://docs.google.com/spreadsheets/d/1iTht_2_fznEpa-sc5VPKTLtY5MGMYzq-Ad__YWPXOlA/edit#gid=0" id="aen1_testslist_uri"><span id="aen1_testslist">list of tests</span></a></mark> - More data: <mark><a href="http://www.acessibilidade.gov.pt/accessmonitor/wcag20/?sid=3962" id="aen1_more_uri"><span title="More data" id="aen1_more">AccessMonitor Report</span></a></mark>.</li>
-   <li><mark>(<span title="Last update" id="aen2_update">27/03/2018</span>)</mark>. <mark><span title="Tool" id="aen2_tool">Tool 2 ...</span></mark> - <mark><span title="Scale" id="aen2_scale">Score (0-1)</span></mark>: <mark><span title="Score" id="aen2_score">9.4</span></mark> - Sample: <mark><span title="sample" id="aen2_sample">86</span></mark> pages - <mark><a href="http://" id="aen2_samplelink_uri"><span id="aen2_samplelink">list of pages of the sample</span></a></mark> - pass: <mark><span title="pass" id="aen2_pass">...</span></mark> - <mark><a href="https://..." id="aen2_testslist_uri"><span id="aen2_testslist">list of tests 2</span></a></mark> - More data: <mark><a href="http://..." id="aen2_more_uri"><span title="More data" id="aen2_more">... Report</span></a></mark>.</li>  
+  <li><mark>(<span title="data" id="aen1_date">27/03/2018</span>).</mark> <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark>. Amostra: <mark><span title="sample" id="aen1_sample">86</span></mark> páginas. <mark><a href="http://..." id="aen1_more_uri"><span title="More data" id="aen1_more">Documentos com os relatórios da análise</span></a></mark>.
+    <ul><li>Síntese de Resultados: <span id="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes.</span></li>
+    </ul></li>
+  <li><mark>(<span title="data" id="aen2_date">dd/mm/aaaa</span>).</mark> <mark><span title="Tool" id="aen2_tool">Ferramenta 2</span></mark>. Amostra: <mark><span title="sample" id="aen2_sample">xx</span></mark> páginas. <mark><a href="http://..." id="aen2_more_uri"><span title="More data" id="aen2_more">Documentos com os relatórios da análise 2</span></a></mark>.
+    <ul><li>Síntese de Resultados: <span id="aen2_findings">...</span></li>
+    </ul></li>
+</ul>
+</li>
 </ul>
  
 **B. Manual evaluation made by experts:**
  
-According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is mandatory.
+De acordo com a alínea b) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições.
+
+Efetuou algum tipo de avaliação manual com base na lista de verificação para sítios Web existente em [lista de verificação](http://)?
+
+- <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
  
-Did you do any kind of manual verification based on the checklist to websites referenced in the http://acessibilidade.gov.pt website?
- 
- - <mark><span id="manual-evaluation" title="get a) Yes, b) No">Yes</span></mark>
- 
-<span class="conditional-text" title="If NO">If you don't performed any manual evaluation, explain the reason(s) for not doing so:</span>
+<span class="conditional-text" title="Se não">Se não levou a efeito nenhuma avaliação manual, explique a razão ou razões para não o ter feito:</span>
  
 <ul>
   <li><mark><span id="me-no-reason1">...</span></mark></li>
@@ -95,22 +99,20 @@ Did you do any kind of manual verification based on the checklist to websites re
   <li><mark><span id="me-no-reasonn">...</span></mark></li>
 </ul>
  
-<span title="if YES" class="conditional-text">If you performed manual evaluations according to the checklist referenced in acessibilidade.gov.pt, please include the result (in the 10 aspects of the checklist how many did you pass) and the link to the respetive analyses. If you performed others manual evalutions, please mention the best result and the link to the report.</span>
+<span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [lista de verificação](http://), inclua o resultado (do total das heurísticas aplicáveis quantas é que são satisfeitas) e uma hiperligação para os documentos da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
  
 <ul>
-  <li><mark><a href="https://jorgeponto.github.io/a11y/lista-verificacao.html" id="me01-pass-uri"><span id="me01-pass">x/10 functional aspects are conformed</span></a></mark>
+  <li><mark><a href="https://" id="me01-pass-uri"><span id="me01-pass">satisfaz/(total aplicaável)</span></a></mark>
    <ul>
-    <li>Sample used to manual evaluation: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">nr. of pages</span></a></mark></li>
-    <li><mark><a href="http://"><span id="me01-tests">List of tests</span></a></mark></li>
+    <li>Amostra utilizada na avaliação manual: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">xx</span> páginas</a>.</mark></li>
   </ul></li>
-  <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">main conclusion of the study - sucess pass of the study</span></a></mark>
+  <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">principais conclusões do estudo</span></a></mark>
 <ul>
-    <li>Sample used to manual evaluation: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">nr. of pages in the study 2</span></a></mark></li>
-    <li><mark><a href="http://"><span id="me02-tests">List of tests of study 2</span></a></mark></li>
+    <li>Amostra utilizada na avaliação manual: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">xx</span> de páginas</a></mark></li>
   </ul></li>
 </ul>
   
-**C. Usability tests w/ people w/ disabilities:**
+**C. Testes de usabilidade com pessoas com deficiência:**
  
 According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is recommended. 
  
