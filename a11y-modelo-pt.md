@@ -1,5 +1,5 @@
 ---
-title: Declaração de Acessibilidade e Usabilidade
+title: Declaração de Acessibilidade/Usabilidade
 ---
 <style type="text/css">
   h1 {text-indent:-2em;}
@@ -8,23 +8,25 @@ title: Declaração de Acessibilidade e Usabilidade
   .conditional-text {background-color:black; color:yellow}
 </style>
 
-# Accessibility Statement 
+# Declaração de Acessibilidade/Usabilidade 
 
 ***
  
-(<strong>Note:</strong> this is an example of the <em>Accessibility Statement</em> of the <mark>Unidade ACESSO's website</mark> which belongs to the Portuguese Public Agency: <mark>FCT - Fundação para a Ciência, Tecnologia e Ensino Superior</mark>.)
- 
+(<strong>Nota:</strong> este é o modelo de declaração de acessibilidade/usabilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
+
 ***
+
+<mark><span id="statement-owner">nome da entidade</span></mark> compromete-se a disponibilizar o seu <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">sítio Web</span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018 de 19 de outubro que transpoe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
  
-<mark><span id="statement-owner">FCT - Fundação para a Ciência e a Tecnologia, I.P.</span></mark> is committed to making its <mark><span id="statement-webapp" title="get a)website, or b) mobile application">website</span></mark> <mark><a href="http://www.acessibilidade.gov.pt" id="webapp-url"><span id="webapp-name" title="http://www.acessibilidade.gov.pt">Unidade ACESSO da FCT</span></a></mark> accessible, in accordance with <em lang="pt-PT">Decreto-lei n.º xx/2018 de xx de outubro - Acessibilidade dos conteúdos de sítios web e de aplicações móveis</em>.
+## I. Estado de conformidade
+
+
+
+Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo.
+
+### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
  
-## I. Compliance status
- 
-This <span title=" put a) website, or b) mobile application" class="conditional-text">website</span> is <mark><span id="status-compliance" title="get a) fully compliant, b) partially compliant, c) not compliant">partially compliant</span></mark> with Decreto-lei n.º xx/2018 de xx de xx - Acessibilidade dos conteúdos de sítios web e de aplicações móveis. <span class="conditional-text" title="(this sentence appears only when you chose b) or c)">The non-compliances and/or the exemptions are listed below.</span>
- 
-### <span title="this subsection appears only when you chose b) or c) and needs to display a non-compliance list" class="conditional-text">Non-Accessible content</span>
- 
-A. Describe <strong>which</strong> section(s)/content(s)/function(s) of the <span title="put a) website, or b) mobile application" class="conditional-text">website</span> are not yet accessible:
+A. Enumere <strong>quais as</strong> secções/conteúdos/funções do <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> não são ainda acessíveis:
  
 <ul>
   <li><mark><span id="no-compliant-which-1">...</span></mark></li>
@@ -32,8 +34,11 @@ A. Describe <strong>which</strong> section(s)/content(s)/function(s) of the <spa
   <li><mark><span id="no-compliant-which-n">...</span></mark></li>
 </ul>
  
-B. Explain <strong>why</strong> the content indicated above is not accessible: (for example, the content is outside of Decreto-Lei n.º xx/2018, de xx de outubro,  or the content is in scope but momentarily not accessible due to disproportionate burden within the meaning of Article 5 of Directive (EU) n.º 2016/2102, for instance):
- 
+B. Explicite <strong>as razões</strong> porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou embora dentro do âmbito está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
+
+
+
+
 <ul>
   <li><mark><span id="no-compliant-why-1">...</span></mark></li>
   <li><mark><span id="no-compliant-why-2">...</span></mark></li>
