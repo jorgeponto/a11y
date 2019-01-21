@@ -20,8 +20,6 @@ title: Declaração de Acessibilidade/Usabilidade
  
 ## I. Estado de conformidade
 
-
-
 Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo.
 
 ### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
@@ -74,13 +72,11 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
 
 <ul>
   <li><mark>(<span title="data" id="aen1_date">27/03/2018</span>).</mark> <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark>. Amostra: <mark><span title="sample" id="aen1_sample">86</span></mark> páginas. <mark><a href="http://..." id="aen1_more_uri"><span title="More data" id="aen1_more">Documentos com os relatórios da análise</span></a></mark>.
-    <ul><li>Síntese de Resultados: <span id="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes.</span></li>
+    <ul><li>Síntese de Resultados: <mark><span id="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes.</span></mark></li>
     </ul></li>
   <li><mark>(<span title="data" id="aen2_date">dd/mm/aaaa</span>).</mark> <mark><span title="Tool" id="aen2_tool">Ferramenta 2</span></mark>. Amostra: <mark><span title="sample" id="aen2_sample">xx</span></mark> páginas. <mark><a href="http://..." id="aen2_more_uri"><span title="More data" id="aen2_more">Documentos com os relatórios da análise 2</span></a></mark>.
-    <ul><li>Síntese de Resultados: <span id="aen2_findings">...</span></li>
+    <ul><li>Síntese de Resultados: <mark><span id="aen2_findings">...</span></mark></li>
     </ul></li>
-</ul>
-</li>
 </ul>
  
 **B. Manual evaluation made by experts:**
