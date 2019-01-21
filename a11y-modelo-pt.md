@@ -144,9 +144,9 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 <dl id="contact-info">
   <dt><mark>Título 1</mark></dt>
   <dd><mark>Elemento 1</mark></dd>
-  <dt><mark>Título 2</dt>
+  <dt><mark>Título 2</mark></dt>
   <dd><mark>Elemento 2</mark></dd>
-  <dt><mark>Título 3</dt>
+  <dt><mark>Título 3</mark></dt>
   <dd><mark>Elemento 3</mark></dd>
   <dt><mark>Título 4</mark></dt>
   <dd><mark>Elemento 4</mark></dd>
