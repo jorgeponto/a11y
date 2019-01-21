@@ -79,7 +79,7 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
     </ul></li>
 </ul>
  
-**B. Manual evaluation made by experts:**
+**B. Avaliação Manual feita com base em lista de verificação:**
  
 De acordo com a alínea b) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições.
 
