@@ -113,43 +113,52 @@ Efetuou algum tipo de avaliação manual com base na lista de verificação para
 </ul>
   
 **C. Testes de usabilidade com pessoas com deficiência:**
+
+De acordo com a alínea c) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é recomendada.
+
+Efetuou algum tipo de testes com utilizadores?
+
+- <mark><span id="usability-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
  
-According to the <em lang="pt-PT">Decreto-lei n.º xx/2018</em> this type of analysis is recommended. 
- 
-Did you do any kind of usability tests?
- - <mark><span id="usability-evaluation" title="get a) Yes, b) No">Yes</span></mark>
- 
-<span title="if YES" class="conditional-text">If you made usability tests with people with disabilities, please list them below, trying to summarize the task description and the user target in the text of the link to the respective report.</span>
+<span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
  
 <ul>
-  <li><mark><a href="" title="link to study report" id="ue01-uri"><span id="ue01">Task(s) description and user targets of the usability study1</span></a></mark></li>
-   <li><mark><a href="" title="link to study report" id="ue02-uri"><span id="ue02">Task(s) description user targets of the usability study2</span></a></mark></li>
-</ul>
+  <li><mark><a href="/report-link" title="hiperligação para o relatório do estudo" id="tu01-uri"><span id="tu01-reporttitle">Título do Estudo 1</span></a></mark>
+    <ul>
+      <li>Participantes: <mark><span id="tu01-participants">4 utilizadores + 2 utilizadores de leitores de ecrã</span></mark></li>
+      <li>Tarefas/Processos: <mark><span id="tu01-tasks">Preenchimento do formulário de contacto; ...</span></mark></li>
+      <li>Principais resultados (sumário): <mark><span id="tu01-summary">...</span></mark></li>
+    </ul></li>
+    <li><mark><a href="/report-link" title="hiperligação para o relatório do estudo" id="tu02-uri"><span id="tu02-reporttitle">Título do Estudo 2</span></a></mark>
+    <ul>
+      <li>Participantes: <mark><span id="tu02-participants">4 utilizadores + 2 utilizadores surdos</span></mark></li>
+      <li>Tarefas/Processos: <mark><span id="tu02-tasks">vídeo-tutoriais; ...</span></mark></li>
+      <li>Principais resultados (sumário): <mark><span id="tu02-summary">...</span></mark></li>
+    </ul></li>
+  </ul>  
  
-## III. Contacto e solicitação de informação relativa ao <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span>
+## III. Contacto e solicitação de informação relativa ao <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
  
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title=" put a) website, or b) mobile application" class="conditional-text">sítio Web</span> da <span class="conditional-text"><a href="http://www.acessibilidade.gov.pt">Unidade ACESSO</a></span> da <span class="conditional-text">Fundação para a Ciência e a Tecnologia, I.P.</span>, utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <mark><span title=" colocar a) sítio web, ou b) aplicação móvel" class="conditional-text">sítio Web</span></mark> da <mark><span class="conditional-text">Entidade</span></mark>, utilize, por favor, os seguintes meios:
  
 <dl id="contact-info">
-  <dt><mark>Unidade ACESSO da FCT</mark></dt>
-  <dd><mark>Av. D. Carlos I, 126<br>1249-074 Lisboa</mark></dd>
-  <dt><mark><abbr title="telefone">Tel</abbr>:</mark></dt>
-  <dd><mark>213 924 300</mark></dd>
-  <dt><mark>Fax:</mark></dt>
-  <dd><mark>213 907 481</mark></dd>
-  <dt><mark>Correio electrónico da equipa da ACESSO:</mark></dt>
-  <dd><mark><a href="mailto:jorge.fernandes@fct.pt" title="jorge.fernandes@fct.pt">Jorge Fernandes</a></mark></dd>
-  <dd><mark><a href="mailto:claudia.cardoso@fct.pt" title="claudia.cardoso@fct.pt">Cláudia Cardoso</a></mark></dd>
+  <dt><mark>Título 1</mark></dt>
+  <dd><mark>Elemento 1</mark></dd>
+  <dt><mark>Título 2</dt>
+  <dd><mark>Elemento 2</mark></dd>
+  <dt><mark>Título 3</dt>
+  <dd><mark>Elemento 3</mark></dd>
+  <dt><mark>Título 4</mark></dt>
+  <dd><mark>Elemento 4</mark></dd>
 </dl>
  
-## IV. Accessibility & Usability Certification - Label of the Portuguese Public Administration
+## IV. Selo de Acessibilidade e Usabilidade
  
-![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif)
+![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif) 
+
  
-The portuguese gov is building a label to certify websites/apps that follow a set of rules of accessibility and usability.
+## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
  
-## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º xx/xx
- 
-De acordo com o n.º 1 do artigo 13.º do DL n.º xx/xx, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no Decreto-Lei n.º 34/2007, de 15 de fevereiro.
+De acordo com o n.º 1 do artigo 13.º do DL n.º 83/2018, de 19 de outubro, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no [Decreto-Lei n.º 34/2007, de 15 de fevereiro](https://data.dre.pt/eli/dec-lei/34/2007/02/15/p/dre/pt/html).
  
 O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formulário para denunciar situações de discriminação](http://www.inr.pt/uploads/Formulario_queixa.rtf.rtf), encaminhando as queixas apresentadas às entidades competentes. Anualmente, o INR, I.P. elabora um relatório anual sobre a aplicação da lei que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde (Lei n.o 46/2006, de 28 de agosto). 
