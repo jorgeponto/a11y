@@ -8,11 +8,15 @@ title: Declaração de Acessibilidade/Usabilidade
   .conditional-text {background-color:black; color:yellow}
 </style>
 
-# Declaração de Acessibilidade/Usabilidade 
+# Declaração de Acessibilidade / Usabilidade
 
 ***
  
 (<strong>Nota:</strong> este é o modelo de declaração de acessibilidade/usabilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
+
+Está em elaboração dois templates:
+- 1 formulário para ajudar na criação da Declaração;
+- 1 modelo HTML resultante do preenchimento do formulário para efetuar copy/paste para os respetivos sítios Web.
 
 ***
 
