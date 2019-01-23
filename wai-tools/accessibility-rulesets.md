@@ -16,7 +16,7 @@ Other References (newest):
 **Note: some of the references below aren't updated.**
 
 References:
-- [Open Ajax Aliance](http://oaa-accessibility.org/)
+- [Open Ajax Aliance](http://oaa-accessibility.org/). It was moved to W3C but I found yet something here: [Open Ajax Cases](https://svn.code.sf.net/p/openajaxallianc/code/accessrules/version-2/trunk/testsuite/rules/).
 - [aXe Rules](https://dequeuniversity.com/rules/worldspace/2.0/)
 - [QuailJS](https://github.com/quailjs/quail/tree/master/src/assessments) and the [QUAIL Test description documentation](https://quail.readthedocs.io/en/latest/)
 - [eGovMon](http://wiki.egovmon.no/wiki/Category:Part_A)
