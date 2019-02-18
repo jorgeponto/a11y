@@ -11,7 +11,7 @@ voltar ao [sumário](README.md)
   <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
  </tr>
  <tr>
-  <td style="align:right">o menu de navegação está marcado como uma lista de opções (do tipo <code>&lt;ul&gt;</code> ou marcado com ARIA)?</td>
+  <td style="align:right">o menu de navegação está estruturado como uma lista de opções (com elementos nativos, do tipo <code>&lt;ul&gt;</code>, ou marcado com ARIA)?</td>
   <td></td>
   <td></td>
   <td></td>
