@@ -59,7 +59,7 @@ voltar ao [sumário](README.md)
   <td></td>
  </tr>
  <tr>
-  <td>o título da tabela está marcado com o elemento <code>&lt;caption&gt;</code>?</td>
+  <td>o legenda da tabela está marcado com o elemento <code>&lt;caption&gt;</code>?</td>
   <td></td>
   <td></td>
   <td></td>
