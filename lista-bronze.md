@@ -20,7 +20,7 @@ O tipo de letra do corpo do texto é adequado e tem no mínimo 12 pontos
 
 A informação secundária (datas, autores) tem no mínimo 10 pontos
 
-## 3. Estrutura da navegação e da informação
+## 3. Estrutura da navegação
 
 A navegação principal é sempre visível e está sempre no mesmo local
 
@@ -28,11 +28,13 @@ Nenhum nível de navegação tem mais de 9 opções
 
 Links de texto não devem ser diferenciados apenas com base na cor
 
+## 4. Estrutura da informação
+
 Documentos longos têm um índice com links internos no topo
 
 O layout do sitio Web é adaptável a plataformas móveis sem scroll horizontal
 
-## 4. Elementos Interativos
+## 5. Elementos Interativos
 
 Não existem elementos interativos acionados com a passagem do rato
  
