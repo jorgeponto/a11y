@@ -29,7 +29,9 @@ Nenhum nível de navegação tem mais de 9 opções
 Links de texto não devem ser diferenciados apenas com base na cor
 
 Documentos longos têm um índice com links internos no topo
- 
+
+O layout do sitio Web é adaptável a plataformas móveis sem scroll horizontal
+
 ## 4. Elementos Interativos
 
 Não existem elementos interativos acionados com a passagem do rato
