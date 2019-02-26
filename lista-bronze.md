@@ -22,7 +22,7 @@ Nenhum nível de navegação tem mais de 9 opções
 
 Links de texto não devem ser diferenciados apenas com base na cor
 
-Documentos longos têm índice com links internos no topo
+Documentos longos têm um índice com links internos no topo
  
 ## 4. Elementos Interativos
 
