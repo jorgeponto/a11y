@@ -22,6 +22,8 @@ A informação secundária (datas, autores) tem no mínimo 10 pontos
 
 ## 3. Estrutura da navegação e da informação
 
+A navegação principal é sempre visível e está sempre no mesmo local
+
 Nenhum nível de navegação tem mais de 9 opções
 
 Links de texto não devem ser diferenciados apenas com base na cor
