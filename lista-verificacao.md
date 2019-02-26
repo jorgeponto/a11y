@@ -1,6 +1,6 @@
 voltar ao [sumário](README.md)
 
-# Lista de verificação para sítios Web<br /><em style="font-size:70%">(10 aspetos críticos a ter em conta)</em>
+# Lista de verificação de Acessibilidade para sítios Web<br /><em style="font-size:70%">(10 aspetos críticos a ter em conta)</em>
 
 <table>
 <caption>10 aspetos críticos - Lista de verificação para sítios Web</caption>
