@@ -16,7 +16,7 @@ Blocos e Linhas de texto com largura não superior a 100 caracteres
  
 Espaço entre linhas não inferior a 1.5 x tamanho da letra
 
-## 3. Estrutura da navegação e informação
+## 3. Estrutura da navegação e da informação
 
 Nenhum nível de navegação tem mais de 9 opções
 
