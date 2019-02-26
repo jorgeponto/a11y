@@ -16,6 +16,10 @@ Blocos e Linhas de texto com largura não superior a 100 caracteres
  
 Espaço entre linhas não inferior a 1.5 x tamanho da letra
 
+O tipo de letra do corpo do texto é adequado e tem no mínimo 12 pontos
+
+A informação secundária (datas, autores) tem no mínimo 10 pontos
+
 ## 3. Estrutura da navegação e da informação
 
 Nenhum nível de navegação tem mais de 9 opções
