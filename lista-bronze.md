@@ -36,6 +36,8 @@ A informação secundária (datas, autores) tem no mínimo 10 pontos
 
 A navegação principal é sempre visível e está sempre no mesmo local
 
+![11_9_opcoes](https://user-images.githubusercontent.com/35463404/53654506-c78fa280-3c45-11e9-90c9-8950b30f63c1.png)
+
 Nenhum nível de navegação tem mais de 9 opções
 
 Links de texto não devem ser diferenciados apenas com base na cor
