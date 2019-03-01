@@ -2,6 +2,7 @@
 
 ## 1. Clareza de conteúdo
 
+![1_resumo_visivel](https://user-images.githubusercontent.com/35463404/53648239-4df0b800-3c37-11e9-95f6-3efa8b3b08f0.png)
 
 O site apresenta um resumo breve do seu propósito, visível sem se fazer scroll
 
