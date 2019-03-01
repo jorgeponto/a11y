@@ -19,6 +19,7 @@ As legendas dos campos são breves e claras
 Campos obrigatórios devem ser claramente indicados como tal
  
 ## 3. Resposta
+![image](https://user-images.githubusercontent.com/35463404/53646740-dec59480-3c33-11e9-8255-680f6d264ef1.png)
 
 O sistema deve indicar o que está a acontecer em ações longas
  
