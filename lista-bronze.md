@@ -40,6 +40,8 @@ A navegação principal é sempre visível e está sempre no mesmo local
 
 Nenhum nível de navegação tem mais de 9 opções
 
+![12_links_cor](https://user-images.githubusercontent.com/35463404/53654718-52709d00-3c46-11e9-9a62-927ce62bb4ef.png)
+
 Links de texto não devem ser diferenciados apenas com base na cor
 
 ## 4. Estrutura da informação
