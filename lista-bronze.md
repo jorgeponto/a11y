@@ -46,6 +46,8 @@ Links de texto não devem ser diferenciados apenas com base na cor
 
 ## 4. Estrutura da informação
 
+![13_docs_longos](https://user-images.githubusercontent.com/35463404/53654866-b1cead00-3c46-11e9-9f0a-fa24abfc402e.png)
+
 Documentos longos têm um índice com links internos no topo
 
 O layout do sitio Web é adaptável a plataformas móveis sem scroll horizontal
