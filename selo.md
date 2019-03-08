@@ -21,5 +21,5 @@ Se o site sofrer uma alteração profunda o selo é revogado
 ### Prata
 
 - [Transação](lista-prata.md)
-- [10 aspetos críticos de acessibilidade funcional](lista-verificacao.md)
+- [Lista de verificação de Acessibilidade para sítios Web: 10 aspetos críticos a ter em conta](lista-verificacao.md)
 
