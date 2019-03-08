@@ -16,10 +16,10 @@ Se o site sofrer uma alteração profunda o selo é revogado
 
 ### Bronze
 
-- [Lista de verificação de Usabilidade: Conteúdos](lista-bronze.md)
+- [Lista de verificação de Usabilidade para sítios Web: Conteúdos](lista-bronze.md)
 
 ### Prata
 
-- [Lista de verificação de Usabilidade: Transação](lista-prata.md)
+- [Lista de verificação de Usabilidade para sítios Web: Transação](lista-prata.md)
 - [Lista de verificação de Acessibilidade para sítios Web: 10 aspetos críticos a ter em conta](lista-verificacao.md)
 
