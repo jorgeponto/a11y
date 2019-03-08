@@ -1,4 +1,6 @@
-# Checklist de Usabilidade - atribuição do selo bronze
+# Lista de verificação de Usabilidade para sítios web: conteúdos
+
+Lista de verificação para atribuição do selo bronze
 
 ## 1. Clareza de conteúdo
 
