@@ -16,9 +16,10 @@ Se o site sofrer uma alteração profunda o selo é revogado
 
 ### Bronze
 
-- []()
+- [Conteúdos](lista-bronze.md)
 
 ### Prata
 
-- []()
+- [Transação](lista-prata.md)
+- [10 aspetos críticos de acessibilidade funcional](lista-verificacao.md)
 
