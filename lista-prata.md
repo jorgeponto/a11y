@@ -1,4 +1,6 @@
-# Checklist de Usabilidade - atribuição do selo prata
+# Lista de verificação de Usabilidade: Transação
+
+Lista de verificação para atribuição do selo prata.
 
 ## 1. Formulários
 
