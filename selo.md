@@ -12,11 +12,11 @@ Estão estruturados 3 níveis, os quais correspondem a 3 níveis de esforço dis
 
 ### Nível 1 (Bronze)
 
-A entidade tem de cumprir com as heurísticas constantes da lista "Conteúdo" (nível de cumprimento: 75% no primeiro ano) e os conteúdos têm de passar a bateria de testes de um validador de acessibilidade Web para o 'AA' das WCAG 2.1 de acordo com a metodologia referida no artigo 9º, n.º1, alínea a) do DL n.º 83/2018, de 19 de outubro.
+A entidade tem de cumprir com as heurísticas constantes da [lista "Conteúdo"](#lista-bronze) (nível de cumprimento: 75% no primeiro ano) e os conteúdos têm de passar a bateria de testes de um validador de acessibilidade Web para o 'AA' das WCAG 2.1 de acordo com a metodologia referida no artigo 9º, n.º 1, alínea a) do DL n.º 83/2018, de 19 de outubro.
 
 ### Nível 2 (Prata)
 
-Cumulativamente ao que é exigido para o nível 1 a entidade tem de cumprir com as heurísticas constantes da lista "Transação" e da lista "10 aspectos críticos de acessibilidade funcional" (nível de cumprimento: 75% no primeiro ano).
+Cumulativamente ao que é exigido para o nível 1 a entidade tem de cumprir com as heurísticas constantes da [lista "Transação"](#lista-prata) e da (lista "10 aspectos críticos de acessibilidade funcional")[#lista-verificacao] (nível de cumprimento: 75% no primeiro ano).
 
 ### Nível 3 (Ouro)
 
@@ -30,6 +30,6 @@ Cumulativamente ao que é exigido para o nível 2, a entidade tem de levar a efe
 
 ### Prata
 
-- [Lista de verificação de Usabilidade para sítios Web: Transação](lista-prata.md)
-- [Lista de verificação de Acessibilidade para sítios Web: 10 aspetos críticos a ter em conta](lista-verificacao.md)
+- [Lista de verificação de Usabilidade para sítios Web: Transação](lista-prata.md){: #lista-prata}
+- [Lista de verificação de Acessibilidade para sítios Web: 10 aspetos críticos a ter em conta](lista-verificacao.md){: #lista-verificacao}
 
