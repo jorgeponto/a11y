@@ -21,7 +21,8 @@ Lista de verificação para atribuição do selo bronze
 
 ![4_termos_complexos](https://user-images.githubusercontent.com/35463404/53650914-85faf980-3c3d-11e9-8bfb-54f86c2aadc4.png)
 
-**Os termos mais complexos têm uma deﬁnição agregada**
+**Termos complexos têm uma definição associada** (frase AMA)
+**Os termos mais complexos têm uma deﬁnição agregada** (frase Bruno)
 - Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter uma deﬁnição agregada. Todos os termos deﬁnidos desta forma devem  fazer parte  de um glossário disponível no site.
 
 
