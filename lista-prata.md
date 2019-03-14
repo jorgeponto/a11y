@@ -9,6 +9,8 @@ Lista de verificação para atribuição do selo prata.
 **A sequência de tabulações entre campos segue a sequência de preenchimento**
 - Os campos devem seguir na sua ordem de tabulações a sequência normal de preenchimento do documento.
 
+![12_form_paginas](https://user-images.githubusercontent.com/35463404/54363729-644d3980-4663-11e9-8b19-22c256872e95.png)
+
 **Formulários com mais de 2 ecrãs de altura são repartidos em várias páginas**
 - Os formulários não devem ser apresentados de forma excessivamente longa. Formulários que ocupem mais do que 2 ecrãs de altura devem ser repartidos por tantos ecrãs quantos os necessários para cumprir esta regra.
 
