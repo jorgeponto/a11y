@@ -57,7 +57,7 @@ Lista de verificação para atribuição do selo bronze
 ![12_links_cor](https://user-images.githubusercontent.com/35463404/53654718-52709d00-3c46-11e9-9a62-927ce62bb4ef.png)
 
 **?Links de texto não devem ser diferenciados apenas com base na cor. (frase AMA)**
-?As hiperligações textuais apresentam uma cor contrastante e consistente.(frase Bruno)
+**?As hiperligações textuais apresentam uma cor contrastante e consistente.(frase Bruno)**
 - As hiperligações textuais devem apresentar um tom contrastante com o resto do texto e ser reconhecidas de imediato como tal. Idealmente serão sublinhadas. Todas as hiperligações textuais deverão apresentar o mesmo tom em todo o site. Uma hiperligação nunca deve ser ???? (frase não está acabada)
 
 ## 4. Estrutura da informação
