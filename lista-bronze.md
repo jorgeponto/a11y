@@ -46,6 +46,7 @@ Lista de verificação para atribuição do selo bronze
 ## 3. Estrutura da navegação
 
 **A navegação principal é sempre visível e está sempre no mesmo local**
+- As opções do primeiro nível da navegação principal estão sempre visíveis e estão sempre no mesmo local em todas as páginas.
 
 ![11_9_opcoes](https://user-images.githubusercontent.com/35463404/53654506-c78fa280-3c45-11e9-90c9-8950b30f63c1.png)
 
