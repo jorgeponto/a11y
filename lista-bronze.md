@@ -7,23 +7,22 @@ Lista de verificação para atribuição do selo bronze
 ![1_resumo_visivel](https://user-images.githubusercontent.com/35463404/53648239-4df0b800-3c37-11e9-95f6-3efa8b3b08f0.png)
 
 **O site apresenta um resumo breve do seu propósito, visível sem se fazer scroll**
-- Num primeiro vislumbre do site deve ser visível uma breve deﬁnição do seu propósito que dê a indicação ao utilizador de que site se trata e de que tarefas poderá desempenhar nele.
+- Num primeiro vislumbre do site deve ser visível uma breve deﬁnição do seu propósito que dê a indicação ao utilizador de que site se trata e quais as tarefas que poderá desempenhar.
 
 ![2_data_atualizacao](https://user-images.githubusercontent.com/35463404/53650892-78de0a80-3c3d-11e9-836e-6523a09dcfa7.png)
 
 **Cada bloco de conteúdo contém a sua data de atualização**
-- Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua actualização associada, expressa num tamanho de letra 2pt inferior ao do corpo de texto e com contraste mais reduzido.
+- Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua actualização associada.
 
 ![3_entidade_responsavel](https://user-images.githubusercontent.com/35463404/53650908-82677280-3c3d-11e9-9830-d372b4748535.png)
 
 **Informação sobre a entidade responsável pelo conteúdo está em todas as páginas**
-- Informação sobre a entidade responsável pelos conteúdos produzidos, incluindo múltiplas formas de contacto, deverá constar do rodapé de todas as páginas.
+- A identificação da entidade responsável pelos conteúdos produzidos, incluindo um link para a página de contactos deverá constar do rodapé de todas as páginas.
 
 ![4_termos_complexos](https://user-images.githubusercontent.com/35463404/53650914-85faf980-3c3d-11e9-8bfb-54f86c2aadc4.png)
 
-**Termos complexos têm uma definição associada** (frase AMA)
-**Os termos mais complexos têm uma deﬁnição agregada** (frase Bruno)
-- Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter uma deﬁnição agregada. Todos os termos deﬁnidos desta forma devem  fazer parte  de um glossário disponível no site.
+**Os termos mais complexos têm uma deﬁnição agregada**
+- Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter uma deﬁnição agregada. Todos os termos deﬁnidos desta forma devem fazer parte de um glossário disponível no site.
 
 
 ## 2. Usabilidade do Conteúdo
@@ -31,18 +30,18 @@ Lista de verificação para atribuição do selo bronze
 ![5_100caracteres](https://user-images.githubusercontent.com/35463404/53651063-cfe3df80-3c3d-11e9-94be-b85960ea4e89.png)
 
 **Blocos e Linhas de texto com largura não superior a 100 caracteres**
-- Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 caracteres de largura, sendo 80 caracteres o mais confortável para os utilizadores.
+- Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 carateres de largura, sendo 80 carateres o mais confortável para os utilizadores.
  
  ![6_espaco_linhas](https://user-images.githubusercontent.com/35463404/53651069-d2463980-3c3d-11e9-8a10-dd418840230e.png)
  
-**Espaço entre linhas não inferior a 1.5 x tamanho da letra**
-- Para assegurar a leitura confortável de blocos de texto deve ser assegurado o rácio de 1.5x o tamanho de letra empregue. Títulos poderão ter no mínimo o rácio de 1.2x.
+**Espaço entre linhas não inferior a 1.5x o tamanho da letra**
+- Para assegurar a leitura confortável de blocos de texto deve ser empregue o rácio de 1.5x o tamanho de letra.
 
 **O tipo de letra do corpo do texto é adequado e tem no mínimo 12 pontos**
-- De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho mínimo do corpo  do texto deverá ser 12 pontos, assegurando a escalabilidade para tamanhos superiores, se o utilizador sentir necessidade disso.
+- De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho mínimo do corpo do texto deverá ser 12 pontos, assegurando a escalabilidade para tamanhos superiores, se o utilizador sentir necessidade disso.
 
 **A informação secundária (datas, autores) tem no mínimo 10 pontos**
-- Informação secundária, como o autor de textos ou imagens, datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas no mínimo com 10 pontos e sempre assegurando a sua escalabilidade para tamanhos superiores.
+- Informação secundária, como o autor de textos ou de imagens, as datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas, no mínimo com 10 pontos, assegurando sempre a sua escalabilidade para tamanhos superiores.
 
 ## 3. Estrutura da navegação
 
@@ -57,7 +56,7 @@ Lista de verificação para atribuição do selo bronze
 ![12_links_cor](https://user-images.githubusercontent.com/35463404/53654718-52709d00-3c46-11e9-9a62-927ce62bb4ef.png)
 
 **?Links de texto não devem ser diferenciados apenas com base na cor. (frase AMA)**
-**?As hiperligações textuais apresentam uma cor contrastante e consistente.(frase Bruno)**
+?As hiperligações textuais apresentam uma cor contrastante e consistente.(frase Bruno)
 - As hiperligações textuais devem apresentar um tom contrastante com o resto do texto e ser reconhecidas de imediato como tal. Idealmente serão sublinhadas. Todas as hiperligações textuais deverão apresentar o mesmo tom em todo o site. Uma hiperligação nunca deve ser ???? (frase não está acabada)
 
 ## 4. Estrutura da informação
