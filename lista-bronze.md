@@ -6,13 +6,13 @@ Lista de verificação para atribuição do selo bronze
 
 ![1_resumo_visivel](https://user-images.githubusercontent.com/35463404/53648239-4df0b800-3c37-11e9-95f6-3efa8b3b08f0.png)
 
-**O site apresenta um resumo breve  do seu propósito, visível sem se fazer scroll**
-- Num primeiro vislumbre do site deve ser visível uma breve  deﬁnição do seu propósito que dê a indicação  ao utilizador de que site se trata e de que tarefas poderá desempenhar nele.
+**O site apresenta um resumo breve do seu propósito, visível sem se fazer scroll**
+- Num primeiro vislumbre do site deve ser visível uma breve deﬁnição do seu propósito que dê a indicação ao utilizador de que site se trata e de que tarefas poderá desempenhar nele.
 
 ![2_data_atualizacao](https://user-images.githubusercontent.com/35463404/53650892-78de0a80-3c3d-11e9-836e-6523a09dcfa7.png)
 
-**Cada bloco de conteúdo contém a sua data de actualização**
-- Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua actualização associada, expressa num tamanho de letra 2pt inferior ao do corpo  de texto e com contraste mais reduzido.
+**Cada bloco de conteúdo contém a sua data de atualização**
+- Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua actualização associada, expressa num tamanho de letra 2pt inferior ao do corpo de texto e com contraste mais reduzido.
 
 ![3_entidade_responsavel](https://user-images.githubusercontent.com/35463404/53650908-82677280-3c3d-11e9-9830-d372b4748535.png)
 
