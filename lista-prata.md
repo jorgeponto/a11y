@@ -10,24 +10,24 @@ Lista de verificação para atribuição do selo prata.
 - Os campos devem seguir na sua ordem de tabulações a sequência normal de preenchimento do documento.
 
 **Formulários com mais de 2 ecrãs de altura são repartidos em várias páginas**
-- Os formulários não devem ser apresentados de forma excessivamente longa. Formulários que ocupem mais do que 2 ecrãs de altura devem ser repartidos por tantos ecrãs quanto necessários para cumprir esta regra.
+- Os formulários não devem ser apresentados de forma excessivamente longa. Formulários que ocupem mais do que 2 ecrãs de altura devem ser repartidos por tantos ecrãs quantos os necessários para cumprir esta regra.
 
 ![2_formularios_sequencia](https://user-images.githubusercontent.com/35463404/53651924-a461f480-3c3f-11e9-918a-a340f6b52214.png)
 
 **Formulários com mais de uma página têm a sequência dos passos ilustrada**
-- Formulários repartidos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve poder clicar nos passos anteriores para retornar aos ecrãs respectivos e se necessário, corrigir informação.
+- Formulários repartidos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve poder clicar nos passos anteriores para retornar aos ecrãs respectivos e, se necessário, corrigir informação.
 
 ## 2. Campos
 
 ![3_tamanho_campos](https://user-images.githubusercontent.com/35463404/53651933-a62bb800-3c3f-11e9-90df-79ed7ac3134b.png)
 
 **O tamanho dos campos deve reﬂetir o tamanho previsível dos dados**
-- O tamanho dos campos deve reflectir o tamanho típico de input dos dados. Por exemplo, um campo para telefone deve ter a largura apropriada para albergar todos os dígitos e não mais.
+- O tamanho dos campos deve reflectir o tamanho previsível para a entrada dos dados. Por exemplo, um campo para telefone deve ter a largura apropriada para conter todos os dígitos e não mais.
 
 ![4_revelacao_campos](https://user-images.githubusercontent.com/35463404/53651939-a7f57b80-3c3f-11e9-8947-57c81270e8b4.png)
 
 **É usada revelação progressiva em vez de campos inativos**
-- Em vez de mostrar campos inactivos, o formulário deve esconder os campos cujo campo-mãe ainda não foi activado. Quando este campo é activado, são então exibidos os sub-campos respectivos.
+- Em vez de mostrar campos inativos, o formulário deve esconder os campos dependentes do campo-chave sempre que este ainda tenha sido ativado. Ao ativar o campo-chave são exibidos os campos que dependem da condição nele definida.
 
 ![5_legendas_breves_claras](https://user-images.githubusercontent.com/35463404/53651941-a9bf3f00-3c3f-11e9-902e-1ba0595c3a30.png)
 
