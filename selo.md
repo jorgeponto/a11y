@@ -4,7 +4,7 @@
 Período de Atribuição: 12 meses
 Se o site sofrer uma alteração profunda o selo é revogado
 
-**Método de aplicação:** imagem colocada no site com selo atribuído mas ligada ao site do selo. Imagem é alterada para versão anulada automaticamente quando o selo caduca. Clicando no selo é-se direccionado para o site do selo onde se comprova a sua autenticidade. Nesta página encontra-se ligação para a Declaração de Usabilidade e Acessibilidade no site originário.
+**Método de aplicação:** imagem colocada no site com selo atribuído mas ligada ao site do selo. Imagem é alterada para versão anulada automaticamente quando o selo caduca. Clicando no selo é-se direccionado para o site do selo onde se comprova a sua autenticidade. A entidade tem completa liberdade para afixar o selo de Usabilidade/Acessibilidade na página e na posição que considerar mais adequado. Sendo a Declaração de Acessibilidade obrigatória para todas as entidades e sendo esta um depósito público dos esforços levados a efeito pelas entidades, o selo deve fazer parte da mesma.
 
 ## Níveis de classificação
 
