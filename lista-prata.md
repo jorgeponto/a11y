@@ -15,19 +15,19 @@ Lista de verificação para atribuição do selo prata.
 ![2_formularios_sequencia](https://user-images.githubusercontent.com/35463404/53651924-a461f480-3c3f-11e9-918a-a340f6b52214.png)
 
 **Formulários com mais de uma página têm a sequência dos passos ilustrada**
-- Formulários repartidos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve poder clicar nos passos anteriores para retornar aos ecrãs respectivos e, se necessário, corrigir informação.
+- Formulários repartidos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve poder clicar nos passos anteriores para retornar aos ecrãs respetivos e, se necessário, corrigir informação.
 
 ## 2. Campos
 
 ![3_tamanho_campos](https://user-images.githubusercontent.com/35463404/53651933-a62bb800-3c3f-11e9-90df-79ed7ac3134b.png)
 
 **O tamanho dos campos deve reﬂetir o tamanho previsível dos dados**
-- O tamanho dos campos deve reflectir o tamanho previsível para a entrada dos dados. Por exemplo, um campo para telefone deve ter a largura apropriada para conter todos os dígitos e não mais.
+- O tamanho dos campos deve refletir o tamanho previsível para a entrada dos dados. Por exemplo, um campo para telefone deve ter a largura apropriada para conter todos os dígitos e não mais.
 
 ![4_revelacao_campos](https://user-images.githubusercontent.com/35463404/53651939-a7f57b80-3c3f-11e9-8947-57c81270e8b4.png)
 
 **É usada revelação progressiva em vez de campos inativos**
-- Em vez de mostrar campos inativos, o formulário deve esconder os campos dependentes do campo-chave sempre que este ainda tenha sido ativado. Ao ativar o campo-chave são exibidos os campos que dependem da condição nele definida.
+- Em vez de mostrar campos inativos, o formulário deve esconder os campos dependentes do campo-chave sempre que este não tenha sido ativado. Ao ativar o campo-chave são exibidos os campos que dependem da condição nele definida.
 
 ![5_legendas_breves_claras](https://user-images.githubusercontent.com/35463404/53651941-a9bf3f00-3c3f-11e9-902e-1ba0595c3a30.png)
 
@@ -36,16 +36,15 @@ Lista de verificação para atribuição do selo prata.
 
 ![6_campos_obrigatorios](https://user-images.githubusercontent.com/35463404/53651948-ad52c600-3c3f-11e9-8947-bd5123d48a0b.png)
 
-**Campos obrigatórios devem ser claramente indicados como tal**
-- Os campos obrigatórios devem ser claramente identificados como tal. Essa identificação não deve ser apenas através de cor ou de um asterisco. Se for usado apenas um artifício visual, este deve ser notório e deve ser também providenciado em paralelo um mecanismo de
- identificação alternativo para utilizadores com necessidades especiais.
+**Campos obrigatórios devem ser claramente identificados como tal**
+- A identificação não deve basear-se apenas na cor. A sinalética visual de identificação deve ser notória. Deve ser disponibilizado um equivalente alternativo compatível com as tecnologias de apoio usadas por utilizadores com necessidades especiais.
 
 ## 3. Resposta
 
 ![7_acoes_longas](https://user-images.githubusercontent.com/35463404/53651957-b04db680-3c3f-11e9-835e-25f990c96ece.png)
 
 **O sistema deve indicar o que está a acontecer em ações longas**
-- O sistema deve indicar o que está a processar ou qual o tempo de espera expectável quando o utilizador desencadeia acções que levem a este comportamento.
+- O sistema deve indicar o que está a processar ou qual o tempo de espera expectável quando o utilizador desencadeia ações que levem a este comportamento.
 
 ![8_sucesso_transacao](https://user-images.githubusercontent.com/35463404/53651963-b348a700-3c3f-11e9-8b8b-b0df5c928501.png)
 
@@ -60,7 +59,7 @@ Lista de verificação para atribuição do selo prata.
 ![9_desfazer_acao](https://user-images.githubusercontent.com/35463404/53651971-b6439780-3c3f-11e9-8e94-f35f6de1b508.png)
 
 **Ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação**
-- O utilizador deve poder recuperar de qualquer acção que tenha tomado durante a sessão actual.
+- O utilizador deve poder recuperar de qualquer ação que tenha tomado durante a sessão.
 
 ![10_erros_junto](https://user-images.githubusercontent.com/35463404/53651976-b93e8800-3c3f-11e9-999c-0dad7bede73f.png)
 
