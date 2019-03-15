@@ -49,6 +49,8 @@ Lista de verificação para atribuição do selo bronze
 
 ## 3. Estrutura da navegação
 
+![17_principal_visivel](https://user-images.githubusercontent.com/35463404/54427260-e5fba080-4711-11e9-9429-3a80717dda1d.png)
+
 **A navegação principal é sempre visível e está sempre no mesmo local**
 - As opções de primeiro nível da navegação principal estão sempre visíveis e encontram-se sempre no mesmo local em todas as páginas.
 
@@ -66,7 +68,7 @@ Lista de verificação para atribuição do selo bronze
 
 ![13_docs_longos](https://user-images.githubusercontent.com/35463404/53654866-b1cead00-3c46-11e9-9f0a-fa24abfc402e.png)
 
-**Documentos longos têm um índice com links internos no topo.**
+**Documentos longos têm um índice com links internos no topo**
 - Documentos com mais de três ecrãs de altura deverão ter a hierarquia de cabeçalhos espelhada num índice no topo da página com hiperligações internas para as respectivas secções e subsecções.
 
 ![16_scroll_moveis](https://user-images.githubusercontent.com/35463404/54426647-4c7fbf00-4710-11e9-9c34-1bf53161dc59.png)
