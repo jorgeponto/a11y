@@ -4,22 +4,22 @@ Lista de verificação para atribuição do selo bronze
 
 ## 1. Clareza de conteúdo
 
-![1_resumo_visivel](https://user-images.githubusercontent.com/35463404/53648239-4df0b800-3c37-11e9-95f6-3efa8b3b08f0.png)
+![1_resumo_visivel](https://user-images.githubusercontent.com/35463404/54431036-3a584d80-471d-11e9-8650-8f07ca0c6695.png)
 
 **O site apresenta um resumo breve do seu propósito, visível sem se fazer scroll**
 - Num primeiro vislumbre do site deve ser visível uma breve deﬁnição do seu propósito que dê a indicação ao utilizador de que site se trata e quais as tarefas que poderá desempenhar.
 
-![2_data_atualizacao](https://user-images.githubusercontent.com/35463404/53650892-78de0a80-3c3d-11e9-836e-6523a09dcfa7.png)
+![2_data_atualizacao](https://user-images.githubusercontent.com/35463404/54431039-3cbaa780-471d-11e9-987a-22df543326fd.png)
 
 **Cada bloco de conteúdo contém a sua data de atualização**
 - Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua actualização associada.
 
-![3_entidade_responsavel](https://user-images.githubusercontent.com/35463404/53650908-82677280-3c3d-11e9-9830-d372b4748535.png)
+![3_entidade_responsavel](https://user-images.githubusercontent.com/35463404/54431047-3fb59800-471d-11e9-9172-c81d162918f0.png)
 
 **Informação sobre a entidade responsável pelo conteúdo está em todas as páginas**
 - A identificação da entidade responsável pelos conteúdos produzidos, incluindo um link para a página de contactos deverá constar do rodapé de todas as páginas.
 
-![4_termos_complexos](https://user-images.githubusercontent.com/35463404/53650914-85faf980-3c3d-11e9-8bfb-54f86c2aadc4.png)
+![4_termos_complexos](https://user-images.githubusercontent.com/35463404/54431059-4217f200-471d-11e9-89bf-479bfc1e6e2c.png)
 
 **Os termos mais complexos têm uma deﬁnição agregada**
 - Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter uma deﬁnição agregada. Todos os termos deﬁnidos desta forma devem fazer parte de um glossário disponível no site.
@@ -27,12 +27,13 @@ Lista de verificação para atribuição do selo bronze
 
 ## 2. Usabilidade do Conteúdo
 
-![5_100caracteres](https://user-images.githubusercontent.com/35463404/53651063-cfe3df80-3c3d-11e9-94be-b85960ea4e89.png)
+
+![5_100_caracteres](https://user-images.githubusercontent.com/35463404/54431075-552ac200-471d-11e9-9619-a827205a4ca5.png)
 
 **Blocos e Linhas de texto com largura não superior a 100 caracteres**
 - Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 carateres de largura. Os 80 carateres é a dimensão que se apresenta de a mais confortável para os utilizadores.
  
- ![6_espaco_linhas](https://user-images.githubusercontent.com/35463404/53651069-d2463980-3c3d-11e9-8a10-dd418840230e.png)
+ ![6_espaco_linhas](https://user-images.githubusercontent.com/35463404/54431080-5825b280-471d-11e9-9ae4-9ff4a06f6f13.png)
  
 **Espaço entre linhas não inferior a 1.5x o tamanho da letra**
 - Para assegurar a leitura confortável de blocos de texto deve ser empregue o rácio de 1.5x o tamanho de letra.
@@ -54,19 +55,20 @@ Lista de verificação para atribuição do selo bronze
 **A navegação principal é sempre visível e está sempre no mesmo local**
 - As opções de primeiro nível da navegação principal estão sempre visíveis e encontram-se sempre no mesmo local em todas as páginas.
 
-![11_9_opcoes](https://user-images.githubusercontent.com/35463404/53654506-c78fa280-3c45-11e9-90c9-8950b30f63c1.png)
+![11_9_opcoes](https://user-images.githubusercontent.com/35463404/54431128-78ee0800-471d-11e9-8780-09a7f029b475.png)
 
 **Nenhum nível de navegação tem mais de 9 opções**
 - A navegação principal deve ser equilibrada. Deve evitar-se demasiadas opções de topo sem opções secundárias ou poucas opções de topo e muitas opções secundárias. Nenhum nível de navegação deve ter mais de 9 opções.
 
-![12_links_cor](https://user-images.githubusercontent.com/35463404/53654718-52709d00-3c46-11e9-9a62-927ce62bb4ef.png)
+![12_links_cor](https://user-images.githubusercontent.com/35463404/54431132-7be8f880-471d-11e9-9909-f5dc6fe0b973.png)
 
 **Links de texto não devem ser diferenciados apenas com base na cor**
 - As hiperligações textuais devem apresentar um contraste mínimo de 3:1 com o texto envolvente e uma representação visual complementar da cor - idealmente as hiperligações devem apresentar-se sublinhadas. As hiperligações textuais deverão apresentar-se da mesma forma em todo o site.
 
 ## 4. Estrutura da informação
 
-![13_docs_longos](https://user-images.githubusercontent.com/35463404/53654866-b1cead00-3c46-11e9-9f0a-fa24abfc402e.png)
+
+![13_docs_longos](https://user-images.githubusercontent.com/35463404/54431136-7f7c7f80-471d-11e9-8c67-1f5b7b488b0a.png)
 
 **Documentos longos têm um índice com links internos no topo**
 - Documentos com mais de três ecrãs de altura deverão ter a hierarquia de cabeçalhos espelhada num índice no topo da página com hiperligações internas para as respectivas secções e subsecções.
@@ -78,17 +80,19 @@ Lista de verificação para atribuição do selo bronze
 
 ## 5. Elementos Interativos
 
-![7_passagem_rato](https://user-images.githubusercontent.com/35463404/53651073-d4a89380-3c3d-11e9-96bb-b0ce06e5b862.png)
+
+![7_passagem_rato](https://user-images.githubusercontent.com/35463404/54431084-5b20a300-471d-11e9-98b8-2bff7a339128.png)
 
 **Não existem elementos interativos acionados apenas com a passagem do rato (hover)**
 - Não devem existir elementos de interação, como hiperligações ou botões, que apareçam apenas quando se passa por cima com um dispositivo apontador. Este método de interação não existe em aparelhos com interação por toque.
  
-![8_interactivos_25px](https://user-images.githubusercontent.com/35463404/53651080-d7a38400-3c3d-11e9-9205-f8b316de18d7.png)
+![8_interactivos_25px](https://user-images.githubusercontent.com/35463404/54431088-5f4cc080-471d-11e9-9f4e-9122514780fe.png)
 
 **Os elementos interativos têm uma dimensão mínima de 25px (vertical e horizontal)**
 - De forma a assegurar que todos os elementos interativos são facilmente acionáveis por qualquer tipo de dispositivo apontador ou toque, estes devem ter a dimensão mínima de 25 pixeis de altura e de largura (medida relativa a ecrãs de resolução padrão, que deve ser proporcionalmente adaptada a ecrãs de maior resolução.
  
-![9_botao_acao](https://user-images.githubusercontent.com/35463404/53651085-da05de00-3c3d-11e9-81fa-3dca03152967.png)
+
+![9_botao_acao](https://user-images.githubusercontent.com/35463404/54431095-64117480-471d-11e9-8b8f-4d6aef073652.png)
 
 **Há apenas um botão de ação principal por página e o mesmo encontra-se destacado**
 - Deve existir apenas um botão de ação principal por página e deve possuir uma cor contrastante. Todos os outros botões devem  ser considerados como secundários.
