@@ -37,8 +37,12 @@ Lista de verificação para atribuição do selo bronze
 **Espaço entre linhas não inferior a 1.5x o tamanho da letra**
 - Para assegurar a leitura confortável de blocos de texto deve ser empregue o rácio de 1.5x o tamanho de letra.
 
+![14_12pontos](https://user-images.githubusercontent.com/35463404/54426241-38878d80-470f-11e9-94b9-5bb9529740d4.png)
+
 **O tipo de letra do corpo do texto é adequado e tem no mínimo 12 pontos**
 - De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho mínimo do corpo do texto deverá ser de 12 pontos, assegurando-se a escalabilidade para tamanhos superiores para o caso em que o utilizador sinta necessidade de o fazer.
+
+![15_10pontos](https://user-images.githubusercontent.com/35463404/54426437-c4011e80-470f-11e9-883d-8386ffbf7bbf.png)
 
 **A informação secundária (datas, autores) tem no mínimo 10 pontos**
 - A informação secundária, como o nome do autor de textos ou de imagens, as datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas, no mínimo, com 10 pontos, assegurando sempre a sua escalabilidade para tamanhos superiores.
@@ -64,6 +68,8 @@ Lista de verificação para atribuição do selo bronze
 
 **Documentos longos têm um índice com links internos no topo.**
 - Documentos com mais de três ecrãs de altura deverão ter a hierarquia de cabeçalhos espelhada num índice no topo da página com hiperligações internas para as respectivas secções e subsecções.
+
+![16_scroll_moveis](https://user-images.githubusercontent.com/35463404/54426647-4c7fbf00-4710-11e9-9c34-1bf53161dc59.png)
 
 **O layout do sitio Web é adaptável a plataformas móveis sem scroll horizontal**
 - O layout do sitio Web deve ser adaptável aos tamanhos mais comuns de visualização, adaptando-se a várias larguras de ecrã sem que surjam barras de scroll horizontais.
