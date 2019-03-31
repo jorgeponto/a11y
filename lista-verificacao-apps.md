@@ -3,22 +3,15 @@
 ### Interação com o Utilizador
 
 #### Tamanho do alvo de toque
- 
-<ul>
-    <li>The click/touch target size SHOULD be large enough (without using zoom) to facilitate easy use with a finger, without risking activating an adjacent link or button.</li>
-</ul>
+- O tamanho do alvo de toque/clique DEVE ser suficientemente grande (sem usar ampliação) para que seja fácil de usar com um dedo, sem correr o risco de ativar um botão ou uma hiperligação adjacente.</li>
 
-#### Espaçamento entre alvos de toque e agrupar alvos de toque
-<ul>
-    <li>Touch targets MUST NOT overlap.</li>
-    <li>Compact touch targets SHOULD NOT be immediately adjacent to each other.    </li>
-    <li>Active elements with the same target SHOULD be grouped into one touch target.</li>
-</ul>
+#### Espaçamento entre alvos de toque e agrupamento de alvos de toque
+- Os alvos de toque NÃO PODEM sobrepôr-se.
+- Os alvos de toque NÃO DEVEM estar adjacentemente colados uns aos outros.
+- Os elementos adjacentes ativados com o mesmo alvo de toque DEVEM ser agrupados num só alvo de toque.
 
-#### Ativa ao largar
-<ul>
-    <li>Touch controls MUST NOT activate when an item is first touched.</li>
-</ul>
+#### Ativa ao libertar
+- Os controlos de toque NÃO PODEM despoletar a ação assim que o item é tocado pela primeira vez. A ação é despoletada não quando o item é pressionado mas quando é libertado.
 
 #### Motricidade/Acelerómetro
 <ul>
