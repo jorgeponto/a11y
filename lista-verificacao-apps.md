@@ -1,11 +1,9 @@
-<section id="checklist">
+## Lista de verificação de Acessibilidade para Aplicações Móveis
 
-    <h2>Checklist</h2>
-    
-    <p>See also the <a href="assets/pdf/module-ios/module-ios-checklist.pdf" class="external" target="_blank">PDF version of the checklist. <img src="/assets/images/template/courses2014/new-window.png" alt="opens in a new window" class="new_window" width="13" height="13"></a></p>
-    
-<h3>User Interaction</h3>
-<h4>Touch Target Size</h4>
+### Interação com o Utilizador
+
+#### Tamanho do alvo de toque
+ 
 <ul>
     <li>The click/touch target size SHOULD be large enough (without using zoom) to facilitate easy use with a finger, without risking activating an adjacent link or button.</li>
 </ul>
@@ -250,5 +248,3 @@
 <ul>
     <li>An image MUST NOT include informative text if an equivalent visual presentation of the text can be rendered using real text.</li>
 </ul>
-
-</section>
