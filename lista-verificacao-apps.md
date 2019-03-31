@@ -14,51 +14,35 @@
 - Os controlos de toque NÃO PODEM despoletar a ação assim que o item é tocado pela primeira vez. A ação é despoletada não quando o item é pressionado mas quando é libertado.
 
 #### Motricidade/Acelerómetro
-<ul>
-    <li>An application MUST NOT rely on kinetic motion (detected by the accelerometer) alone.</li>
-    <li>The user SHOULD be able to disable motion-sensitive features.</li>
-</ul>
+- Uma aplicação NÃO PODE depender apenas dos movimentos motores (detetados pelo acelerómetro).
+- O utilizador DEVE ser capaz de desativar as funcionalidades sensíveis ao movimento.
 
 #### Voz
-<ul>
-    <li>An application MUST NOT rely on voice control alone.</li>
-</ul>
+- Uma aplicação NÃO PODE depender apenas do controlo pela voz.
 
-####Gestos
-<ul>
-    <li>An application MUST NOT rely on gestures alone.</li>
-    <li>Whenever possible, actions SHOULD be mapped to their corresponding default iOS gestures.</li>
-  </ul>
+#### Gestos
+- Uma aplicação NÃO PODE depender apenas do controlo por gestos.
+- Sempre que possível, as ações DEVEM ser mapeadas para os correspondentes gestos por defeito do dispositivo (iOS, Android).
 
 ### Controlos da Interface de Utilizador
 
 #### Botões
-<ul>
-  <li>A button MUST always convey its role using the correct trait.</li>
-  <li>An active image used as a button MUST convey the correct role.</li>
-  <li>When a button is disabled it MUST convey its state.</li>
-</ul>
+- Um botão TEM sempre de transmitir o seu papel (role) usando a conceção correta que o objeto botão dispõe para o efeito.
+- Uma imagem usada como um botão TEM de transmitir o papel (role) correto.
+- Quando um botão está desativado, ele TEM de transmitir o seu estado (state).
 
 #### Hiperligações
-<ul>
-  <li>The role and purpose of a link MUST be clearly conveyed by VoiceOver.</li>
-</ul>
+- O papel (role) e o propósito de uma hiperligação TEM de ser claramente transmitido aos utilizadores de leitores de ecrã (VoiceOver, Talks, ...).</li>
 
 #### Barras de prograsso
-<ul>
-  <li>Progress bars MUST convey their visible name to VoiceOver users with a descriptive, unique accessibility label.</li>
-  <li>Progress spinners (UIActivityIndicatorView) MUST speak correct alternative text or immediately receive focus in order to convey an accessible name to VoiceOver users.</li>
-</ul>
+- As barras de progresso TÊM de transmitir o seu nome (name) aos leitores de ecrã (VoiceOver, talks) através de uma etiqueta única e descritiva.
+- As roletas de progresso (spinners) (UIActivityIndicatorView) TÊM de transmitir o texto alternativo correto ou receber imediatamente o foco de modo a transmitir um nome (name) acessível aos utilizadores de leitores de ecrã (VoiceOver, talks, ...).</li>
 
 #### Controlos deslizantes (slider)
-<ul>
-  <li>Slider controls MUST have a visible label that is programmatically associated using the accessibility label property.</li>
-</ul>
+- Os controlos deslizantes TÊM de ter uma etiqueta visível que seja programaticamente associada usando a propriedade de acessibilidade etiqueta.
 
 #### Interruptores (switch)
-<ul>
-  <li>Switch controls MUST have a visible label that is programmatically associated using the accessibility label property.</li>
-  </ul>
+- Os controlos Interruptor (Switch) TÊM de ter uma etiqueta visível que seja programaticamente associada usando a propriedade de acessibilidade etiqueta.
 
 ### Notificações
 
