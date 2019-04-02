@@ -20,7 +20,7 @@ O Gerador da "Declaração de Acessibilidade" foi programado para:
 
 ***
 
-<mark><select id="statement-owner-prefix"><option value="o">O</option><option value="a">A</option></mark><mark><span id="statement-owner"><input type="text" value="nome da entidade"></span></mark> compromete-se a disponibilizar o seu <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">sítio Web</span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018 de 19 de outubro que transpoe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
+<mark><select id="statement-owner-prefix"><option value="o">O</option><option value="a">A</option></select></mark><mark><span id="statement-owner"><input type="text" value="nome da entidade"></span></mark> compromete-se a disponibilizar <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel"><select><option value="web">o seu sítio Web</option><option value="app">a sua aplicação móvel</option></select></span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018 de 19 de outubro que transpoe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
  
 ## I. Estado de conformidade
 
