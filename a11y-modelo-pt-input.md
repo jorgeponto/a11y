@@ -49,14 +49,13 @@ O Gerador da "Declaração de Acessibilidade" foi programado para:
 <span title=" colocar variável a) Este sítio Web, ou b) Esta aplicação móvel" class="conditional-text">sítio Web</span> está 
 <mark>
   <span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">
-    plenamente conforme
     <select id="statement-owner-prefix">
       <option value="a">plenamente conforme</option>
       <option value="b">parcialmente conforme</option>
       <option value="c">não conforme</option>
   </select>
   </span>
-</mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo.
+</mark> para com o Decreto-lei n.º 83/2018, de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo.
 
 ### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
  
@@ -64,19 +63,20 @@ A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <
 
 
 <ul>
-  <li><mark><span id="no-compliant-which-1"><input type="text" value="..."></span><button>Apagar</button></mark></li>
-  <li><mark><span id="no-compliant-which-2"><input type="text" value="..."></span><button>Apagar</button></mark></li>
-  <li><mark><span id="no-compliant-which-n"><input type="text" value="..."></span><button>Apagar</button></mark></li>
+  <li><mark><span id="no-compliant-which-1"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-which-2"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-which-n"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
 </ul>
-<p><button>Adicionar</button></p>
+<p><button>Adicionar nova linha</button></p>
  
 B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou embora dentro do âmbito está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
 
 <ul>
-  <li><mark><span id="no-compliant-why-1">...</span></mark></li>
-  <li><mark><span id="no-compliant-why-2">...</span></mark></li>
-  <li><mark><span id="no-compliant-why-n">...</span></mark></li>
+  <li><mark><span id="no-compliant-why-1"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-why-2"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-why-n"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
 </ul>
+<p><button>Adicionar linha</button></p>
  
 C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em A. e B. da presente secção (sempre que apropriado):
  
