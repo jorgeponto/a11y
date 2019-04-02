@@ -11,13 +11,13 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
 # Declaração de Acessibilidade
 
 ***
- 
+<div class="alert alert-info"> 
 (<strong>Nota:</strong> este é o modelo de declaração de acessibilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
 
 O Gerador da "Declaração de Acessibilidade" foi programado para:
 1. mediante o preenchimento do formulário que se segue;
 2. é gerada uma página em HTML que pode copiar e colar numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
-
+</div>
 ***
 
 <mark>
