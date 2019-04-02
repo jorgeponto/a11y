@@ -163,12 +163,14 @@ Efetuou algum tipo de testes com utilizadores?
 <span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
  
 <ul>
-  <li><mark><span id="tu01-uri">URL do relatório do estudo</span></a></mark>
+  <li><mark><span id="tu01-uri"><input type="text" value="URL do relatório do estudo"></span></mark>
     <ul>
       <li>Participantes: <mark><span id="tu01-participants"><input type="text" value="4 utilizadores + 2 utilizadores de leitores de ecrã"></span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu01-tasks"><input type="text" value="Preenchimento do formulário de contacto; ..."></span></mark></li>
       <li>Principais resultados (sumário): <mark><span id="tu01-summary"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
     </ul></li>
+    <li><mark><span id="tu02-uri"><input type="text" value="URL do relatório do estudo"></span></mark>
+    <ul>
         <li>Participantes: <mark><span id="tu02-participants"><input type="text" value="4 utilizadores + 2 utilizadores de sistemas de varrimento"></span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu02-tasks"><input type="text" value="Marcação de consultas; autenticação; ..."></span></mark></li>
       <li>Principais resultados (sumário): <mark><span id="tu02-summary"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
@@ -182,13 +184,13 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 
 <dl id="contact-info">
   <dt><mark><span id="term1"><input type="text" value="Título 1"></span></mark></dt>
-  <dd><mark><span id="data1"><input type="text" value="Elemento 1"></mark><button>Apagar elemento</button></dd>
-  <dt><mark><span id="term2"><input type="text" value="Título 2"></mark></dt>
-  <dd><mark><span id="data2"><input type="text" value="Elemento 2"></mark><button>Apagar elemento</button></dd>
-  <dt><mark><span id="term3"><input type="text" value="Título 3"></mark></dt>
-  <dd><mark><span id="data3"><input type="text" value="Elemento 3"></mark><button>Apagar elemento</button></dd>
-  <dt><mark><span id="term4"><input type="text" value="Título 4"></mark></dt>
-  <dd><mark><span id="data4"><input type="text" value="Elemento 4"></mark><button>Apagar elemento</button></dd>
+  <dd><mark><span id="data1"><input type="text" value="Elemento 1"></span></mark><button>Apagar elemento</button></dd>
+  <dt><mark><span id="term2"><input type="text" value="Título 2"></span></mark></dt>
+  <dd><mark><span id="data2"><input type="text" value="Elemento 2"></span></mark><button>Apagar elemento</button></dd>
+  <dt><mark><span id="term3"><input type="text" value="Título 3"></span></mark></dt>
+  <dd><mark><span id="data3"><input type="text" value="Elemento 3"></span></mark><button>Apagar elemento</button></dd>
+  <dt><mark><span id="term4"><input type="text" value="Título 4"></span></mark></dt>
+  <dd><mark><span id="data4"><input type="text" value="Elemento 4"></span></mark><button>Apagar elemento</button></dd>
 </dl>
 <p><button>Adicionar elemento</button></p>
  
