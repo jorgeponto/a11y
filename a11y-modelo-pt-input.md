@@ -141,11 +141,11 @@ Efetuou algum tipo de avaliação manual com base na lista de verificação para
 <span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [lista de verificação](http://), inclua o resultado (do total das heurísticas aplicáveis, quantas é que são satisfeitas) e uma hiperligação para o relatório de suporte da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
  
 <ul>
-  <li><mark><span id="me01-pass"><input type="text" value="satisfaz"></span>/(<span id="me01-ttl"><input type="text" value="total aplicaável">)</span>. <span id="me01-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
+  <li><mark><span id="me01-pass"><input type="text" value="satisfaz"></span>/<span id="me01-ttl"><input type="text" value="total aplicaável"></span>. <span id="me01-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
    <ul>
     <li>Amostra utilizada na avaliação manual: <mark><span id="me01-sample"><input type="text" value="xx"></span> páginas. <span id="me01-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark><button>Apagar linha</button></li>
     </ul></li>
-  <li><mark><span id="me02-pass"><input type="text" value="satisfaz"></span>/(<span id="me02-ttl"><input type="text" value="total aplicaável")</span>. <span id="me02-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
+  <li><mark><span id="me02-pass"><input type="text" value="satisfaz"></span>/<span id="me02-ttl"><input type="text" value="total aplicaável"></span>. <span id="me02-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
    <ul>
     <li>Amostra utilizada na avaliação manual: <mark><span id="me02-sample"><input type="text" value="xx"></span> páginas. <span id="me02-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark><button>Apagar linha</button></li>
     </ul></li>
