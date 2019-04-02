@@ -6,12 +6,13 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
   h2 {font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
   h3 {font-size:120%;}
   .conditional-text {background-color:black; color:yellow}
+  .alert {border:2px solid red; padding:10px; background-color:#f2dede;}
 </style>
 
 # Declaração de Acessibilidade
 
 ***
-<div class="alert alert-info"> 
+<div class="alert"> 
 (<strong>Nota:</strong> este é o modelo de declaração de acessibilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
 
 O Gerador da "Declaração de Acessibilidade" foi programado para:
