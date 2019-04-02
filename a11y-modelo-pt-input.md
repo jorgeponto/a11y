@@ -8,11 +8,11 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
   .conditional-text {background-color:black; color:yellow}
 </style>
 
-# Declaração de Acessibilidade / Usabilidade
+# Declaração de Acessibilidade
 
 ***
  
-(<strong>Nota:</strong> este é o modelo de declaração de acessibilidade/usabilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
+(<strong>Nota:</strong> este é o modelo de declaração de acessibilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
 
 O Gerador da "Declaração de Acessibilidade" foi programado para:
 1. mediante o preenchimento do formulário que se segue;
@@ -76,20 +76,21 @@ B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima n�
   <li><mark><span id="no-compliant-why-2"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
   <li><mark><span id="no-compliant-why-n"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
 </ul>
-<p><button>Adicionar linha</button></p>
+<p><button>Adicionar nova linha</button></p>
  
 C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em A. e B. da presente secção (sempre que apropriado):
  
 <ul>
-  <li><mark><span id="no-compliant-alt-1">...</span></mark></li>
-  <li><mark><span id="no-compliant-alt-2">...</span></mark></li>
-  <li><mark><span id="no-compliant-alt-n">...</span></mark></li>
+  <li><mark><span id="no-compliant-alt-1"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-alt-2"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
+  <li><mark><span id="no-compliant-alt-n"><input type="text" value="..."></span><button>Apagar linha</button></mark></li>
 </ul>
+<p><button>Adicionar nova linha</button></p>
  
-## II. Elaboração da presente declaração de acessibilidade/usabilidade
+## II. Elaboração da presente declaração de acessibilidade
 
-Esta declaração foi elaborada em <mark><span id="statement-date-created">01 de janeiro de 2019</span></mark>. <span title="(aparece se statement-date-review não for zero">A última revisão é de <mark><span id="statement-date-review">12 de setembro de 2019</span></mark></span>.
- 
+Esta declaração foi atualizada a <mark><span id="statement-date-created"><input type="text" value="01 de janeiro de 2019"></span></mark>.
+
 **A. Avaliação automática (identifica as ferramentas utilizadas e os respetivos resultados):** 
  
 De acordo com a alínea a) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições. 
