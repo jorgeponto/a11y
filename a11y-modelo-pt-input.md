@@ -3,7 +3,7 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
 ---
 <style type="text/css">
   h1 {text-indent:-2em;}
-  h2 {text-align:right; font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
+  h2 {font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
   h3 {font-size:120%;}
   .conditional-text {background-color:black; color:yellow}
 </style>
@@ -106,19 +106,20 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
   <li><mark><span id="ae-no-reason2"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
   <li><mark><span id="ae-no-reasonn"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
 </ul>
-<button>Adicionar nova linha</button>
+<p><button>Adicionar nova linha</button></p>
  
 <span title="se Sim" class="conditional-text">Se levou a efeito avaliações automáticas, inclua a data da sua realização, o nome da ou das ferramentas utilizadas, a amostra ou as amostras de páginas utilizadas, os resultados alcançados e as hiperligações para a documentação da ou das análises realizadas.</span>
 
 <ul>
-  <li><mark>(<span title="data" id="aen1_date"><input type="text" value="27/03/2018"></span>).</mark> <mark><span title="Tool" id="aen1_tool"><input type="text" value="AccessMonitor"></span></mark>. Amostra: <mark><span title="sample" id="aen1_sample"><input type="text" value="86"></span></mark> páginas. <span title="More data" id="aen1_more">Título do Relatório da análise</span></mark>, Endereço Web do Relatório<mark><span id="aen1_more_uri"><input type="text" value="URL"></span>.
-    <ul><li>Síntese de Resultados: <mark><span id="aen1_findings"><input type="text" value="No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes."></span></mark></li>
-    </ul><button>Apagar linha</button></li>
-  <li><mark>(<span title="data" id="aen2_date"><input type="text" value="dd/mm/aaaa"></span>).</mark> <mark><span title="Tool" id="aen2_tool"><input type="text" value="Ferramenta 2"></span></mark>. Amostra: <mark><span title="sample" id="aen2_sample"><input type="text" value="xx"></span></mark> páginas. <mark><span title="More data" id="aen2_more">Título do Relatório da análise 2</span></mark>, Endereço Web do Relatório<mark><span id="aen2_more_uri"><input type="text" value="URL2"></span></mark>.
-    <ul><li>Síntese de Resultados: <mark><span id="aen2_findings"><input type="text" value="..."></span></mark></li>
-    </ul><button>Apagar linha</button></li>
+  <li><mark>(<span title="data" id="aen1_date"><input type="text" value="27/03/2018"></span>).</mark> <mark><span title="Tool" id="aen1_tool"><input type="text" value="AccessMonitor"></span></mark>. Amostra: <mark><span title="sample" id="aen1_sample"><input type="text" value="86"></span></mark> páginas. Endereço Web do Relatório: <mark><span id="aen1_more_uri"><input type="text" value="URL"></span></mark>.
+    <ul>
+      <li>Síntese de Resultados: <mark><span id="aen1_findings"><input type="text" value="No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes."></span></mark><button>Apagar linha</button></li>
+    </ul></li>
+  <li><mark>(<span title="data" id="aen2_date"><input type="text" value="dd/mm/aaaa"></span>).</mark> <mark><span title="Tool" id="aen2_tool"><input type="text" value="Ferramenta 2"></span></mark>. Amostra: <mark><span title="sample" id="aen2_sample"><input type="text" value="xx"></span></mark> páginas. Endereço Web do Relatório: <mark><span id="aen2_more_uri"><input type="text" value="URL2"></span></mark>.
+    <ul><li>Síntese de Resultados: <mark><span id="aen2_findings"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
+    </ul></li>
 </ul>
-<button>Adicionar nova linha</button>
+<p><button>Adicionar nova linha</button></p>
  
 **B. Avaliação Manual feita com base em lista de verificação:**
  
@@ -126,7 +127,7 @@ De acordo com a alínea b) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 est
 
 Efetuou algum tipo de avaliação manual com base na lista de verificação para sítios Web existente em [lista de verificação](http://)?
 
-- <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não"><select><option value="s">Sim</option><option value="n">não</option></span></mark>
+- <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não"><select><option value="s">Sim</option><option value="n">não</option></select></span></mark>
  
 <span class="conditional-text" title="Se não">Se não levou a efeito nenhuma avaliação manual, explique a razão ou razões para não o ter feito:</span>
  
@@ -135,21 +136,21 @@ Efetuou algum tipo de avaliação manual com base na lista de verificação para
   <li><mark><span id="me-no-reason2"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
   <li><mark><span id="me-no-reasonn"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
 </ul>
-<button>Adicionar nova linha</button>
+<p><button>Adicionar nova linha</button></p>
  
 <span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [lista de verificação](http://), inclua o resultado (do total das heurísticas aplicáveis, quantas é que são satisfeitas) e uma hiperligação para o relatório de suporte da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
  
 <ul>
   <li><mark><span id="me01-pass"><input type="text" value="satisfaz"></span>/(<span id="me01-ttl"><input type="text" value="total aplicaável")</span>. <span id="me01-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
    <ul>
-    <li>Amostra utilizada na avaliação manual: <mark><span id="me01-sample"><input type="text" value="xx"></span> páginas. <span id="me01-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark></li>
-    </ul><button>Apagar linha</button></li>
+    <li>Amostra utilizada na avaliação manual: <mark><span id="me01-sample"><input type="text" value="xx"></span> páginas. <span id="me01-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark><button>Apagar linha</button></li>
+    </ul></li>
   <li><mark><span id="me02-pass"><input type="text" value="satisfaz"></span>/(<span id="me02-ttl"><input type="text" value="total aplicaável")</span>. <span id="me02-pass-report-url"><input type="text" value="Endereço URL do Relatório de Suporte"></span>.</mark>
    <ul>
-    <li>Amostra utilizada na avaliação manual: <mark><span id="me02-sample"><input type="text" value="xx"></span> páginas. <span id="me02-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark></li>
-    </ul><button>Apagar linha</button></li>
+    <li>Amostra utilizada na avaliação manual: <mark><span id="me02-sample"><input type="text" value="xx"></span> páginas. <span id="me02-sample-url"><input type="text" value="URL do Documento com listagem de URLs da amostra"></span></mark><button>Apagar linha</button></li>
+    </ul></li>
 </ul>
-<button>Adicionar nova linha</button>
+<p><button>Adicionar nova linha</button></p>
   
 **C. Testes de usabilidade com pessoas com deficiência:**
 
@@ -166,14 +167,14 @@ Efetuou algum tipo de testes com utilizadores?
     <ul>
       <li>Participantes: <mark><span id="tu01-participants"><input type="text" value="4 utilizadores + 2 utilizadores de leitores de ecrã"></span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu01-tasks"><input type="text" value="Preenchimento do formulário de contacto; ..."></span></mark></li>
-      <li>Principais resultados (sumário): <mark><span id="tu01-summary"><input type="text" value="..."></span></mark></li>
-    </ul><button>Apagar linha</button></li>
+      <li>Principais resultados (sumário): <mark><span id="tu01-summary"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
+    </ul></li>
         <li>Participantes: <mark><span id="tu02-participants"><input type="text" value="4 utilizadores + 2 utilizadores de sistemas de varrimento"></span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu02-tasks"><input type="text" value="Marcação de consultas; autenticação; ..."></span></mark></li>
-      <li>Principais resultados (sumário): <mark><span id="tu02-summary"><input type="text" value="..."></span></mark></li>
-    </ul><button>Apagar linha</button></li> 
+      <li>Principais resultados (sumário): <mark><span id="tu02-summary"><input type="text" value="..."></span></mark><button>Apagar linha</button></li>
+    </ul></li> 
   </ul>
-  <button>Adicionar nova linha</button>
+  <p><button>Adicionar nova linha</button></p>
  
 ## III. Contacto e solicitação de informação relativa ao <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
  
@@ -189,7 +190,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
   <dt><mark><span id="term4"><input type="text" value="Título 4"></mark></dt>
   <dd><mark><span id="data4"><input type="text" value="Elemento 4"></mark><button>Apagar elemento</button></dd>
 </dl>
-<button>Adicionar elemento</button>
+<p><button>Adicionar elemento</button></p>
  
 ## IV. Selo de Acessibilidade e Usabilidade
  
