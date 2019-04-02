@@ -1,5 +1,5 @@
 ---
-title: Declaração de Acessibilidade/Usabilidade
+title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informação
 ---
 <style type="text/css">
   h1 {text-indent:-2em;}
