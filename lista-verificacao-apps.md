@@ -10,7 +10,7 @@
 - Os alvos de toque NÃO DEVEM estar adjacentemente colados uns aos outros.
 - Os elementos adjacentes ativados com o mesmo alvo de toque DEVEM ser agrupados num só alvo de toque.
 
-#### Ativa ao libertar
+#### Despoletar a ação apenas ao libertar
 - Os controlos de toque NÃO PODEM despoletar a ação assim que o item é tocado pela primeira vez. A ação é despoletada não quando o item é pressionado mas quando é libertado.
 
 #### Motricidade/Acelerómetro
@@ -34,9 +34,9 @@
 #### Hiperligações
 - O papel (role) e o propósito de uma hiperligação TEM de ser claramente transmitido aos utilizadores de leitores de ecrã (VoiceOver, Talks, ...).</li>
 
-#### Barras de prograsso
+#### Barras de progresso
 - As barras de progresso TÊM de transmitir o seu nome (name) aos leitores de ecrã (VoiceOver, talks) através de uma etiqueta única e descritiva.
-- As roletas de progresso (spinners) (UIActivityIndicatorView) TÊM de transmitir o texto alternativo correto ou receber imediatamente o foco de modo a transmitir um nome (name) acessível aos utilizadores de leitores de ecrã (VoiceOver, talks, ...).</li>
+- As roletas de progresso (spinners) TÊM de transmitir o texto alternativo correto ou receber imediatamente o foco de modo a transmitir um nome (name) acessível aos utilizadores de leitores de ecrã (VoiceOver no caso do iOS, Talks no caso do Android, ...).</li>
 
 #### Controlos deslizantes (slider)
 - Os controlos deslizantes TÊM de ter uma etiqueta visível que seja programaticamente associada usando a propriedade de acessibilidade etiqueta.
@@ -200,12 +200,9 @@
 </ul>
 
 #### Contraste
-<ul>
-  <li>Small text (under 18 point regular font or 14 point bold font) MUST have a contrast ratio of at least 4.5 to 1 with the background.</li>
-  <li>Large text and images of large text (at or over 18 point or 14 point bold) MUST have a contrast ratio of at least 3 to 1 with the background.</li>
-  <li>The contrast of UI control boundaries compared to adjacent areas SHOULD be sufficient (3 to 1 for UI control boundaries measuring at least 3px by 3px, and 4.5 to 1 for all other UI controls) to distinguish the UI control from the adjacent areas.</li>
-  <li>Small text (under 18 point regular font or 14 point bold font) SHOULD have a contrast ratio of at least 7 to 1 with the background.</li>
-</ul>
+- Texto pequeno (inferior a 18 pontos ou 14 pontos para texto em negrito) TEM de ter um rácio de contraste com o fundo de, no mínimo, 4.5 para 1.
+- Texto grande e imagens de texto grande (superior ou igual a 18 pontos ou 14 pontos a negrito) TÊM de ter um rácio de contraste com o fundo de, pelo menos, 3 para 1.
+- O contraste das margens dos controlos da Interface de Utilizador em comparação com as áreas adjacentes DEVEM ser suficientes (3 para 1 para as margens de controlo da IU que meçam, pelo menos, 3px por 3px, e 4.5 para 1 para todos os outros controlos da IU) de forma a que os controlos sejam distinguíveis das áreas adjacentes.
 
 ### Animações e Movimento
 #### Paralaxe e Animações derivadas do acelerómetro
@@ -219,52 +216,35 @@
   <li>Automatically moving, blinking, or scrolling content that lasts longer than 5 seconds MUST be able to be paused, stopped, or hidden by the user.</li>
 </ul>
 
-#### Conteúdo cintilante
-<ul>
-  <li>A screen MUST NOT contain content that flashes more than 3 times per second unless that flashing content is sufficiently small, and the flashes are of low contrast and do not violate general flash thresholds.</li>
-</ul>
-
 ### Áudio e Vídeo
 #### Legendagem
-<ul>
-  <li>All prerecorded video MUST have synchronized captions.</li>
-  <li>All live multimedia (video plus audio) events that contain dialog and/or narration MUST be accompanied by synchronized captions.</li>
-  <li>Live audio consisting mainly of dialog and/or narration SHOULD have synchronized captions.</li>
-</ul>
+- Todo o vídeo pré-gravado TEM de ter legendagem sincronizada.
+- Todo o multimédia de eventos ao vivo (vídeo mais áudio) que contenham diálogos e/ou narração TÊM de ser acompanhados por legendagem sincronizada.
+- Áudio de eventos ao vivo que no essencial seja composto por diálogos e/ou narração DEVE ter legendagem sincronizada.
 
 #### Transcrições
-<ul>
-  <li>All prerecorded video and audio MUST have text transcripts.</li>
-</ul>
+- Todo o vídeo e áudio pré-gravado TEM de ter transcrições em texto.
 
 ### Texto
+
 #### Identificar idioma
-<ul>
-    <li>The language of the page MUST be programmatically identified.</li>
-    <li>The language of sections of content that are different from the app's default language MUST be identified in such a way that they can be discovered by assistive technology.</li>
-</ul>
+- O idioma da página TEM de ser programaticamente identificável.
+- O idioma das secções de conteúdo diferentes do idioma principal da aplicação TEM de ser marcado/identificado de forma a que possa ser descodificado pelas tecnologias de apoio.
 
 #### Alterar o tamanho do texto
-<ul>
-    <li>The screen MUST be readable and functional when text is set to 200% of its initial size.</li>
-</ul>
+- O ecrã TEM de ser legível e funcional quando o texto é ajustado para os 200% em relação ao seu tamanho inicial.
 
 #### Emojis
-<ul>
-    <li>Emojis MAY be used in text content.</li>
-	<li>Custom emojis in custom keyboards MUST have alternative text.</li>
-</ul>
+- Os Emojis PODEM ser usados no corpo do texto.
+- Os emojis personalizáveis em teclados personalizáveis TÊM de ter texto alternativo.
 
 ### Imagens
+
 #### Texto alternativo
-<ul>
-    <li>Images that convey information MUST have a descriptive accessibility label that serves the same purpose and presents the same information as the image.</li>
-    <li>Images that are active MUST have an accessibility label that describes the purpose or function of the image.</li>
-    <li>Images that are too complex to be fully described in a short text alternative MUST have their purpose described using an extended text alternative.</li>
-    <li>Images that do not convey content, are decorative, or with content that is already conveyed in the text MUST NOT be given an alternative text equivalent that is exposed to assistive technology.</li>
-</ul>
+- Imagens que transmitam informação TÊM de ter uma etiqueta descritiva que sirva o mesmo propósito e apresente a mesma informação.
+- Imagens que sejam ativas (hiperligações, botões) TÊM de ter uma etiqueta que descreva o o propósito ou função da imagem.</li>
+- Imagens que sejam demasiado complexas para serem descritas num texto alternativo curto TÊM de ter o seu propósito descrito através de um texto altenativo extenso.</li>
+- Imagens que não transmitam conteúdo, que sejam decorativa, ou com conteúdo já veiculado pelo texto NÃO PODEM ter um texto alternativo que seja exposto às tecnologias de apoio. Por exemplo em HTML corresponde a um alt="" (vazio).
 
 #### Texto nas imagens
-<ul>
-    <li>An image MUST NOT include informative text if an equivalent visual presentation of the text can be rendered using real text.</li>
-</ul>
+- Uma imagem NÃO PODE incluir texto informativo se se pode optar por texto real para a representar.
