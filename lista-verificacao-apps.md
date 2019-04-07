@@ -48,91 +48,72 @@
 
 #### Notificar os utilizadores do que acabou de ser modificado
 
-<ul>
-  <li>Dynamically generated content following user interaction MUST meet one of the following: assistive technology is automatically made aware of the new content OR the new content is the very next thing the assistive technology will encounter on the page.</li>
-</ul>
+- Conteúdo gerado dinamicamente que surge após interação do utilizador TEM de cumprir uma das seguintes permissas: a tecnologia de apoio é automaticamente informada do novo conteúdo OU o novo conteúdo é a coisa que a tecnologia de apoio vai encontrar imediatamente a seguir na página.</li>
 
 #### Limites de tempo
-<ul>
-  <li>If there is a session time limit, users MUST be warned before the session ends and MUST be given time to save their data and/or extend the session.</li>
-  <li>Incomplete data SHOULD be saved after a session timeout.</li>
-</ul>
+
+- Se existe uma sessão limitada pelo tempo, os utilizadores TÊM de ser avisados antes da sessão terminar e TEM de ser dado tempo para guardar os seus dados e/ou estender a sessão.
+- Os dados incompletos DEVEM ser guardados depois da sessão terminar.
 
 #### Alertas
-<ul>
-  <li>Alerts MUST include a title and description.</li>
-</ul>
+
+- Os alertas TÊM de incluir um título e uma descrição.</li>
 
 #### Caixas de diálogo
 
-<ul>
-  <li>Custom Dialogs MUST set <code>accessibilityViewIsModal</code> to "true" and the focus MUST be sent to the dialog.</li>
-</ul>
+- As caixas de diálogo personalizáveis TÊM de ter configurado o <code>accessibilityViewIsModal</code> para "true" e o foco TEM de ser enviado para o interior da caixa de diálogo.
 
 ### Elementos personalizáveis
 
 #### Acordeons
 
-<ul>
-  <li>Accordion components MUST announce their accessible name and their expanded or collapsed state.</li>
-</ul>
+- As componentes do tipo acordeon TÊM de disponibilizar o seu nome acessível e o seu estado expandido ou comprimido.
 
 #### Auto-preenchimento
-<ul>
-  <li>VoiceOver users MUST be automatically made aware of the autocomplete suggestions when they appear.</li>
-</ul>
+
+- Os utilizadores do VoiceOver TÊM de ficar conscientes da existência das sugestões de auto-preenchimento assim que elas surgem. 
 
 #### Controlo de pontuação
-<ul>
-  <li>A rating control MUST always convey its current value, any visible information, and be operable by both VoiceOver and non-VoiceOver users.</li>
-</ul>
+
+- Os controlos de pontuação TÊM sempre de transmitir o seu valor atual, qualquer informação visível, e ser operável quer pelos utilizadores do VoiceOVer quer pelos utilizadores que não usam VoiceOver.
 
 #### Tabela ordenável
-<ul>
-  <li>If a table is sortable, the header cells' accessibility labels MUST dynamically update to correctly convey their sorted state each time the data order changes.</li>
-</ul>
+
+- Se uma tabela dispõe de colunas ordenável, as etiquetas de acessibilidade das células cabeçalho TÊM de se atualizar dinamicamente para revelar corretamente o estado da ordem cada vez que a ordem da informação é alterada.
 
 #### Interruptor ligado/desligado
-<ul>
-  <li>Toggle buttons MUST convey an accessible name with programmatically associated, visible labels and convey their state using the accessibility label.</li>
-  <li>Image toggle buttons MUST have descriptive, accurate alternative text provided in the accessibility label.</li>
-</ul>
+
+- Os botões de interruptor TÊM de transmitir um nome acessível programaticamente associado com etiquetas visíveis e transmitir o seu estado usando a etiqueta acessível.
+- Os botões imagem interruptor TÊM de ter um texto alternativo descritivo, disponível na etiqueta de acessibilidade.
 
 ### Validação e etiquetagem de formulários
 
 #### Etiquetagem
 
-<ul>
-  <li>The label MUST be visible at all times.</li>
-  <li>Labels MUST be programmatically associated with their corresponding control elements.</li>
-  <li>A "hint" SHOULD be provided when the label doesn't sufficiently convey a control's purpose to VoiceOver users.</li>
-</ul>
+- A etiqueta DEVE ser sempre visível.</li>
+- As etiquetas DEVEM ser associadas programaticamente com os respetivos elementos de controlo.
+- DEVE ser adicionada uma "dica" sempre que a etiqueta não transmita suficientemente o propósito do controlo para os utilizadores do VoiceOver.
 
-#### Agrupar etiquetagem
-<ul>
-  <li>For groups of related controls where the individual labels for each control do not provide a sufficient description, additional group labels MUST be provided.</li>
-</ul>
+#### Etiquetas de grupo
+
+- Para grupos de controlos relacionados em que as etiquetas de cada controlo não forneça uma descrição suficiente, DEVE ser adicionada etiquetas de grupo.
 
 #### Caixas de verificação
-<ul>
-  <li>Checkboxes MUST convey their selected or checked state to VoiceOver.</li>
-  <li>Groups of checkboxes MUST provide a common group label as well as a unique label for each control via their accessibility label properties.</li>
-</ul>
 
-#### Campos de edição para recolha de dados do tipo datas
-<ul>
-  <li>A standard Date Picker control SHOULD be used instead of a text field in order to avoid forcing users to enter a date with a default keyboard.</li>
-</ul>
+- As caixas de verificação DEVEM transmitir o seu estado verificado ou selecionado para o VoiceOver.
+- Os grupos de caixas de verificação TÊM de fornecer um grupo comum etiquetado assim como uma etiqueta única para cada controlo através da sua etiqueta de acessibilidade existente nas propriedades.
+
+#### Campos de edição para recolha de dados do tipo data
+
+- Um campo de edição padrão para recolha de dados do tipo data DEVE ser usada em vez de um campo de texto de forma a evitar que os utilizadores sejam forçados a introduzir uma data com um teclado por defeito.
 
 #### Botões do tipo Rádio
-<ul>
-  <li>Radio buttons MUST provide a common group label as well as a unique label for each control via their accessibility labels and they MUST convey their selected state.</li>
-</ul>
+
+- Os botões de rádio TÊM de disponibilizar uma etiqueta de grupo comum assim como um etiqueta única para cada controlo das etiquetas de acessibilidade e TEM de transmitir o seu estado selecionado.
 
 #### Select (UIPickerView) ??
-<ul>
-  <li>Controls using UIPickerView MUST be programmatically associated with their visible label in order to provide an accessible name.</li>
-</ul>
+
+- Os controlos que usam UIPickerView TÊM de estar programaticamente associados com as suas etiquetas visíveis de forma a disponibilizar um nome acessível.
 
 #### Campos de edição do tipo texto
 <ul>
@@ -140,23 +121,19 @@
 </ul>
 
 #### Validação e reporte de erros</h4>
-<ul>
-  <li>Efficient, intuitive, and clearly identified text based alerts MUST be provided to users for form validation cues and errors.</li>
-  <li>If input errors are automatically detected, suggestions MUST be provided in text for fixing the input in a timely and accessible manner before the data is submitted to the server.</li>
-</ul>
+
+- Na validação de formulários, as mensagens de erro e de informação adicional disponibilizada aos utilizadores DEVE ser composta por texto eficiente, intuitivo, claramente identificado baseado em alertas.
+- Se os erros de entrada são automaticamente detetados, DEVEM ser disponibilizadas sugestões em texto para retificar a entrada rapidamente e de forma acessível antes da informação ser submetida ao servidor.
 
 ### Navegação
 
 #### Títulos da página
 
-<ul>
-    <li>Screens MUST have meaningful titles.</li>
-</ul>
+- Os ecrãs TEM de ter títulos com significado.
 
 #### Separadores e respetivos painéis
-<ul>
-    <li>Tabs MUST convey their role, their current state, and their order in the total number of tabs to VoiceOver users.</li>
-</ul>
+
+- Os separadores TÊM de transmitir aos utilizadores do VoiceOver o seu papel (role), o seu estado atual e a sua posição relativa no total dos separadores.
 
 #### Menu
 <ul>
