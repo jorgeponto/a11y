@@ -111,14 +111,13 @@
 
 - Os botões de rádio TÊM de disponibilizar uma etiqueta de grupo comum assim como um etiqueta única para cada controlo das etiquetas de acessibilidade e TEM de transmitir o seu estado selecionado.
 
-#### Select (UIPickerView) ??
+#### Select (UIPickerView)
 
-- Os controlos que usam UIPickerView TÊM de estar programaticamente associados com as suas etiquetas visíveis de forma a disponibilizar um nome acessível.
+- Os controlos que usam UIPickerView TÊM de estar programaticamente associados às respetivas etiquetas visíveis de forma a disponibilizar um nome acessível.
 
 #### Campos de edição do tipo texto
-<ul>
-  <li>Text fields MUST have programmatically associated, visible labels.</li>
-</ul>
+
+- Os campos de texto TÊM de ter etiquetas visíveis, programaticamente associadas.
 
 #### Validação e reporte de erros</h4>
 
@@ -136,24 +135,21 @@
 - Os separadores TÊM de transmitir aos utilizadores do VoiceOver o seu papel (role), o seu estado atual e a sua posição relativa no total dos separadores.
 
 #### Menu
-<ul>
-    <li>Menu items MUST have the appropriate trait in order to convey their accessible role.</li>
-    <li>The button that opens the menu MUST have a clear, descriptive title or accessibility label to accurately convey its purpose.</li>
-    <li>VoiceOver users MUST be able to dismiss the menu.</li>
-    <li>When the menu is closed, focus MUST return to the triggering button.</li>
-  </ul>
+
+- Os itens do Menu TÊM de ter o perfil apropriado por forma a transmitir apropriadamente o seu papel (role) acessível.
+- O botão que abre o menu TEM de ter um título claro, descritivo ou uma etiqueta de acessibilidade para transmitir apropriadamente o seu propósito.
+- Os utilizadores de VoiceOver TÊM de ser capazes de ultrapassar o menu.
+- Quando o menu é fechado, o foco TEM de voltar ao botão interruptor de abrir/fechar.
 
 ### Orientação do Dispositivo
-<ul>
-  <li>The orientation of the content MUST not be locked to either landscape or portrait unless a specific orientation is essential for the functionality of the app.</li>
-</ul>
+
+- A orientação do conteúdo não PODE ser trancada à orientação retrato ou paisagem a não ser que uma orientação específica seja essencial para a funcionalidade da aplicação.
 
 ### Estrutura semântica e significante
 
-####Cabeçalhos
-<ul>
-    <li>Headings used to title or describe sections of content MUST use the header trait in order to convey their semantic purpose.</li>
-</ul>
+#### Cabeçalhos
+
+- Os cabeçalhos para titular ou descrever secções de conteúdo TÊM de usar o perfil de cabeçalho por forma a transmitir o seu propósito semântico.
 
 #### Tabelas
 <ul>
