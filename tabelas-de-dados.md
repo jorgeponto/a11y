@@ -23,4 +23,3 @@ voltar ao [sumário](README.md)
   <td></td>
  </tr>
 </table>
-<p>teste tabela 2</p>
