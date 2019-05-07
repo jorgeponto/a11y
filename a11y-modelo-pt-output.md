@@ -3,7 +3,7 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: saída de informaç
 ---
 <style type="text/css">
   h1 {text-indent:-2em;}
-  h2 {text-align:right; font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
+  h2 {font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
   h3 {font-size:120%;}
   .conditional-text {background-color:black; color:yellow}
 </style>
@@ -20,15 +20,15 @@ O Gerador da "Declaração de Acessibilidade" foi programado para:
 
 ***
 
-<mark><span id="statement-owner-prefix" title="O ou A">A</span></mark> <mark><span id="statement-owner">nome da entidade</span></mark> compromete-se a disponibilizar <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">o seu sítio Web</span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018 de 19 de outubro que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
+<mark><span id="statement-owner-prefix" title="O ou A">O/A</span></mark> <mark><span id="statement-owner">nome da entidade</span></mark> compromete-se a disponibilizar <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">o seu sítio Web/a sua aplicação móvel</span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web/da aplicação móvel</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
  
 ## I. Estado de conformidade
 
-Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo.
+Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web/aplicação móvel</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme/parcialmente conforme/não conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
 
-### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
+### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível (esta subseção aparece apenas quando se seleciona b ou c e quando é necessário disponibilizar uma lista de não conformidades)</span>
  
-A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> que não são ainda acessíveis:
+A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web/aplicação móvel</span> que não são ainda acessíveis:
  
 <ul>
   <li><mark><span id="no-compliant-which-1">...</span></mark></li>
@@ -36,7 +36,7 @@ A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <
   <li><mark><span id="no-compliant-which-n">...</span></mark></li>
 </ul>
  
-B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou embora dentro do âmbito está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
+B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou, embora dentro do âmbito, está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
 
 <ul>
   <li><mark><span id="no-compliant-why-1">...</span></mark></li>
@@ -52,17 +52,17 @@ C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em
   <li><mark><span id="no-compliant-alt-n">...</span></mark></li>
 </ul>
  
-## II. Elaboração da presente declaração de acessibilidade/usabilidade
+## II. Elaboração da presente declaração de acessibilidade e de usabilidade
 
-Esta declaração foi elaborada em <mark><span id="statement-date-created">01 de janeiro de 2019</span></mark>. <span title="(aparece se statement-date-review não for zero">A última revisão é de <mark><span id="statement-date-review">12 de setembro de 2019</span></mark></span>.
+Esta declaração foi atualizada a <mark><span id="statement-date-review">12 de setembro de 2019</span></mark>.
  
-**A. Avaliação automática (identifica as ferramentas utilizadas e os respetivos resultados):** 
+**A. Avaliação automática (identificar as ferramentas utilizadas e os respetivos resultados):** 
  
-De acordo com a alínea a) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições. 
+De acordo com a alínea a) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório e deve ser realizada em determinadas condições. 
  
 Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/semi-automáticas?
 
- - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim</span></mark>
+ - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim/Não</span></mark>
  
 <span class="conditional-text" title="Se não">Se não levou a efeito qualquer avaliação automática, explicite as razões para não o ter feito:</span>
  
