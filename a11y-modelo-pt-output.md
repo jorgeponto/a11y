@@ -95,7 +95,7 @@ Efetuou algum tipo de avaliação manual com base na checklist "10 aspetos crít
 <span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [Checklist](http://), inclua o resultado (do total das heurísticas aplicáveis quantas é que são satisfeitas) e uma hiperligação para os documentos da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
  
 <ul>
-  <li><mark><span id="me01-pass">9/9</span></mark>. Endereço Web do relatório de suporte:<span id="me01-pass-url">http://...</span>.
+  <li><mark><span id="me01-pass"><span title="pontos críticos satisfeitos">9</span>/<span title="total de pontos aplicáveis">9</span></span></mark>. Endereço Web do relatório de suporte:<span id="me01-pass-url">http://...</span>.
    <ul>
     <li>Amostra utilizada na avaliação manual: <mark><span id="me01-sample">10</span> páginas</span>.</mark> Endereço Web do Documento que contém a listagem de páginas que compõem a amostra: <mark><span id="me01-sample-uri">http://...</span></mark></li>
   </ul></li>
