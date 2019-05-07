@@ -110,7 +110,7 @@ Efetuou algum tipo de testes com utilizadores?
 <span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
  
 <ul>
-  <li>Endereço Web do Relatório do Estudo: <mark><span title="hiperligação para o relatório do estudo" id="tu01-uri">http://...</mark>
+  <li>Endereço Web do Relatório do Estudo: <mark><span title="hiperligação para o relatório do estudo" id="tu01-uri">http://...</span></mark>
     <ul>
       <li>Participantes: <mark><span id="tu01-participants">4 utilizadores + 2 utilizadores de sistemas de varrimento</span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu01-tasks">Preenchimento do formulário de contacto; Navegação no menu principal</span></mark></li>
