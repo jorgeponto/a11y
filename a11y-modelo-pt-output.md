@@ -80,7 +80,7 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
  
 **B. Avaliação Manual feita com base em lista de verificação:**
  
-Efetuou algum tipo de avaliação manual com base na checklist "10 aspetos críticosl na construção de sítios Web" existente em [Checklist](http://)?
+Efetuou algum tipo de avaliação manual com base na [checklist "10 aspetos críticosl na construção de sítios Web"](http://)?
 
 - <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
  
