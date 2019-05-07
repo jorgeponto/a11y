@@ -115,10 +115,11 @@ Efetuou algum tipo de testes com utilizadores?
       <li>Participantes: <mark><span id="tu01-participants">4 utilizadores + 2 utilizadores de sistemas de varrimento</span></mark></li>
       <li>Tarefas/Processos: <mark><span id="tu01-tasks">Preenchimento do formulário de contacto; Navegação no menu principal</span></mark></li>
       <li>Principais resultados (sumário): <mark><span id="tu01-summary">...</span></mark></li>
-    </ul></li>
+    </ul>
+    </li>
   </ul>  
  
-## III. Contacto e solicitação de informação relativa ao <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
+## III. Contacto e solicitação de informação relativa ao <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
  
 Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <mark><span title=" colocar a) sítio web, ou b) aplicação móvel" class="conditional-text">sítio Web</span></mark> da <mark><span class="conditional-text">AMA - Agência para a Modernização Administrativa, I.P.</span></mark>, utilize, por favor, os seguintes meios:
  
