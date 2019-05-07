@@ -20,11 +20,11 @@ O Gerador da "Declaração de Acessibilidade" foi programado para:
 
 ***
 
-<mark><span id="statement-owner-prefix" title="O ou A">O/A</span></mark> <mark><span id="statement-owner">nome da entidade</span></mark> compromete-se a disponibilizar <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">o seu sítio Web/a sua aplicação móvel</span></mark> <mark><a href="http://" id="webapp-url"><span id="webapp-name" title="http://">Nome do sítio Web/da aplicação móvel</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
+<mark><span id="statement-owner-prefix" title="O ou A">A</span></mark> <mark><span id="statement-owner">AMA - Agência para a Modernização Administrativa, I.P.</span></mark> compromete-se a disponibilizar <mark><span id="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">o seu sítio Web</span></mark> <mark><a href="http://www.acessibilidade.gov.pt" id="webapp-url"><span id="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a></mark>, em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
  
 ## I. Estado de conformidade
 
-Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web/aplicação móvel</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme/parcialmente conforme/não conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
+Este <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> está <mark><span id="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span></mark> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
 
 ### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível (esta subseção aparece apenas quando se seleciona b ou c e quando é necessário disponibilizar uma lista de não conformidades)</span>
  
@@ -57,12 +57,10 @@ C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em
 Esta declaração foi atualizada a <mark><span id="statement-date-review">12 de setembro de 2019</span></mark>.
  
 **A. Avaliação automática (identificar as ferramentas utilizadas e os respetivos resultados):** 
- 
-De acordo com a alínea a) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório e deve ser realizada em determinadas condições. 
- 
+
 Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/semi-automáticas?
 
- - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim/Não</span></mark>
+ - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim</span></mark>
  
 <span class="conditional-text" title="Se não">Se não levou a efeito qualquer avaliação automática, explicite as razões para não o ter feito:</span>
  
@@ -75,19 +73,14 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
 <span title="se Sim" class="conditional-text">Se levou a efeito avaliações automáticas, inclua a data da sua realização, o nome da ou das ferramentas utilizadas, a amostra ou as amostras de páginas utilizadas, os resultados alcançados e as hiperligações para a documentação da ou das análises realizadas.</span>
 
 <ul>
-  <li><mark>(<span title="data" id="aen1_date">27/03/2018</span>).</mark> <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark>. Amostra: <mark><span title="sample" id="aen1_sample">86</span></mark> páginas. <mark><a href="http://..." id="aen1_more_uri"><span title="More data" id="aen1_more">Documentos com os relatórios da análise</span></a></mark>.
-    <ul><li>Síntese de Resultados: <mark><span id="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 75% das páginas passam a bateria de testes para o nível 'A', 50% passam os testes para o "AA" e 25% os testes para o "A". 25% não passam na bateria de testes.</span></mark></li>
-    </ul></li>
-  <li><mark>(<span title="data" id="aen2_date">dd/mm/aaaa</span>).</mark> <mark><span title="Tool" id="aen2_tool">Ferramenta 2</span></mark>. Amostra: <mark><span title="sample" id="aen2_sample">xx</span></mark> páginas. <mark><a href="http://..." id="aen2_more_uri"><span title="More data" id="aen2_more">Documentos com os relatórios da análise 2</span></a></mark>.
-    <ul><li>Síntese de Resultados: <mark><span id="aen2_findings">...</span></mark></li>
+  <li><mark>(<span title="data" id="aen1_date">27/03/2018</span>).</mark> <mark><span title="Tool" id="aen1_tool">AccessMonitor</span></mark>. Amostra: <mark><span title="sample" id="aen1_sample">86</span></mark> páginas. Endereço Web do Relatório: <mark><span id="aen1_more_uri">http://...</span></mark>.
+    <ul><li>Síntese de Resultados: <mark><span id="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 80% das páginas passam a bateria de testes para o nível 'AA'.</span></mark></li>
     </ul></li>
 </ul>
  
 **B. Avaliação Manual feita com base em lista de verificação:**
  
-De acordo com a alínea b) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é obrigatório de acordo com determinadas condições.
-
-Efetuou algum tipo de avaliação manual com base na lista de verificação para sítios Web existente em [lista de verificação](http://)?
+Efetuou algum tipo de avaliação manual com base na checklist "10 aspetos críticosl na construção de sítios Web" existente em [Checklist](http://)?
 
 - <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
  
@@ -99,22 +92,16 @@ Efetuou algum tipo de avaliação manual com base na lista de verificação para
   <li><mark><span id="me-no-reasonn">...</span></mark></li>
 </ul>
  
-<span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [lista de verificação](http://), inclua o resultado (do total das heurísticas aplicáveis quantas é que são satisfeitas) e uma hiperligação para os documentos da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
+<span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [Checklist](http://), inclua o resultado (do total das heurísticas aplicáveis quantas é que são satisfeitas) e uma hiperligação para os documentos da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
  
 <ul>
-  <li><mark><a href="https://" id="me01-pass-uri"><span id="me01-pass">satisfaz/(total aplicaável)</span></a></mark>
+  <li><mark><span id="me01-pass">9/9</span></mark>. Endereço Web do relatório de suporte:<span id="me01-pass-url">http://...</span>.
    <ul>
-    <li>Amostra utilizada na avaliação manual: <mark><a href="http://" id="me01-sample-uri"><span id="me01-sample">xx</span> páginas</a>.</mark></li>
-  </ul></li>
-  <li><mark><a href="https://" id="me02-pass-uri"><span id="me02-pass">principais conclusões do estudo</span></a></mark>
-<ul>
-    <li>Amostra utilizada na avaliação manual: <mark><a href="http://" id="me02-sample-uri"><span id="me02-sample">xx</span> de páginas</a></mark></li>
+    <li>Amostra utilizada na avaliação manual: <mark><span id="me01-sample">10</span> páginas</span>.</mark> Endereço Web do Documento que contém a listagem de páginas que compõem a amostra: <mark><span id="me01-sample-uri">http://...</span></mark></li>
   </ul></li>
 </ul>
   
 **C. Testes de usabilidade com pessoas com deficiência:**
-
-De acordo com a alínea c) do n.º 1 do art. 9º do Decreto-lei n.º 83/2018 este tipo de análise é recomendada.
 
 Efetuou algum tipo de testes com utilizadores?
 
@@ -123,33 +110,21 @@ Efetuou algum tipo de testes com utilizadores?
 <span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
  
 <ul>
-  <li><mark><a href="/report-link" title="hiperligação para o relatório do estudo" id="tu01-uri"><span id="tu01-reporttitle">Título do Estudo 1</span></a></mark>
+  <li>Endereço Web do Relatório do Estudo: <mark><span title="hiperligação para o relatório do estudo" id="tu01-uri">http://...</mark>
     <ul>
-      <li>Participantes: <mark><span id="tu01-participants">4 utilizadores + 2 utilizadores de leitores de ecrã</span></mark></li>
-      <li>Tarefas/Processos: <mark><span id="tu01-tasks">Preenchimento do formulário de contacto; ...</span></mark></li>
+      <li>Participantes: <mark><span id="tu01-participants">4 utilizadores + 2 utilizadores de sistemas de varrimento</span></mark></li>
+      <li>Tarefas/Processos: <mark><span id="tu01-tasks">Preenchimento do formulário de contacto; Navegação no menu principal</span></mark></li>
       <li>Principais resultados (sumário): <mark><span id="tu01-summary">...</span></mark></li>
-    </ul></li>
-    <li><mark><a href="/report-link" title="hiperligação para o relatório do estudo" id="tu02-uri"><span id="tu02-reporttitle">Título do Estudo 2</span></a></mark>
-    <ul>
-      <li>Participantes: <mark><span id="tu02-participants">4 utilizadores + 2 utilizadores surdos</span></mark></li>
-      <li>Tarefas/Processos: <mark><span id="tu02-tasks">vídeo-tutoriais; ...</span></mark></li>
-      <li>Principais resultados (sumário): <mark><span id="tu02-summary">...</span></mark></li>
     </ul></li>
   </ul>  
  
 ## III. Contacto e solicitação de informação relativa ao <span title=" colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
  
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <mark><span title=" colocar a) sítio web, ou b) aplicação móvel" class="conditional-text">sítio Web</span></mark> da <mark><span class="conditional-text">Entidade</span></mark>, utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <mark><span title=" colocar a) sítio web, ou b) aplicação móvel" class="conditional-text">sítio Web</span></mark> da <mark><span class="conditional-text">AMA - Agência para a Modernização Administrativa, I.P.</span></mark>, utilize, por favor, os seguintes meios:
  
 <dl id="contact-info">
-  <dt><mark>Título 1</mark></dt>
-  <dd><mark>Elemento 1</mark></dd>
-  <dt><mark>Título 2</mark></dt>
-  <dd><mark>Elemento 2</mark></dd>
-  <dt><mark>Título 3</mark></dt>
-  <dd><mark>Elemento 3</mark></dd>
-  <dt><mark>Título 4</mark></dt>
-  <dd><mark>Elemento 4</mark></dd>
+  <dt><mark><span id="titulo_1">Email:</span></mark></dt>
+  <dd><mark><span id="elemento_1">info@ama.pt</span></mark></dd>
 </dl>
  
 ## IV. Selo de Acessibilidade e Usabilidade
