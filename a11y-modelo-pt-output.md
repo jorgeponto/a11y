@@ -118,7 +118,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  
 ## IV. Selo de Acessibilidade e Usabilidade
  
-![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif) 
+![Certification label - to be developed](https://jorgeponto.github.com/a11y/selo/ouro.png) 
 
  
 ## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
