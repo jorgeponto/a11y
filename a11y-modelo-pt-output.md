@@ -107,20 +107,22 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
     </li>
   </ul>  
  
-## III. Contacto e solicitação de informação relativa ao <span title="colocar a) sítio Web, ou b) aplicação móvel" class="conditional-text">sítio Web</span>
+## III. Contacto e solicitação de informação relativa ao <span title="colocar a) sítio Web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span>
  
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title=" colocar a) sítio web, ou b) aplicação móvel" class="conditional-text">sítio Web</span> da <span class="conditional-text">AMA - Agência para a Modernização Administrativa, I.P.</span>, utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no <span title="colocar a) sítio web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span> da <span data-print="">AMA - Agência para a Modernização Administrativa, I.P.</span>, utilize, por favor, os seguintes meios:
  
 <dl data-print="contact-info">
   <dt><span data-print="titulo_1">Email:</span></dt>
   <dd><span data-print="elemento_1">info@ama.pt</span></dd>
 </dl>
  
-## IV. Selo de Usabilidade e Acessibilidade
+## IV. Outras evidências / esforços para tornar os conteúdos mais acessíveis e mais usáveis
+
+### Selo de Usabilidade e Acessibilidade
 
 <img src="https://jorgeponto.github.com/a11y/selo/ouro.png" alt="selo Ouro de usabilidade e acessibilidade" height="108">
 
-<span data-print="">O sítio Web</span> <span data-print="">www.acessibilidade.gov.pt</span> da <span data-print="">AMA - Agência para a Modernização Administrativa, I.P.</span>, encontra-se certificado com o <span data-print="">selo Ouro</span> de usabilidade e acessibilidade até <span data-print="">31/12/2020</span>. A afixação do <span data-print="">selo Ouro</span> significa que <span data-print="">o sítio Web</span>:
+<span data-print="statement-webapp">O sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a> da <span data-print="statement-owner">AMA - Agência para a Modernização Administrativa, I.P.</span>, encontra-se certificado com o <span data-print="label-level">selo Ouro</span> de usabilidade e acessibilidade até <span data-print="label-update">31/12/2020</span>. A afixação do <span data-print="label-level">selo Ouro</span> significa que <span data-print="">o sítio Web</span>:
 
 - <span data-print="bronze-requisito-1">passa a checklist "Conteúdos"</span>
 - <span data-print="bronze-requisito-2">passa a bateria de testes de acessibilidade de uma ferramenta de validação automática comummente utilizada no mercado
