@@ -58,10 +58,6 @@ Esta declaração foi atualizada a <mark><span id="statement-date-review">12 de 
  
 **A. Avaliação automática (identificar as ferramentas utilizadas e os respetivos resultados):** 
 
-Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/semi-automáticas?
-
- - <mark><span id="automatic-evaluation" title="selecionar a) Sim, b) Não">Sim</span></mark>
- 
 <span class="conditional-text" title="Se não">Se não levou a efeito qualquer avaliação automática, explicite as razões para não o ter feito:</span>
  
 <ul>
@@ -79,10 +75,6 @@ Efetuou algum tipo de avaliação usando para o efeito ferramentas automáticas/
 </ul>
  
 **B. Avaliação Manual feita com base em lista de verificação:**
- 
-Efetuou algum tipo de avaliação manual com base na [checklist "10 aspetos críticosl na construção de sítios Web"](http://)?
-
-- <mark><span id="manual-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
  
 <span class="conditional-text" title="Se não">Se não levou a efeito nenhuma avaliação manual, explique a razão ou razões para não o ter feito:</span>
  
@@ -103,10 +95,6 @@ Efetuou algum tipo de avaliação manual com base na [checklist "10 aspetos crí
   
 **C. Testes de usabilidade com pessoas com deficiência:**
 
-Efetuou algum tipo de testes com utilizadores?
-
-- <mark><span id="usability-evaluation" title="selecione a) Sim, b) Não">Sim</span></mark>
- 
 <span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
  
 <ul>
