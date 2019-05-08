@@ -119,6 +119,15 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 ## IV. Selo de Usabilidade e Acessibilidade
 
 <img src="https://jorgeponto.github.com/a11y/selo/ouro.png" alt="selo Ouro de usabilidade e acessibilidade" height="108">
+
+<span id="">O sítio Web</span> <span id="">www.acessibilidade.gov.pt</span> da <span id="">AMA - Agência para a Modernização Administrativa, I.P.</span>, encontra-se certificado com o <span id="">selo Ouro</span> de usabilidade e acessibilidade até <span id="">31/12/2020</span>. A afixação do <span id="">selo Ouro</span> significa que <span id="">o sítio Web</span>:
+
+- <span id="bronze-requisito-1">passa a checklist "Conteúdos"</span>
+- <span id="bronze-requisito-2">passa a bateria de testes de acessibilidade de uma ferramenta de validação automática comummente utilizada no mercado
+  
+- <span id="prata-requisito-1">passa a checklist "Transação"</span>
+- <span id="prata-requisito-2">passa a checklist "10 aspetos funcionais"</span>
+- <span id="ouro-requisito-1">foi alvo de testes de usabilidade com utilizadores reais, nomeadamente com utilizadores com deficiência</span>
  
 ## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
  
