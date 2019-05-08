@@ -2,7 +2,6 @@
 title: Declaração de Acessibilidade/Usabilidade - Gerador: saída de informação
 ---
 <style type="text/css">
-  h1 {text-indent:-2em;}
   h2 {font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
   h3 {font-size:120%;}
   .conditional-text {background-color:black; color:yellow}
