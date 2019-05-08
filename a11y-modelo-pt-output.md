@@ -118,7 +118,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  
 ## IV. Selo de Usabilidade e Acessibilidade
 
-<img src="https://jorgeponto.github.com/a11y/selo/ouro.png" alt="selo Ouro de usabilidade e acessibilidade">
+<img src="https://jorgeponto.github.com/a11y/selo/ouro.png" alt="selo Ouro de usabilidade e acessibilidade" height="108">
  
 ## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
  
