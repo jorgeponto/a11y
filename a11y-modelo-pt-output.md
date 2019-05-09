@@ -1,5 +1,5 @@
 ---
-title: Declaração de Acessibilidade/Usabilidade - Gerador: saída de informação
+title: Declaração de Acessibilidade e Usabilidade - Gerador: saída de informação
 ---
 <style type="text/css">
   h2 {font-size:140%; border-bottom:1px solid #000; padding-bottom:0}
@@ -8,7 +8,7 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: saída de informaç
   .conditional-text {text-decoration: line-through;}
 </style>
 
-# Declaração de Acessibilidade / Usabilidade
+# Declaração de Acessibilidade e Usabilidade
 
 ***
  
