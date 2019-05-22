@@ -12,11 +12,15 @@ title: Declaração de Acessibilidade e Usabilidade - Gerador: saída de informa
 
 ***
  
-(<strong>Nota:</strong> este é o modelo de declaração de acessibilidade/usabilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
+(<strong>Nota:</strong> o presente modelo de declaração de acessibilidade e usabilidade foi criado pela AMA - Agência para a Modernização Administrativa, I.P., no âmbito das competências que lhe são atribuídas pelo DL n.º 83/2018, de 19 de outubro.)
 
-O Gerador da "Declaração de Acessibilidade" foi programado para:
-1. mediante o preenchimento do formulário que se segue;
-2. é gerada uma página em HTML que pode copiar e colar numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
+Para gerar a Declaração de Acessibilidade e Usabilidade foi desenvolvido um Gerador, o qual mediante o preenchimento de um formulário o conduz pelas 5 secções da declaração e lhe proporciona no final uma página pronta a publicar no seu sítio Web. 
+
+Assim, para obter a declaração, deverá seguir os seguintes passos:
+1. todos os documentos que pretende referenciar na Declaração de Acessibilidade e Usabilidade devem estar previamente publicados online, uma vez que naquela apenas existem hiperligações para os mesmos;
+2. preencher o formulário que se segue;
+3. no final pode pré-visualizar e voltar ao formulário quantas vezes precisar;
+4. quando considerar que a declaração está concluída, pode descarregar o código HTML e colá-lo numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
 
 ***
 
@@ -125,8 +129,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 <span data-print="statement-webapp">O sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a> da <span data-print="statement-owner">AMA - Agência para a Modernização Administrativa, I.P.</span>, encontra-se certificado com o <span data-print="label-level">selo Ouro</span> de usabilidade e acessibilidade até <span data-print="label-update">31/12/2020</span>. A afixação do <span data-print="label-level">selo Ouro</span> significa que <span data-print="">o sítio Web</span>:
 
 - <span data-print="bronze-requisito-1">passa a checklist "Conteúdos"</span>
-- <span data-print="bronze-requisito-2">passa a bateria de testes de acessibilidade de uma ferramenta de validação automática comummente utilizada no mercado
-  
+- <span data-print="bronze-requisito-2">passa a bateria de testes de acessibilidade de uma ferramenta de validação automática comummente utilizada no mercado para a conformidade 'AA'</span>  
 - <span data-print="prata-requisito-1">passa a checklist "Transação"</span>
 - <span data-print="prata-requisito-2">passa a checklist "10 aspetos funcionais"</span>
 - <span data-print="ouro-requisito-1">foi alvo de testes de usabilidade com utilizadores reais, nomeadamente com utilizadores com deficiência</span>
