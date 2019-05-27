@@ -13,11 +13,18 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
 
 ***
 <div class="alert"> 
-(<strong>Nota:</strong> este é o modelo de declaração de acessibilidade criado pela AMA - Agência para a Modernização Administrativa, I.P de acordo com o DL n.º 83/2018 de 19 de outubro.)
 
-O Gerador da "Declaração de Acessibilidade" foi programado para:
-1. mediante o preenchimento do formulário que se segue;
-2. é gerada uma página em HTML que pode copiar e colar numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
+(Nota: o presente modelo de declaração de acessibilidade e usabilidade foi criado pela AMA - Agência para a Modernização Administrativa, I.P., no âmbito das competências que lhe são atribuídas pelo DL n.º 83/2018, de 19 de outubro.)
+
+Para gerar a Declaração de Acessibilidade e Usabilidade foi desenvolvido um Gerador, o qual mediante o preenchimento de um formulário o conduz pelas 5 secções da declaração e lhe proporciona no final uma página pronta a publicar no seu sítio Web.
+
+Assim, para obter a declaração, deverá seguir os seguintes passos:
+
+1. todos os documentos que pretende referenciar na Declaração de Acessibilidade e Usabilidade devem estar previamente publicados online, uma vez que naquela apenas existem hiperligações para os mesmos;
+2. preencher o formulário que se segue;
+3. no final pode pré-visualizar e voltar ao formulário quantas vezes precisar;
+4. quando considerar que a declaração está concluída, pode descarregar o código HTML e colá-lo numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
+
 </div>
 ***
 
@@ -195,9 +202,22 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
 </dl>
 <p><button>Adicionar elemento</button></p>
  
-## IV. Selo de Acessibilidade e Usabilidade
- 
-![Certification label - to be developed](http://www.acessibilidade.gov.pt/image/acess.gif) 
+## IV. Outras evidências / esforços para tornar os conteúdos mais acessíveis e mais usáveis”
+
+### Selo de Acessibilidade e Usabilidade
+
+<p>É detentor de um selo de usabilidade e acessibilidade? <select id="selo">
+    <option value="nao">Não</option>
+    <option value="bronze">Bronze</option>
+    <option value="prata">Prata</option>
+    <option value="ouro">Ouro</option>
+  </select>
+  </p>
+
+### Outras evidências
+<p><input type="textarea" ></p>
+<p><button>Adicionar elemento</button></p>
+
 
  
 ## V. Denúncia de situações de discriminaçao derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
