@@ -14,11 +14,11 @@ title: Declaração de Acessibilidade e Usabilidade - Gerador: saída de informa
  
 ## I. Estado de conformidade
 
-<span data-print="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">O sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a> está <span data-print="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
+<span data-print="statement-webapp" title="opções a) sítio Web, ou b) aplicação móvel">O sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a> está <span data-print="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
 
-### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível (esta subsecção aparece apenas quando se seleciona b ou c e quando é necessário disponibilizar uma lista de não conformidades)</span>
+### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
  
-A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span> que não são ainda acessíveis:
+A. Enumeração <strong>das secções / conteúdos / funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span> que não são ainda acessíveis:
  
 <ul>
   <li><span data-print="no-compliant-which-1">...</span></li>
@@ -26,7 +26,7 @@ A. Enumeração de <strong>quais as secções/conteúdos/funções</strong> do <
   <li><span data-print="no-compliant-which-n">...</span></li>
 </ul>
  
-B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima não é acesível: (por exemplo, a) não conformidade com o DL n.º 83/2018, b) está fora do âmbito do DL n.º 83/2018, ou, embora dentro do âmbito, está momentaneamente inacessível devido a c) encargos desproporcionados, em relação aos quais foi invocada exceção temporária no âmbito do art. 6.º do DL n.º 83/2018 e artigo 5.º da Diretiva (UE) 2016/2102.
+B. (Se aplicável) <strong>Razões</strong> que estão na base da não conformidade dos conteúdo indicados acima.
 
 <ul>
   <li><span data-print="no-compliant-why-1">...</span></li>
@@ -34,7 +34,7 @@ B. <strong>Razões</strong> (se aplicável) porque o conteúdo indicado acima n�
   <li><span data-print="no-compliant-why-n">...</span></li>
 </ul>
  
-C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em A. e B. da presente secção (sempre que apropriado):
+C. (Sempre que apropriado) <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados na presente secção:
  
 <ul>
   <li><span data-print="no-compliant-alt-1">...</span></li>
@@ -42,13 +42,13 @@ C. <strong>Alternativas acessíveis</strong> aos constrangimentos mencionados em
   <li><span data-print="no-compliant-alt-n">...</span></li>
 </ul>
  
-## II. Elaboração da presente declaração de acessibilidade e de usabilidade
+## II. Elaboração da presente declaração de acessibilidade e usabilidade
 
 Esta declaração foi atualizada a <span data-print="statement-date-review">12 de setembro de 2019</span>.
  
-**A. Avaliação automática (identificar as ferramentas utilizadas e os respetivos resultados):** 
+**A. Avaliação automática (identificação das ferramentas utilizadas e dos respetivos resultados):** 
 
-<span class="conditional-text" title="Se não">Se não levou a efeito qualquer avaliação automática, explicite as razões para não o ter feito:</span>
+<span class="conditional-text" title="Se não">Razões que levaram à não realização de avaliações automáticas:</span>
  
 <ul>
   <li><span data-print="ae-no-reason1">...</span></li>
@@ -56,7 +56,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
   <li><span data-print="ae-no-reasonn">...</span></li>
 </ul>
  
-<span title="se Sim" class="conditional-text">Se levou a efeito avaliações automáticas, inclua a data da sua realização, o nome da ou das ferramentas utilizadas, a amostra ou as amostras de páginas utilizadas, os resultados alcançados e as hiperligações para a documentação da ou das análises realizadas.</span>
+<span title="se Sim" class="conditional-text">Avaliações automáticas levadas a efeito (data da sua realização, nome das ferramentas utilizadas, amostras de páginas utilizadas, resultados alcançados e hiperligações para a documentação das análises realizadas).</span>
 
 <ul>
   <li>(<span title="data" data-print="aen1_date">27/03/2018</span>). <span title="Tool" data-print="aen1_tool">AccessMonitor</span>. Amostra: <span title="sample" data-print="aen1_sample">86</span> páginas. Endereço Web do Relatório: <span data-print="aen1_more_uri">http://...</span>.
