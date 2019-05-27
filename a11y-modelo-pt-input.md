@@ -12,8 +12,6 @@ title: Declaração de Acessibilidade/Usabilidade - Gerador: entrada de informa�
 # Declaração de Acessibilidade
 
 ***
-<div class="alert"> 
-
 (Nota: o presente modelo de declaração de acessibilidade e usabilidade foi criado pela AMA - Agência para a Modernização Administrativa, I.P., no âmbito das competências que lhe são atribuídas pelo DL n.º 83/2018, de 19 de outubro.)
 
 Para gerar a Declaração de Acessibilidade e Usabilidade foi desenvolvido um Gerador, o qual mediante o preenchimento de um formulário o conduz pelas 5 secções da declaração e lhe proporciona no final uma página pronta a publicar no seu sítio Web.
@@ -25,7 +23,6 @@ Assim, para obter a declaração, deverá seguir os seguintes passos:
 3. no final pode pré-visualizar e voltar ao formulário quantas vezes precisar;
 4. quando considerar que a declaração está concluída, pode descarregar o código HTML e colá-lo numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
 
-</div>
 ***
 
 <mark>
