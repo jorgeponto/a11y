@@ -10,20 +10,6 @@ title: Declaração de Acessibilidade e Usabilidade - Gerador: saída de informa
 
 # Declaração de Acessibilidade e Usabilidade
 
-***
- 
-(<strong>Nota:</strong> o presente modelo de declaração de acessibilidade e usabilidade foi criado pela AMA - Agência para a Modernização Administrativa, I.P., no âmbito das competências que lhe são atribuídas pelo DL n.º 83/2018, de 19 de outubro.)
-
-Para gerar a Declaração de Acessibilidade e Usabilidade foi desenvolvido um Gerador, o qual mediante o preenchimento de um formulário o conduz pelas 5 secções da declaração e lhe proporciona no final uma página pronta a publicar no seu sítio Web. 
-
-Assim, para obter a declaração, deverá seguir os seguintes passos:
-1. todos os documentos que pretende referenciar na Declaração de Acessibilidade e Usabilidade devem estar previamente publicados online, uma vez que naquela apenas existem hiperligações para os mesmos;
-2. preencher o formulário que se segue;
-3. no final pode pré-visualizar e voltar ao formulário quantas vezes precisar;
-4. quando considerar que a declaração está concluída, pode descarregar o código HTML e colá-lo numa página do seu sítio Web. Esta página contém apenas o HTML estruturado. O estilo é o estilo do seu próprio sítio Web. O documento HTML está construído para ser lido por uma máquina - por isso não altere a estrutura da página.
-
-***
-
 <span data-print="statement-owner-prefix" title="O ou A">A</span> <span data-print="statement-owner">AMA - Agência para a Modernização Administrativa, I.P.</span> compromete-se a disponibilizar <span data-print="statement-webapp" title="seleciona a) sítio Web, ou b) aplicação móvel">o sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a>, em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis.
  
 ## I. Estado de conformidade
@@ -138,4 +124,6 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  
 De acordo com o n.º 1 do artigo 13.º do DL n.º 83/2018, de 19 de outubro, sempre que uma pessoa com deficiência seja objeto de um tratamento menos favorável do que aquele que é, tenha sido ou venha a ser dado a outra pessoa em situação comparável, que consubstancie uma prática discriminatória contra pessoas com deficiência, prevista e punida nos termos do [artigo 4.º da Lei n.º 46/2006, de 28 de agosto,](http://data.dre.pt/eli/lei/46/2006/08/28/p/dre/pt/html) pode, essa pessoa, apresentar queixa, de acordo com o disposto no [Decreto-Lei n.º 34/2007, de 15 de fevereiro](https://data.dre.pt/eli/dec-lei/34/2007/02/15/p/dre/pt/html).
  
-O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formulário para denunciar situações de discriminação](http://www.inr.pt/uploads/Formulario_queixa.rtf.rtf), encaminhando as queixas apresentadas às entidades competentes. Anualmente, o INR, I.P. elabora um relatório anual sobre a aplicação da lei que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde (Lei n.o 46/2006, de 28 de agosto). 
+O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formulário para denunciar situações de discriminação](http://www.inr.pt/uploads/Formulario_queixa.rtf.rtf), encaminhando as queixas apresentadas às entidades competentes. Anualmente, o INR, I.P. elabora um relatório anual sobre a aplicação da lei que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde (Lei n.o 46/2006, de 28 de agosto).
+<hr>
+A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador v1.0](#), criado pela AMA - Agência para a Modernização Administrativa, I.P. ao abrigo do DL n.º 83/2018, de 19 de outubro.
