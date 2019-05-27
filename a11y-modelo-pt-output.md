@@ -66,7 +66,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
  
 **B. Avaliação Manual feita com base em lista de verificação:**
  
-<span class="conditional-text" title="Se não">Se não levou a efeito nenhuma avaliação manual, explique a razão ou razões para não o ter feito:</span>
+<span class="conditional-text" title="Se não">Razões que levaram à não realização de avaliações manuais:</span>
  
 <ul>
   <li><span data-print="me-no-reason1">...</span></li>
