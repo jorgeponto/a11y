@@ -128,4 +128,4 @@ O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formul
 
 <hr>
 
-A presente Declaração de Acessibilidade e Usabilidade foi gerada com o auxílio do [Gerador v1.0](#aaa), criado pela AMA - Agência para a Modernização Administrativa, I.P. ao abrigo do DL n.º 83/2018, de 19 de outubro.
+A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador WAI-Tools PT v1.0](#aaa), desenvolvido no âmbito do projeto <em lang="en">[WAI-Tools](https://w3.org/WAI/Tools)</em>, de cujo consórcio a AMA é parte integrante. A Declaração foi concebida em conformidade com o DL n.º 83/2018, de 19 de outubro.
