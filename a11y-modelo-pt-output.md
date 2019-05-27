@@ -126,4 +126,4 @@ De acordo com o n.º 1 do artigo 13.º do DL n.º 83/2018, de 19 de outubro, sem
  
 O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formulário para denunciar situações de discriminação](http://www.inr.pt/uploads/Formulario_queixa.rtf.rtf), encaminhando as queixas apresentadas às entidades competentes. Anualmente, o INR, I.P. elabora um relatório anual sobre a aplicação da lei que proíbe e pune a discriminação em razão da deficiência e da existência de risco agravado de saúde (Lei n.o 46/2006, de 28 de agosto).
 <hr>
-A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador v1.0](#), criado pela AMA - Agência para a Modernização Administrativa, I.P. ao abrigo do DL n.º 83/2018, de 19 de outubro.
+<p style="font-size: 90%">A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador v1.0](#), criado pela AMA - Agência para a Modernização Administrativa, I.P. ao abrigo do DL n.º 83/2018, de 19 de outubro.</p>
