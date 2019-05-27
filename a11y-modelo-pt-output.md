@@ -26,7 +26,7 @@ A. Enumeração <strong>das secções / conteúdos / funções</strong> do <span
   <li><span data-print="no-compliant-which-n">...</span></li>
 </ul>
  
-B. (Se aplicável) <strong>Razões</strong> que estão na base da não conformidade dos conteúdo indicados acima.
+B. (Se aplicável) <strong>Razões</strong> que estão na base da não conformidade dos conteúdos indicados acima.
 
 <ul>
   <li><span data-print="no-compliant-why-1">...</span></li>
@@ -64,7 +64,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
     </ul></li>
 </ul>
  
-**B. Avaliação Manual feita com base em lista de verificação:**
+**B. Avaliação manual feita com base em lista de verificação:**
  
 <span class="conditional-text" title="Se não">Razões que levaram à não realização de avaliações manuais:</span>
  
@@ -74,7 +74,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
   <li><span data-print="me-no-reasonn">...</span></li>
 </ul>
  
-<span title="se Sim" class="conditional-text">Se levou a efeito uma avaliação manual de acordo com a lista de verificação referenciada em [Checklist](http://), inclua o resultado (do total das heurísticas aplicáveis quantas é que são satisfeitas) e uma hiperligação para os documentos da respetiva análise. Se levou a efeito outras avaliações manuais, faça menção aos melhores resultados alcançados e forneça uma hiperligação para o respetivo relatório de suporte à análise.</span>
+<span title="se Sim" class="conditional-text">Avaliações automáticas levadas a efeito de acordo com a lista de verificação referenciada em [Checklist 10 aspetos críticos de acessibilidade funcional a ter em conta num sítio Web](http://) (inclui o resultado - do total das heurísticas aplicáveis quantas é que são satisfeitas - e hiperligação para os documentos da respetiva análise).</span>
  
 <ul>
   <li><span data-print="me01-pass"><span title="pontos críticos satisfeitos">9</span>/<span title="total de pontos aplicáveis">9</span></span>. Endereço Web do relatório de suporte:<span data-print="me01-pass-url">http://...</span>.
@@ -85,7 +85,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
   
 **C. Testes de usabilidade com pessoas com deficiência:**
 
-<span title="Se Sim" class="conditional-text">Se efetuou testes de usabilidade com pessoas com deficiência, liste-os abaixo, enunciando as tarefas, os participantes, um sumário das principais conclusões e uma hiperligação para o relatório do estudo.</span>
+<span title="Se Sim" class="conditional-text">Testes de usabilidade efetuados com pessoas com deficiência (listagem dos estudos efetuados com enunciação das tarefas, dos participantes, sumário das principais conclusões e hiperligação para o relatório do estudo).</span>
  
 <ul>
   <li>Endereço Web do Relatório do Estudo: <span title="hiperligação para o relatório do estudo" data-print="tu01-uri">http://...</span>
@@ -108,7 +108,7 @@ Para contactar, enviar sugestões, efetuar reclamações ou solicitar informaç�
  
 ## IV. Outras evidências / esforços para tornar os conteúdos mais acessíveis e mais usáveis
 
-### Selo de Usabilidade e Acessibilidade
+<span title="Se Sim" class="conditional-text">### Selo de Usabilidade e Acessibilidade</span>
 
 <img src="https://jorgeponto.github.com/a11y/selo/ouro.png" alt="selo Ouro de usabilidade e acessibilidade" height="108">
 
