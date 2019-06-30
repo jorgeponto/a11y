@@ -16,9 +16,9 @@ title: Declaração de Acessibilidade e Usabilidade - Gerador: saída de informa
 
 <span data-print="statement-webapp" title="opções a) sítio Web, ou b) aplicação móvel">O sítio Web</span> <a href="http://www.acessibilidade.gov.pt" data-print="webapp-url"><span data-print="webapp-name" title="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</span></a> está <span data-print="status-compliance" title="selecionar a) plenamente conforme, b) parcialmente conforme, c) não conforme">plenamente conforme</span> para com o Decreto-lei n.º 83/2018 de 19 de outubro. <span class="conditional-text" title="(esta frase só aparecerá se selecionar b) ou c)">As não conformidades e/ou isenções são indicadas abaixo (esta frase só aparecerá se selecionar b ou c)</span>.
 
-### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Conteúdo não acessível</span>
+### <span title="esta subseção aparece apenas quando se seleciona b) ou c) e quando é necessário disponibilizar uma lista de não conformidades" class="conditional-text">Não conformidades e/ou alvo de isenções</span>
  
-A. Enumeração <strong>das secções / conteúdos / funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span> que não são ainda acessíveis:
+A. Enumeração <strong>das secções / conteúdos / funções</strong> do <span title="colocar a) sítio Web, ou b) aplicação móvel" data-print="statement-webapp">sítio Web</span> que não estão conformes e/ou são alvo de isenção:
  
 <ul>
   <li><span data-print="no-compliant-which-1">...</span></li>
@@ -26,7 +26,7 @@ A. Enumeração <strong>das secções / conteúdos / funções</strong> do <span
   <li><span data-print="no-compliant-which-n">...</span></li>
 </ul>
  
-B. (Se aplicável) <strong>Razões</strong> que estão na base da não conformidade dos conteúdos indicados acima.
+B. (Se aplicável) <strong>Razões</strong> que estão na base da não conformidade dos conteúdos indicados acima:
 
 <ul>
   <li><span data-print="no-compliant-why-1">...</span></li>
@@ -60,7 +60,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
 
 <ul>
   <li>(<span title="data" data-print="aen1_date">27/03/2018</span>). <span title="Tool" data-print="aen1_tool">AccessMonitor</span>. Amostra: <span title="sample" data-print="aen1_sample">86</span> páginas. Endereço Web do Relatório: <span data-print="aen1_more_uri">http://...</span>.
-    <ul><li>Síntese de Resultados: <span data-print="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 80% das páginas passam a bateria de testes para o nível 'AA'.</span></li>
+    <ul><li>Principais resultados (sumário): <span data-print="aen1_findings">No total das 86 páginas foi obtido um score de 9.6 na escala do AccessMonitor (1-10) tendo-se obtido os seguintes níveis de conformidade 80% das páginas passam a bateria de testes para o nível 'AA'.</span></li>
     </ul></li>
 </ul>
  
