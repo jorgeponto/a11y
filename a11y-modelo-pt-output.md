@@ -74,7 +74,7 @@ Esta declaração foi atualizada a <span data-print="statement-date-review">12 d
   <li><span data-print="me-no-reasonn">...</span></li>
 </ul>
  
-<span title="se Sim" class="conditional-text">Avaliações automáticas levadas a efeito de acordo com a lista de verificação referenciada em [Checklist 10 aspetos críticos de acessibilidade funcional a ter em conta num sítio Web](http://) (inclui o resultado - do total das heurísticas aplicáveis quantas é que são satisfeitas - e hiperligação para os documentos da respetiva análise).</span>
+<span title="se Sim" class="conditional-text">Avaliações manuais levadas a efeito de acordo com a lista de verificação referenciada em [Checklist 10 aspetos críticos de acessibilidade funcional a ter em conta num sítio Web](http://) (inclui o resultado - do total das heurísticas aplicáveis quantas é que são satisfeitas - e hiperligação para os documentos da respetiva análise).</span>
  
 <ul>
   <li><span data-print="me01-pass"><span title="pontos críticos satisfeitos">9</span>/<span title="total de pontos aplicáveis">9</span></span>. Endereço Web do relatório de suporte:<span data-print="me01-pass-url">http://...</span>.
