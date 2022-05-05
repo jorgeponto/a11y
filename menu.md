@@ -70,12 +70,18 @@ Quando as imagens-link dispõem de um equivalente alternativo em texto, também 
 
 A estrutura do menu poderá ser analisada desativando as folhas de estilo. Por exemplo, no caso do menu cujo código apresentámos na figura atrás obteríamos algo como:
 
-
-> - início
-> - Recursos
->  - Tutorial sobre imagens
->  - Tutorial sobre formulários
-> - Blogue
+<blockquote>
+  <ul>
+    <li>início</li>
+    <li>Recursos
+      <ul>
+        <li>Tutorial sobre imagens</li>
+        <li>Tutorial sobre formulários</li>
+      </ul>
+    </li>
+    <li>Blogue</li>
+  </ul>
+</blockquote>
 Figura: exemplo de uma lista encadeada de opções com o estilo definido por <span lang="en">**Tim Berners-Lee**</span> no início dos anos 90.
 
 *Acesso às opções e subopções usando apenas o rato ou usando apenas o teclado*
