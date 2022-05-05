@@ -1,31 +1,33 @@
 voltar ao [sumário](README.md)
 
+<h1>1. Menus de navegação</h1>
+
 conteúdo do capítulo:
 
 - [Introdução](#Introdução)
 - [Racional do ponto de verificação](#racional-do-ponto-de-verificação)
 - [Requisitos WCAG 2.1 aplicáveis](#requisitos-wcag-21-aplicáveis)
-- [Avaliação do requisito constante na Checklist "10 aspetos críticos de acessibilidade funcional"](#avaliação-do-requisito-constante-na-checklist-10-aspetos-cr%C3%ADticos-de-acessibilidade-funcional)
+- [Avaliação dos requisitos constantes na Checklist "10 aspetos críticos de acessibilidade funcional"](#avaliação-dos-requisitos-constantes-na-checklist-10-aspetos-cr%C3%ADticos-de-acessibilidade-funcional)
   - [Procedimento de teste](#Procedimento-de-teste)
   - [Ferramentas de validação](#ferramentas-de-validação)
 - [Checklist "10 aspetos críticos de acessibilidade funcional"](#checklist-10-aspetos-cr%C3%ADticos-de-acessibilidade-funcional)
 
 ## Introdução
 
-Geralmente num sítio Web existem vários menus de navegação. Neste capítulo vamos apenas debruçarmo-nos sobre o menu que constitui no sítio Web o menu principal de navegação. Geralmente ele está presente em todas as páginas do sítio Web e posicionado no topo das páginas.
+É comum num sítio Web existirem vários menus de navegação. No presente capítulo vamos apenas debruçarmo-nos sobre o menu que constitui no sítio Web o menu principal de navegação. Geralmente, este menu está presente em todas as páginas do sítio Web, posicionado no topo das páginas e apresenta as suas diversas opções de forma horizontal, vertical ou, até mesmo, em painéis. Na verdade, a forma visual como se apresenta é pouco relevante para a verificação dos requisitos aqui presentes.
 
-O menu principal de um sítio Web é, por regra, o mecanismo de entrada, ou passagem, para as partes mais importantes do sítio Web. Não conseguir aceder, entender ou manusear o menu principal é uma barreira à entrada e à utilização do sítio Web, e o princípio do descalabro e da insatisfação que levará o utilizador a procurar uma estratégia alternativa de navegação, por exemplo através do motor de busca do sítio ou mesmo, a procurar soluções fora do sítio Web.
+O menu principal de um sítio Web é, por regra, o mecanismo de entrada, ou passagem, para as partes mais importantes do sítio Web. Não conseguir aceder, entender ou manusear o menu principal é uma barreira à entrada e à utilização do sítio Web. Ele é a génese do princípio do descalabro e da insatisfação que leva o utilizador a procurar uma estratégia alternativa de navegação - um motor de pesquisa no sítio, por exemplo - ou mesmo, a procurar soluções fora do sítio Web.
 
 ## Racional do ponto de verificação
 
-Um menu é, em termos estruturais, uma lista de opções. Quando o número de elementos a disponibilizar é grande, por questões de facilidade de leitura e maquetização espacial, organizam-se esses mesmos elementos em opções e subopões. Na Checklist "Conteúdos" do selo de Usabilidade e Acessibilidade recomenda-se que o menu e os submenus não tenha mais de 9 opções.
+Um menu é, em termos estruturais, uma lista de opções. Quando o número de elementos a disponibilizar é grande, por questões de facilidade de leitura e maquetização espacial, organizam-se esses mesmos elementos em opções e subopões - na [Checklist "Conteúdo" do selo de Usabilidade e Acessibilidade recomenda-se mesmo que o menu e os submenus não tenham mais do que 9 opções](#).
 
-Há dois parâmetros num menu que é importante preservar: 
+Em acessibilidade, e porque estes elementos são relevantes para as tecnologias de apoio que, muitas vezes, fazem a intermediação da leitura para o utilizador final, há dois parâmetros num menu que é importante preservar: 
 
 - a noção de lista de opções e;
-- o facto de as opções e as subopções terem que ser alcançadas por utilizadores que usem um rato, ou qualquer outro dispositivo apontador, ou o teclado, ou qualquer outra tecnologia que navegue pelo menu com estratégias de navegação iguais ás utilizadas pelo teclado.
+- o facto de as opções e as subopções terem que ser alcançadas por utilizadores que usem rato (ou qualquer outro dispositivo apontador) ou teclado (ou qualquer outra tecnologia que se comporte como o teclado).
 
-A preservação da semântica "lista de opções" é, por exemplo em HTML, preservada usando elementos de HTML próprios para marcar listas. É o caso do exemplo que se apresenta abaixo:
+A preservação da semântica - "lista de opções" - é, por exemplo em HTML, alcançada usando elementos de HTML próprios para marcar listas. É o caso do exemplo que se apresenta abaixo:
 
 ```html
 <ul>
@@ -39,7 +41,7 @@ A preservação da semântica "lista de opções" é, por exemplo em HTML, prese
     <li>Blogue</li>
 </ul>
 ```
-Figura: exemplo de um menu de opções encadeadas
+Figura: Lista de opções do tipo UL - <em lang="en">unorder list</em> (lista não ordenada de itens).
 
 A representação visual, horizontal ou vertical, com as subopções abertas ou fechadas, deve ser controlada com o uso de CSS (folhas de estilo em cascata).
 
@@ -47,11 +49,18 @@ Alcançar as opções e as subopções usando apenas um teclado ou usando apenas
 
 ## Requisitos a cumprir
 
-Acesso com teclado e com rato
+### 1.1 O menu de navegação está estruturado como uma lista de opções e subopções
 
-Imagens-link, equivalentes alternativos em texto
+Para que possa ser bem interpretado pelas tecnologias de apoio, os menus e submenus devem estar estruturados com elementos HTML nativos, do tipo `<ul><li>(...)`, ou com a semântica e o estado dos elementos identificados com técnicas de ARIA.
 
-Estrutura do menu ...
+### 1.2 As opções e subopções do menu são selecionáveis com rato e com teclado
+
+Deve ser possível percorrer a estrutura de navegação quer com um dispositivo apontador quer com o teclado.
+
+### 1.3 As imagens-link, quando usadas para construir mecanismos de navegação, têm o correspondente equivalente alternativo em texto
+
+Quando as imagens-link dispõem de um equivalente alternativo em texto, também designado tecnicamente de nome acessível, permitem que os mecanismos de navegação sejam utilizados de múltiplas formas. Por exemplo, para quem não vê podem transformar-se em texto. Para quem não consegue controlar um rato ou  teclado podem ser ativados através de reconhecimento de fala.
+
 
 ## Avaliação
 
@@ -61,17 +70,13 @@ Estrutura do menu ...
 
 A estrutura do menu poderá ser analisada desativando as folhas de estilo. Por exemplo, no caso do menu cujo código apresentámos na figura atrás obteríamos algo como:
 
-<blockquote>
 
-- início
-- Recursos
-  - Tutorial sobre imagens
-  - Tutorial sobre formulários
-- Blogue
-
-</blockquote>
-
-Ou seja, uma lista encadeada com o estilo definido por **Tim Berners-Lee** no início dos anos 90.
+> - início
+> - Recursos
+>  - Tutorial sobre imagens
+>  - Tutorial sobre formulários
+> - Blogue
+Figura: exemplo de uma lista encadeada de opções com o estilo definido por <span lang="en">**Tim Berners-Lee**</span> no início dos anos 90.
 
 *Acesso às opções e subopções usando apenas o rato ou usando apenas o teclado*
 
