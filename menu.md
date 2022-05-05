@@ -6,8 +6,9 @@ conteúdo do capítulo:
 
 - [Introdução](#Introdução)
 - [Racional do ponto de verificação](#racional-do-ponto-de-verificação)
-- [Requisitos WCAG 2.1 aplicáveis](#requisitos-wcag-21-aplicáveis)
-- [Avaliação dos requisitos constantes na Checklist "10 aspetos críticos de acessibilidade funcional"](#avaliação-dos-requisitos-constantes-na-checklist-10-aspetos-cr%C3%ADticos-de-acessibilidade-funcional)
+<!-- - [Critérios de Sucesso WCAG 2.1 aplicáveis](#) -->
+- [Aspetos críticos selecionados](#)
+- [Como verificar os requisitos da Checklist "10 aspetos críticos de acessibilidade funcional"](#)
   - [Procedimento de teste](#Procedimento-de-teste)
   - [Ferramentas de validação](#ferramentas-de-validação)
 - [Checklist "10 aspetos críticos de acessibilidade funcional"](#checklist-10-aspetos-cr%C3%ADticos-de-acessibilidade-funcional)
@@ -47,7 +48,9 @@ A representação visual, horizontal ou vertical, com as subopções abertas ou 
 
 Alcançar as opções e as subopções usando apenas um teclado ou usando apenas um rato está relacionado com o uso de manipulares de eventos de javascript independentes (do tipo `onfocus` e `onblur`) ou então redundantes, próprios para o rato (tipo `onmouseover`) ou para o teclado (`onkeypress`).
 
-## Requisitos a cumprir
+## Critérios de Sucesso WCAG 2.1 aplicáveis
+
+## Aspetos críticos selecionados
 
 ### 1.1 O menu de navegação está estruturado como uma lista de opções e subopções
 
@@ -62,7 +65,7 @@ Deve ser possível percorrer a estrutura de navegação quer com um dispositivo 
 Quando as imagens-link dispõem de um equivalente alternativo em texto, também designado tecnicamente de nome acessível, permitem que os mecanismos de navegação sejam utilizados de múltiplas formas. Por exemplo, para quem não vê podem transformar-se em texto. Para quem não consegue controlar um rato ou  teclado podem ser ativados através de reconhecimento de fala.
 
 
-## Avaliação
+## Como verificar os requisitos da Checklist "10 aspetos críticos de acessibilidade funcional"](#)
 
 ### Procedimento de teste
 
@@ -106,7 +109,7 @@ Outra possibilidade é usar um leitor de ecrã como é o caso do NVDA (opensourc
 ## Checklist
 
 <table>
-<caption>O que verificar no <strong>menu de navegação principal</strong></caption>
+<caption>O que verificar nos <strong>menu de navegação principal</strong></caption>
  <tr>
   <th align="left">verifique se:</th>
   <th>sim</th>
