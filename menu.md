@@ -5,9 +5,9 @@ voltar ao [sumário](README.md)
 conteúdo do capítulo:
 
 - [Introdução](#Introdução)
-- [Racional do ponto de verificação](#racional-do-ponto-de-verificação)
+- [Porque é este aspeto crítico importante?](#)
 <!-- - [Critérios de Sucesso WCAG 2.1 aplicáveis](#) -->
-- [Aspetos críticos selecionados](#)
+- [Requisitos selecionados para verificar](#)
 - [Como verificar os requisitos da Checklist "10 aspetos críticos de acessibilidade funcional"](#)
   - [Procedimento de teste](#Procedimento-de-teste)
   - [Ferramentas de validação](#ferramentas-de-validação)
