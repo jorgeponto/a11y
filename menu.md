@@ -5,7 +5,7 @@ voltar ao [sumário](README.md)
 conteúdo do capítulo:
 
 - [Introdução](#Introdução)
-- [Porque é este aspeto crítico importante?](#)
+- [Porque é este aspeto considerado crítico?](#)
 <!-- - [Critérios de Sucesso WCAG 2.1 aplicáveis](#) -->
 - [Requisitos selecionados para verificar](#)
 - [Como verificar os requisitos da Checklist "10 aspetos críticos de acessibilidade funcional"](#)
@@ -19,7 +19,9 @@ conteúdo do capítulo:
 
 O menu principal de um sítio Web é, por regra, o mecanismo de entrada, ou passagem, para as partes mais importantes do sítio Web. Não conseguir aceder, entender ou manusear o menu principal é uma barreira à entrada e à utilização do sítio Web. Ele é a génese do princípio do descalabro e da insatisfação que leva o utilizador a procurar uma estratégia alternativa de navegação - um motor de pesquisa no sítio, por exemplo - ou mesmo, a procurar soluções fora do sítio Web.
 
-## Racional do ponto de verificação
+**Nota:** *dos 3 requisitos selecionados, o requisito 1.3 aplica-se na generalidade a qualquer mecanismo de navegação existente na página. Os outros 2 estão circunscritos ao menu principal do sítio Web.*
+
+## Porque é este aspeto considerado crítico?
 
 Um menu é, em termos estruturais, uma lista de opções. Quando o número de elementos a disponibilizar é grande, por questões de facilidade de leitura e maquetização espacial, organizam-se esses mesmos elementos em opções e subopões - na [Checklist "Conteúdo" do selo de Usabilidade e Acessibilidade recomenda-se mesmo que o menu e os submenus não tenham mais do que 9 opções](#).
 
