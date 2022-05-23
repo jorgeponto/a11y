@@ -1,6 +1,6 @@
 voltar ao [sumário](README.md)
 
-<h1>1. Menus de navegação</h1>
+<h1>1. Menu principal</h1>
 
 conteúdo do capítulo:
 
